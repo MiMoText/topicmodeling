@@ -43,7 +43,7 @@ Please install the following:
        - **passes**: number of iterations 
 
 * the splitted texts are saved in datasets/roman18-test/txt
-* the preprocessed texts are saved as lists of lemmas in results/[name of datasaet]/pickles
-* the model is saved in results/[name of datasaet]/model
-* in results/[name of datasaet]/ you also find statistical files and a file "visualization.html"
+* the preprocessed texts are saved as lists of lemmas in results/[name of dataset]/pickles
+* the model is saved in results/[name of dataset]/model
+* in results/[name of dataset]/ you also find statistical files and a file "visualization.html"
 
