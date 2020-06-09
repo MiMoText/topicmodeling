@@ -47,5 +47,8 @@ et
 Madame
 Monsieur
 Mademoiselle
-
+pouvoir
+devoir
+falloir
+vouloir
 
