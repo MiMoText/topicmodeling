@@ -44,5 +44,8 @@ très
 rien
 si
 et
+Madame
+Monsieur
+Mademoiselle
 
 
