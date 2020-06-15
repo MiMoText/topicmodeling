@@ -11,4 +11,10 @@
 ### rom18-test_presto
 * POS-Tagging mit dem Sprachmodell presto für frz. Texte des 16. und 17. Jh. 
 
+### pilot_mod200_fr_10_500
+* Pilotkorpus (15 Romane)
+* teilmodernisiert (200 häufigste Fehler)
+* POS-Tagging mit dem frz. Modell von TreeTagger
+* 10 topics und 500 Iterationen
+
 ## Mit der Datei visualization.html lassen sich die Topics im Browser visualisieren

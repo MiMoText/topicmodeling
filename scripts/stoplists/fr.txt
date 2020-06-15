@@ -45,8 +45,11 @@ rien
 si
 et
 Madame
+madame
 Monsieur
+monsieur
 Mademoiselle
+mademoiselle
 pouvoir
 devoir
 falloir
