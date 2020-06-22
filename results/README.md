@@ -17,4 +17,11 @@
 * POS-Tagging mit dem frz. Modell von TreeTagger
 * 10 topics und 500 Iterationen
 
+### pilot_mod200_fr_10_500_expStop
+* Pilotkorpus (15 Romane)
+* teilmodernisiert (200 häufigste Fehler)
+* POS-Tagging mit dem frz. Modell von TreeTagger
+* 10 topics und 500 Iterationen
+* erweiterte Stopwortliste
+
 ## Mit der Datei visualization.html lassen sich die Topics im Browser visualisieren
