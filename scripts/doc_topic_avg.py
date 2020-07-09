@@ -59,7 +59,7 @@ def make_avgmatrix(mastermatrix):
         for ind in mastermatrix.index:
             id = mastermatrix['id'][ind]
             id = re.sub(r'(_[a-zA-Z0-9]*(\[\d?\])?)(_\d{3}\.txt)', r'\1', id)
-            score_add = mastermatrix[column][ind] # Achtung: Spalte muss auch noch gewechselt werden
+            score_add = mastermatrix[column][ind] 
             if ind == 0:   # Sonderfall: erste Zeile
                 id_prev = id
                 score = score_add
