@@ -56,8 +56,8 @@ passes = 500
 def main(workdir, dataset, identifier, lang, metadatafile_full, metadatafile_split, stoplistfile, chunksize, numtopics):
     print("==", "starting", "==", "\n==", helpers.get_time(), "==")
     helpers.make_dirs(workdir, identifier)
-    roman18_split.main(workdir, dataset, metadatafile_full, metadatafile_split, chunksize)
-    roman18_preprocessing.main(workdir, dataset, identifier, lang, stoplistfile)
+    split.main(workdir, dataset, metadatafile_full, metadatafile_split, chunksize)
+    preprocessing.main(workdir, dataset, identifier, lang, stoplistfile)
     build_corpus.main(workdir, identifier)
     modeling.main(workdir, identifier, numtopics, passes)
     postprocessing.main(workdir, dataset, identifier, numtopics)
