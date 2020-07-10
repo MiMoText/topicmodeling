@@ -8,7 +8,8 @@ It creates a list of words with top probability for each topic.
 It creates a list of word probabilities in each topic. 
 And it creates a matrix of topic probabilities by document in the corpus. 
 Also, it creates a so-called mastermatrix
-that combines the metadata with the topic scores per document.
+that combines the metadata with the topic scores per document chunk.
+The average topic scores per document are written into a separate list.
 
 See: https://pandas.pydata.org/
 
@@ -18,6 +19,7 @@ See: https://pandas.pydata.org/
 
 from os.path import join
 import pandas as pd
+import re
 import helpers
 
 
@@ -99,6 +101,7 @@ def load_doc_topic_matrix(dtmatrixfile):
     """
     with open(dtmatrixfile, "r", encoding="utf8") as infile:
         dtmatrix = pd.read_csv(infile, sep="\t", index_col="Unnamed: 0")
+        #print(dtmatrix)
         return dtmatrix
 
 
@@ -128,7 +131,69 @@ def make_mastermatrix(workdir, dataset, identifier):
     mastermatrix = merge_matrices(metadata, dtmatrix)
     mastermatrixfile = join(workdir, "results", identifier, "mastermatrix.csv")
     save_mastermatrix(mastermatrix, mastermatrixfile)
+    return mastermatrix
 
+
+def make_avgmatrix(mastermatrix, numtopics):
+    """
+    Takes the mastermatrix as DataFrame,
+    calculates the average probability per novel and topic
+    and writes it into a new DataFrame.
+    """
+    
+    id_list = []
+    for ind in mastermatrix.index:
+        id = mastermatrix['id'][ind]
+        if id not in id_list:
+            id_list.append(id)
+    
+    
+    df_avg = pd.DataFrame(columns=[i for i in range(0,numtopics)])
+    df_avg.insert(0, 'id', [id for id in id_list])
+    
+
+    for column in range(0,numtopics):
+        column = str(column)
+        id_prev = ""
+        counter = 0
+        score = 0
+        for ind in mastermatrix.index:
+            id = mastermatrix['id'][ind]
+            score_add = mastermatrix[column][ind] 
+            if ind == 0:   # Sonderfall: erste Zeile
+                id_prev = id
+                score = score_add
+                counter +=1
+                
+            elif ind == mastermatrix.index[-1] or id != id_prev:  # Sonderfall: letzte Zeile oder neue ID
+                avg = str(score / counter)    # Durchschnitt des Topicscore berechnen
+                key = df_avg[df_avg['id'] == id_prev].index.item()
+                df_avg.loc[key][int(column)] = avg
+                
+                id_prev = id
+                score = score_add
+                counter = 1
+                
+            else:  #id == id_prev:
+                score = score + score_add
+                counter +=1
+
+    return df_avg
+
+def save_avgmatrix(df_avg, avgmatrixfile):
+    """
+    Saves DataFrame to CSV.
+
+    """
+    df_avg.to_csv(avgmatrixfile, sep='\t', encoding="utf-8")
+
+
+def make_doc_topic_avg(mastermatrix, numtopics, workdir, identifier):
+    print("make_doc_topic_avg")
+    df_avg = make_avgmatrix(mastermatrix, numtopics)
+    avgmatrixfile = join(workdir, "results", identifier, "avgtopics.csv")
+    save_avgmatrix(df_avg, avgmatrixfile)
+    
 
 # == Coordinating function ==
 
@@ -140,5 +205,6 @@ def main(workdir, dataset, identifier, numtopics):
     get_topics(model, numtopics, resultsfolder)
     get_topicwords(model, numtopics, resultsfolder)
     get_doc_topic_matrix(vectorcorpus, model, resultsfolder)
-    make_mastermatrix(workdir, dataset, identifier)
+    mastermatrix = make_mastermatrix(workdir, dataset, identifier)
+    make_doc_topic_avg(mastermatrix, numtopics, workdir, identifier)
     print("==", helpers.get_time(), "done postprocessing", "==")   
