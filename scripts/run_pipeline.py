@@ -8,6 +8,7 @@ It allows you to set the pipeline parameters.
 It allows you to determine which components will be run. 
 
 Calling:
+- extract_metadata: extracting metadata from the overall metadata file
 - split_texts: splitting novel files into smaller chunks of text
 - roman18_preprocessing: lemmatizing, POS-tagging and filtering
 - build_corpus
@@ -24,6 +25,7 @@ To be continued.
 from os.path import join
 
 import helpers
+import extract_metadata
 import roman18_split
 import roman18_preprocessing
 import build_corpus
@@ -39,6 +41,7 @@ workdir = ".."
 dataset = "pilot"             
 identifier = "pilot_mod200_fr_10_500_newstop"
 
+metadata_roman18 = "roman18.csv"
 metadatafile_full = join(workdir, "datasets", dataset, "metadata-full.csv")
 metadatafile_split = join(workdir, "datasets", dataset, "metadata.csv")
 stoplistfile = "fr.txt"
@@ -55,6 +58,7 @@ passes = 500
 
 def main(workdir, dataset, identifier, lang, metadatafile_full, metadatafile_split, stoplistfile, chunksize, numtopics):
     print("==", "starting", "==", "\n==", helpers.get_time(), "==")
+    extract_metadata.main(workdir, dataset, metadata_roman18)
     helpers.make_dirs(workdir, identifier)
     split.main(workdir, dataset, metadatafile_full, metadatafile_split, chunksize)
     preprocessing.main(workdir, dataset, identifier, lang, stoplistfile)
