@@ -21,10 +21,10 @@ Please install the following:
 * Some additional libraries (with their respective dependencies): 
     * "numpy", see: https://www.numpy.org/
     * "pandas", see: https://pandas.pydata.org/
-    * treetaggerwrapper, see: https://pypi.org/project/treetaggerwrapper/
+    * "treetaggerwrapper", see: https://pypi.org/project/treetaggerwrapper/
     * "gensim", see: https://radimrehurek.com/gensim/install.html
     * "pyLDAvis", see: https://github.com/bmabey/pyLDAvis
-    * 
+     
 * TreeTagger, see https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
   * Please note: Follow the installation instructions given here; consider the differences between the different operating systems. It isn't necessary to download any language parameter files. They are already included in this folder.
     
