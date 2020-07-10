@@ -5,6 +5,9 @@ Topic Modeling with gensim: Split text in segments.
 The Size of chunks is controlled by the parameter chunksize (modify in roman18_run.py).
 Last chunks that are smaller than 500 words are eliminated.
 
+It also creates a metadata list combining the metadata with the
+corresponding text chunks.
+
 """
 
 
@@ -37,12 +40,15 @@ def load_metadata(metadatafile):
     Provides it as a pandas DataFrame.
     """
     with open(metadatafile, "r", encoding="utf8") as infile:
-        metadata = pd.read_csv(infile, sep=";")
+        metadata = pd.read_csv(infile, sep=",")
         return metadata
 
 
 
-def split_text(text, chunksize): 
+def split_text(text, chunksize):
+    """
+    Takes text string and splits it into chunks.
+    """
     text = re.split("\W+", text)
     num_chunks = len(text) // chunksize
     chunks = [text[i:i + chunksize] for i in range(0, len(text), chunksize)]
@@ -52,7 +58,7 @@ def split_text(text, chunksize):
     
     
 
-def save_chunks(workdir, dataset, chunks, textid): 
+def save_chunks(workdir, dataset, chunks, textid):
     counter = 0
     filenames = []
     for chunk in chunks: 
@@ -67,13 +73,41 @@ def save_chunks(workdir, dataset, chunks, textid):
         filenames.append(filename)
         counter +=1
     return filenames
+
+
+def create_df_metadata(allfilenames, metadata):
+    """
+    Creates a dataframe in which the metadata information is assigned to the individual text chunks.
+    """
+    df_split = pd.DataFrame(columns=['filename', 'id', 'author', 'year', 'narration'])
+
+    for filename in allfilenames:
+        textid = basename(filename).split(".")[0]
+        textid = re.sub(r'(_[a-zA-Z0-9]*(\[\d?\])?)(_\d{3})', r'\1', textid)  #RegEx ohne [1] hinter IDs: r'(_[a-zA-Z0-9]*(_\d{3})'
+
+        key = metadata[metadata['id'] == textid].index.item()
         
+        author = metadata.loc[key, 'author']
+        
+        try:
+            year = str(metadata.loc[key, 'year'])
+            year = year[:4]
+        except:
+            year = metadata.loc[key, 'year']
+            
+        narration = metadata.loc[key, 'narration']
+
+        df_split = df_split.append({'filename': filename, 'id': textid, 'author': author, 'year': year, 'narration': narration}, ignore_index=True)
+    
+    return df_split
             
 
-def write_metadata(allfilenames, metadatafile_split):
-    allfilenames = pd.Series(allfilenames)
-    with open(metadatafile_split, "w", encoding="utf8") as outfile: 
-        allfilenames.to_csv(outfile, sep=";")
+def write_metadata(df_split, metadatafile_split):
+    """
+    Saves the dataframe to a CSV file.
+    """
+    df_split.to_csv(metadatafile_split, sep='\t', columns=['filename', 'id', 'author', 'year', 'narration'], encoding="utf-8")
+
 
 
 
@@ -91,11 +125,9 @@ def main(workdir, dataset, metadatafile_full, metadatafile_split, chunksize):
         chunks = split_text(text, chunksize)
         filenames = save_chunks(workdir, dataset, chunks, textid)
         allfilenames.extend(filenames)
-    write_metadata(allfilenames, metadatafile_split)
+    df_split = create_df_metadata(allfilenames, metadata)
+    write_metadata(df_split, metadatafile_split)
         
         
     print("== done splitting texts ==")
                        
-
-
-
