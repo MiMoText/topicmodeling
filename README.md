@@ -35,7 +35,7 @@ Please install the following:
 * Please make sure you have installed Python 3, TreeTagger and the desired libraries.
 * Download and save this repository. 
 * Now you can run the scripts. 
-* Run roman18_run.py. 
+* Run run_pipeline.py. 
     * It calls all required scripts in the correct order.
     * You can change the following parameters:
        - **chunksize**: size of text parts (number of tokens) into which the novels are split
