@@ -50,7 +50,6 @@ chunksize = 1000
 lang = "fr"   # possible values: "fr" (standard French); "presto" (French of the 16th and 17th century)
 numtopics = 10 
 passes = 500
-cats = [["id", "author", "year"],["narration"]]  # metadata categories: exclude,include
 
 # == Coordinating function ==
 
