@@ -11,6 +11,7 @@ The pipeline is based on the following set of scripts by Christof Schöch: https
 * Modeling with gensim
 * Postprocessing: statistics (different lists and matrices)
 * Visualizing via pyLDAvis
+* Generating heatmaps
 
 ## How to
 
@@ -25,6 +26,7 @@ Please install the following:
     * "treetaggerwrapper", see: https://pypi.org/project/treetaggerwrapper/
     * "gensim", see: https://radimrehurek.com/gensim/install.html
     * "pyLDAvis", see: https://github.com/bmabey/pyLDAvis
+	* "seaborn", see: https://seaborn.pydata.org/
      
 * TreeTagger, see https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
   * Please note: Follow the installation instructions given here; consider the differences between the different operating systems. It isn't necessary to download any language parameter files. They are already included in this folder.
@@ -46,5 +48,5 @@ Please install the following:
 * the splitted texts are saved in datasets/roman18-test/txt
 * the preprocessed texts are saved as lists of lemmas in results/[name of dataset]/pickles
 * the model is saved in results/[name of dataset]/model
-* in results/[name of dataset]/ you also find statistical files and a file "visualization.html"
+* in results/[name of dataset]/ you also find statistical files, a file "visualization.html" and the heatmap visualizations
 

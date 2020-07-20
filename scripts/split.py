@@ -79,7 +79,7 @@ def create_df_metadata(allfilenames, metadata):
     """
     Creates a dataframe in which the metadata information is assigned to the individual text chunks.
     """
-    df_split = pd.DataFrame(columns=['filename', 'id', 'author', 'year', 'narration'])
+    df_split = pd.DataFrame(columns=['filename', 'id', 'author', 'decade', 'gender', 'narration'])
 
     for filename in allfilenames:
         textid = basename(filename).split(".")[0]
@@ -89,15 +89,13 @@ def create_df_metadata(allfilenames, metadata):
         
         author = metadata.loc[key, 'author']
         
-        try:
-            year = str(metadata.loc[key, 'year'])
-            year = year[:4]
-        except:
-            year = metadata.loc[key, 'year']
+        decade = metadata.loc[key, 'decade']
+            
+        gender = metadata.loc[key, 'gender']
             
         narration = metadata.loc[key, 'narration']
 
-        df_split = df_split.append({'filename': filename, 'id': textid, 'author': author, 'year': year, 'narration': narration}, ignore_index=True)
+        df_split = df_split.append({'filename': filename, 'id': textid, 'author': author, 'decade': decade, 'gender': gender, 'narration': narration}, ignore_index=True)
     
     return df_split
             
@@ -106,7 +104,7 @@ def write_metadata(df_split, metadatafile_split):
     """
     Saves the dataframe to a CSV file.
     """
-    df_split.to_csv(metadatafile_split, sep='\t', columns=['filename', 'id', 'author', 'year', 'narration'], encoding="utf-8")
+    df_split.to_csv(metadatafile_split, sep='\t', columns=['filename', 'id', 'author', 'decade', 'gender', 'narration'], encoding="utf-8")
 
 
 

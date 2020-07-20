@@ -15,6 +15,7 @@ Calling:
 - modeling
 - postprocessing
 - make_overview
+- make_heatmap
 To be continued.
 """
 
@@ -53,6 +54,7 @@ chunksize = 1000
 lang = "fr"   # possible values: "fr" (standard French); "presto" (French of the 16th and 17th century)
 numtopics = 10 
 passes = 500
+cats = [["id", "author", "narration", "decade"],["gender"]]  # metadata categories: exclude,include
 
 # == Coordinating function ==
 
@@ -66,6 +68,7 @@ def main(workdir, dataset, identifier, lang, metadatafile_full, metadatafile_spl
     modeling.main(workdir, identifier, numtopics, passes)
     postprocessing.main(workdir, dataset, identifier, numtopics)
     make_overview.main(workdir, identifier)
+    make_heatmap.main(workdir, identifier, cats)
     print("\n==", helpers.get_time(), "done", "==")
 
     
