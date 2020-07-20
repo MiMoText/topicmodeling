@@ -35,11 +35,6 @@ def load_mastermatrix(mastermatrixfile):
         except: 
             print("nothing to delete here.")
         mastermatrix = mastermatrix.fillna("NaN")
-#         try:
-#             matermatrix = mastermatrix['year'].apply(int)
-#         except:
-#             pass
-        #print(mastermatrix.head())
         return mastermatrix
 
 
