@@ -44,6 +44,7 @@ Please install the following:
        - **lang**: language parameter to choose the model for POS-tagging; choose "fr" for modern French and "presto" for French of 16th/17th century.
        - **numtopics**: number of topics created by the modeling
        - **passes**: number of iterations 
+	   - **cats**: category for which the most distinctive topics are visualized in heatmap
 
 * the splitted texts are saved in datasets/roman18-test/txt
 * the preprocessed texts are saved as lists of lemmas in results/[name of dataset]/pickles

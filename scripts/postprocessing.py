@@ -139,6 +139,7 @@ def make_avgmatrix(mastermatrix, numtopics):
     Takes the mastermatrix as DataFrame,
     calculates the average probability per novel and topic
     and writes it into a new DataFrame.
+    Calculates the average probabilty per topic (respective to whole corpus).
     """
     
     id_list = []
@@ -151,7 +152,7 @@ def make_avgmatrix(mastermatrix, numtopics):
     df_avg = pd.DataFrame(columns=[i for i in range(0,numtopics)])
     df_avg.insert(0, 'id', [id for id in id_list])
     
-
+    
     for column in range(0,numtopics):
         column = str(column)
         id_prev = ""
@@ -160,15 +161,16 @@ def make_avgmatrix(mastermatrix, numtopics):
         for ind in mastermatrix.index:
             id = mastermatrix['id'][ind]
             score_add = mastermatrix[column][ind] 
+            
             if ind == 0:   # Sonderfall: erste Zeile
                 id_prev = id
                 score = score_add
                 counter +=1
                 
             elif ind == mastermatrix.index[-1] or id != id_prev:  # Sonderfall: letzte Zeile oder neue ID
-                avg = str(score / counter)    # Durchschnitt des Topicscore berechnen
+                avg = str(score / counter)   # Durchschnitt des Topicscore berechnen
                 key = df_avg[df_avg['id'] == id_prev].index.item()
-                df_avg.loc[key][int(column)] = avg
+                df_avg.loc[key][int(column)] = float(avg)
                 
                 id_prev = id
                 score = score_add
@@ -177,8 +179,18 @@ def make_avgmatrix(mastermatrix, numtopics):
             else:  #id == id_prev:
                 score = score + score_add
                 counter +=1
+        
+    # Spaltensummen:
+    sum_row = {'id': "Total"}
+    
+    for column in range(0,numtopics):
+        total = df_avg[int(column)].sum()
+        sum_row.update({(column) : (total/len(id_list))})
+        
+    df_avg = df_avg.append(sum_row, ignore_index=True)
 
     return df_avg
+
 
 def save_avgmatrix(df_avg, avgmatrixfile):
     """
