@@ -55,6 +55,9 @@ devoir
 falloir
 vouloir
 dire
+aller
+bien
+tout
 il
 mais
 lorsque
