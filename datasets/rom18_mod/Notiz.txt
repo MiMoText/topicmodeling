@@ -1,0 +1,20 @@
+Diderot_Bijoux nicht in roman18 Übersicht enthalten; Notiz bei Pilotromanen: Nicht in der Bibliographie enthalten, da nicht 1750-1800 erschienen
+
+Diderot_Supplement[1] nicht in roman18 Übersicht enthalten; -> da nicht im Zeitraum?
+
+Lesage_Histoire[1] nicht in roman18 Übersicht enthalten; -> da nicht im Zeitraum?
+
+
+
+Reveroni_Pauliska  noch als Reveroni_Pauliska1 und Reveroni_Pauliska2 in roman18 Übersicht  [Zusammenfassung der Bände offenbar noch nicht erfolgt]
+
+Rousseau_Julie -> Bände noch nicht zusammengefasst
+
+Sade_Aline -> ""
+
+Sade_Philosophie -> ""
+
+
+
+
+Diderot_Bijoux; Diderot_Supplement[1]; Lesage_Histoire[1] bei Dateien, aber nicht in Metadatentabelle (roman18 Übersicht)
