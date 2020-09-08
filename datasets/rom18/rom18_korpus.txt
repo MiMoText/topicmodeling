@@ -1,7 +1,0 @@
-Anmerkungen zu rom18:
-
-Texte Stand 30.6. im Ordner TEI-XML
-
-Bei Diskrepanzen mit Google-Tabelle "roman18: Übersicht" Metadaten zu jeweiligen Romanen händisch ergänzt; 
-
-gelöscht, da Duplikat: Bernadin_Paul[1]
