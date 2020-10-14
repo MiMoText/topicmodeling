@@ -4,29 +4,29 @@ The label candidates are passed as a list in a TXT file.
 The topics with their corresponding words are passed as CSV file, which was generated as output during topic modeling.
 A pre-trained Word2Vec model is used, which was trained on French Wikipedia texts.
 
-Using python library word2vec: https://pypi.org/project/word2vec/
+Using python library gensim: https://radimrehurek.com/gensim/models/word2vec.html
 '''
 
 #==============
 # Imports 
 #==============
 
-import word2vec
+from gensim.models import KeyedVectors
 import pandas as pd
 import numpy as np
-import re
 from scipy.spatial import distance
+import re
 
 
 #=======================
 # File paths
 #=======================
 
-txtfile = 'DEL.txt'   # list with potential labels
+txtfile = 'Schnittmenge_DEL_Grundwortschatz.txt'   # list with potential labels
 modelfile = 'frWiki_no_phrase_no_postag_500_cbow_cut10.bin'  #word2vec model
 topicfile = r'C:\Users\Anne\Documents\Arbeit\MiMoText\Topic Modeling\results\rom18_20t_2000i_200opt\topicwords.csv'  
-resultfile = "labels_20t_20w_frWiki_500_cbow.csv"
-
+#resultfile = "DEL_kompl_20t_20w_frWiki_500_cbow.csv"
+resultfile = "testtest.csv"
 
 #=======================
 # Parameters
@@ -44,8 +44,9 @@ def load_model(modelfile):
     '''
     Load Word2Vec-Model.
     '''
-    model = word2vec.load(modelfile)
+    model = KeyedVectors.load_word2vec_format(modelfile, binary=True, unicode_errors="ignore")
     return model
+
 
 def term2list(txtfile, model):
     '''
@@ -108,7 +109,7 @@ def get_topics(topicfile, numtopics, numwords):
 
 def get_topic_vectors(topic_dict, model):
     '''
-    For each topic a topic vector is calculated by taking the average of all word vectors of a topic.
+    For each topic a topic vector (topic centroid) is calculated by taking the average of all word vectors of a topic.
     Words of a topic for which the model does not contain a vector are ignored.
     These words are displayed in the shell.
     '''
@@ -120,7 +121,7 @@ def get_topic_vectors(topic_dict, model):
         for word in topic_dict[topic]:
             # turn œ to oe:
             word = re.sub(r'œ', r'oe', word)
-            word = re.sub(r'aurois', r'aurais', word)
+            word = re.sub(r'aurois', r'avoir', word)
             word = re.sub(r'berger\|bergère', r'berger', word)
             try:
                 word_v = model[word]
@@ -129,9 +130,9 @@ def get_topic_vectors(topic_dict, model):
                 no_vector_dict[topic] = word
         
         word_arrays = np.vstack(array_tuple)  # convert Tuple to Array
-        topic_v = np.mean(word_arrays, axis = 0) # topic vector = average vector of a topic
-        topic_vector_dict[topic] = topic_v
-        
+        topic_centroid = np.mean(word_arrays, axis = 0) # topic centroid = average vector of a topic
+        topic_vector_dict[topic] = topic_centroid
+    
     print("words with no vector in model:  ")
     print(no_vector_dict)
     
@@ -139,7 +140,7 @@ def get_topic_vectors(topic_dict, model):
 
 
 
-def get_topic_label_distances(topic_vector_dict, term_dict):
+def get_topic_label_distances(topic_vector_dict, term_dict, model):
     '''
     Takes the topic vectors and vectors of the label candidates and calculates the cosine distances for each topic.
     '''
@@ -222,7 +223,7 @@ def main(txtfile, modelfile, numtopics, numwords, resultfile):
     term_dict = make_term_dict(model, terms)
     topic_dict = get_topics(topicfile, numtopics, numwords)
     topic_vector_dict = get_topic_vectors(topic_dict, model)
-    topic_distance_dict = get_topic_label_distances(topic_vector_dict, term_dict)
+    topic_distance_dict = get_topic_label_distances(topic_vector_dict, term_dict, model)
     dict_top_labels = get_top_labels(topic_distance_dict)
     make_csv(numtopics, topic_dict, dict_top_labels, resultfile)
 
