@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Doing Topic Modeling on Eighteenth-Century French Novels with gensim in the context of MiMoText:
+Doing Topic Modeling on Eighteenth-Century French Novels with gensim and mallet in the context of MiMoText:
 
 Extracting metadata of the texts in the corpus and saving as CSV file.
 
@@ -20,14 +20,15 @@ import pandas as pd
 
 # == Functions ==
 
-def load_metadata(metadata_roman18):
+def load_metadata(paths):
     """
     Loads the metadata file from disk.
     Provides it as a pandas DataFrame.
     """
-    with open(metadata_roman18, "r", encoding="utf8") as infile:
+    with open(paths["metadata_roman18"], "r", encoding="utf8") as infile:
         metadata = pd.read_csv(infile, sep="\t")
         return metadata
+    
     
 def create_df():
     """
@@ -41,7 +42,7 @@ def create_df():
 def get_metadata(metadata_full, metadata, textid):
     """
     Extracts information from the metadata overview
-    and writes it into the DataFrame.
+    and writes it into the pandas DataFrame.
     """
     author = textid.split('_')[0]
     textid = re.sub(r'\[1\]', r'', textid)
@@ -63,10 +64,12 @@ def get_metadata(metadata_full, metadata, textid):
     return metadata_full
 
 
-def main(workdir, dataset, metadata_roman18):
+def main(paths):
     print("extract_metadata")
+    workdir = paths["workdir"]
+    dataset = paths["dataset"]
     textpath = join(workdir, "datasets", dataset, "full", "*.txt")
-    metadata = load_metadata(metadata_roman18)
+    metadata = load_metadata(paths)
     metadata_full = create_df()
     for textfile in sorted(glob.glob(textpath)):
         textid = basename(textfile).split(".")[0]

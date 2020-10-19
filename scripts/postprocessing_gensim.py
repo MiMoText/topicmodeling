@@ -133,6 +133,7 @@ def make_mastermatrix(workdir, dataset, identifier):
     save_mastermatrix(mastermatrix, mastermatrixfile)
     return mastermatrix
 
+# == Functions: make average matrix ==
 
 def make_avgmatrix(mastermatrix, numtopics):
     """
@@ -191,7 +192,6 @@ def make_avgmatrix(mastermatrix, numtopics):
 
     return df_avg
 
-
 def save_avgmatrix(df_avg, avgmatrixfile):
     """
     Saves DataFrame to CSV.
@@ -206,17 +206,65 @@ def make_doc_topic_avg(mastermatrix, numtopics, workdir, identifier):
     avgmatrixfile = join(workdir, "results", identifier, "avgtopics.csv")
     save_avgmatrix(df_avg, avgmatrixfile)
     
+# == Functions: rank topics ==
+
+def get_ranking(df_avg, numtopics):
+    '''
+    Takes work-topic distribution.
+    For each work takes the top-10 most relevant topics.
+    Provides it a pandas Dictionary.
+    '''
+    work_ranked_topics = {}
+    topics = [i for i in range(0,numtopics)]
+    for index, row in df_avg.iterrows():
+        id = row['id']
+        probs = []
+        for topic in topics:
+            probs.append(row[str(topic)])
+        work_ranked_topics[id] = sorted(zip(probs, topics), reverse=True)[:10] # top-10 topics are ranked
+    
+    return work_ranked_topics # dictionary with works and ranked topics
+
+
+def save_ranking(work_ranked_topics):
+    '''
+    Saves the topic ranking to disk as a CSV file.
+    '''
+    df_ranking = pd.DataFrame()
+    df_ranking['id'] = work_ranked_topics.keys()
+    
+    ranked_topics = []
+    for work in work_ranked_topics:
+        ranked_topics.append(work_ranked_topics[work])
+    df_ranking['Ranked topics'] = ranked_topics
+
+    resultfile = join(workdir, "results", identifier, "topicranking.csv")
+
+    with open(resultfile, "w", encoding="utf8") as outfile: 
+        df_ranking.to_csv(outfile, sep="\t")
+
+
+def rank_topics(df_avg, numtopics):
+    print("rank topics")
+    work_ranked_topics = get_ranking(df_avg, numtopics)
+    save_ranking(work_ranked_topics)
+
 
 # == Coordinating function ==
 
-def main(workdir, dataset, identifier, numtopics):
+def main(paths, params):
     print("\n== postprocessing ==")
-    model = helpers.load_model(workdir, identifier)
-    vectorcorpus = helpers.load_pickle(workdir, identifier, "vectorcorpus.pickle")
+    workdir = paths["workdir"]
+    identifier = paths["identifier"]
+    dataset = paths["dataset"]
+    numtopics = params["numtopics"]
+    model = helpers.load_model(paths)
+    vectorcorpus = helpers.load_pickle(paths, "vectorcorpus.pickle")
     resultsfolder = join(workdir, "results", identifier)
     get_topics(model, numtopics, resultsfolder)
     get_topicwords(model, numtopics, resultsfolder)
     get_doc_topic_matrix(vectorcorpus, model, resultsfolder)
     mastermatrix = make_mastermatrix(workdir, dataset, identifier)
-    make_doc_topic_avg(mastermatrix, numtopics, workdir, identifier)
+    df_avg = make_doc_topic_avg(mastermatrix, numtopics, workdir, identifier)
+    rank_topics(df_avg, numtopics)
     print("==", helpers.get_time(), "done postprocessing", "==")   

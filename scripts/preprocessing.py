@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Doing Topic Modeling on Eighteenth-Century French Novels with gensim in the context of MiMoText:
+Doing Topic Modeling on Eighteenth-Century French Novels with gensim and mallet in the context of MiMoText:
 
 Preprocessing.
 
@@ -40,13 +40,13 @@ def load_text(textfile):
         return text
     
     
-def load_stoplist(stoplistfile):
+def load_stoplist(paths):
     """
     Loads a language-specific list of stopwords from the stoplists folder.
     Returns a list of stopwords.
     """
     try:
-        slfile = join("stoplists", stoplistfile)
+        slfile = join("stoplists", paths["stoplistfile"])
         with open(slfile, "r", encoding="utf8") as infile:
             stoplist = infile.read().split("\n")
         return stoplist
@@ -57,7 +57,7 @@ def load_stoplist(stoplistfile):
         return stoplist
     
 
-def prepare_text(text, lang, stoplist):
+def prepare_text(text, params, stoplist):
     """
     Adds the linguistic annotation to the text: part of speech. 
     Uses the linguistic annotation to filter out certain tokens.
@@ -65,6 +65,7 @@ def prepare_text(text, lang, stoplist):
     Also uses a stoplist and a minimum word length criterion to further filter tokens.
     Returns the single text as a list of lower-cased lemmas.
     """
+    lang = params["lang"]
     if lang == "fr":  # treetagger laguage model for modern French
         tagger = ttw.TreeTagger(TAGLANG='fr') 
         text = tagger.tag_text(text)
@@ -91,21 +92,21 @@ def prepare_text(text, lang, stoplist):
 
 # == Coordinating function ==
 
-def main(workdir, dataset, identifier, lang, stoplistfile): 
+def main(paths, params): 
     print("\n== preprocessing ==")
     alltextids = []
     allprepared = []
-    stoplist = load_stoplist(stoplistfile)
-    textpath = join(workdir, "datasets", dataset, "txt", "*.txt")
+    stoplist = load_stoplist(paths)
+    textpath = join(paths["workdir"], "datasets", paths["dataset"], "txt", "*.txt")
     for textfile in sorted(glob.glob(textpath)):
         textid = basename(textfile).split(".")[0]
         print(textid)
         alltextids.append(textid)
         text = load_text(textfile)
-        prepared = prepare_text(text, lang, stoplist)
+        prepared = prepare_text(text, params, stoplist)
         print(prepared)
         allprepared.append(prepared)
-        helpers.save_pickle(allprepared, workdir, identifier, "allprepared.pickle")
+        helpers.save_pickle(allprepared, paths, "allprepared.pickle")
     print("files processed:", len(allprepared))
     print("==", helpers.get_time(), "done preprocessing", "==")   
     

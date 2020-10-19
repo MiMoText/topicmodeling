@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
 """
-Topic Modeling with gensim: Heatmap.
+Topic Modeling with gensim and mallet: Heatmap.
 
 Based on a split of the data by some metadata category, 
-provide a heatmap visualization of most distinctive topics for
+provides a heatmap visualization of most distinctive topics for
 each category.
 
 See: https://seaborn.pydata.org/
@@ -24,7 +24,7 @@ import matplotlib.pyplot as plt
 
 def load_mastermatrix(mastermatrixfile):
     """
-    Loads the mastermatrix generated in postprocessing.py. 
+    Loads the mastermatrix generated in postprocessing part.
     """
     with open(mastermatrixfile, "r", encoding="utf8") as infile:
         mastermatrix = pd.read_csv(infile, sep="\t")
@@ -74,8 +74,10 @@ def make_heatmap(data, heatmapfile, cats):
 
 # == Coordinating function ==
 
-def main(workdir, identifier, cats):
+def main(paths, cats):
     print("\n== make_heatmap ==")
+    workdir = paths["workdir"]
+    identifier = paths["identifier"]
     mastermatrixfile = join(workdir, "results", identifier, "mastermatrix.csv")
     mastermatrix = load_mastermatrix(mastermatrixfile)
     data = group_data(mastermatrix, cats)

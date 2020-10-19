@@ -22,8 +22,10 @@ def visualize_model(model, dictcorpus, vectorcorpus, vizfile):
     pyLDAvis.save_html(visualization, vizfile)
 
 
-def main(workdir, identifier):
+def main(paths):
     print("\n== visualize_model ==")
+    workdir = paths["workdir"]
+    identifier = paths["identifier"]
     model = helpers.load_model(workdir, identifier)
     vizfile = join(workdir, "results", identifier, "visualization.html")
     dictcorpus = helpers.load_pickle(workdir, identifier, "dictcorpus.pickle")

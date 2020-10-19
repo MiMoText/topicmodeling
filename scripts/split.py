@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 """
-Topic Modeling with gensim: Split text in segments.
-The Size of chunks is controlled by the parameter chunksize (modify in roman18_run.py).
-Last chunks that are smaller than 500 words are eliminated.
+Topic Modeling with gensim: Split text into segments.
+The Size of chunks is controlled by the parameter chunksize (modify in roman18_run_pipeline.py).
+Chunks that are smaller than 500 words are eliminated.
 
 It also creates a metadata list combining the metadata with the
 corresponding text chunks.
@@ -34,21 +34,22 @@ def load_text(textfile):
         return text
 
 
-def load_metadata(metadatafile):
+def load_metadata(paths):
     """
     Loads the metadata file from disk.
     Provides it as a pandas DataFrame.
     """
-    with open(metadatafile, "r", encoding="utf8") as infile:
+    with open(paths["metadatafile_full"], "r", encoding="utf8") as infile:
         metadata = pd.read_csv(infile, sep=",")
         return metadata
 
 
 
-def split_text(text, chunksize):
+def split_text(text, params):
     """
     Takes text string and splits it into chunks.
     """
+    chunksize = params["chunksize"]
     text = re.split("\W+", text)
     num_chunks = len(text) // chunksize
     chunks = [text[i:i + chunksize] for i in range(0, len(text), chunksize)]
@@ -77,7 +78,7 @@ def save_chunks(workdir, dataset, chunks, textid):
 
 def create_df_metadata(allfilenames, metadata):
     """
-    Creates a dataframe in which the metadata information is assigned to the individual text chunks.
+    Creates a pandas DataFrame in which the metadata information is assigned to the individual text chunks.
     """
     df_split = pd.DataFrame(columns=['filename', 'id', 'author', 'decade', 'gender', 'narration'])
 
@@ -100,32 +101,36 @@ def create_df_metadata(allfilenames, metadata):
     return df_split
             
 
-def write_metadata(df_split, metadatafile_split):
+def write_metadata(df_split, paths):
     """
-    Saves the dataframe to a CSV file.
+    Saves the DataFrame to a CSV file.
     """
-    df_split.to_csv(metadatafile_split, sep='\t', columns=['filename', 'id', 'author', 'decade', 'gender', 'narration'], encoding="utf-8")
+    df_split.to_csv(paths["metadatafile_split"], sep='\t', columns=['filename', 'id', 'author', 'decade', 'gender', 'narration'], encoding="utf-8")
 
 
 
 
 # == Coordinating function ==
 
-def main(workdir, dataset, metadatafile_full, metadatafile_split, chunksize): 
+def main(paths, params): 
     print("\n== splitting texts ==")
+    workdir = paths["workdir"]
+    dataset = paths["dataset"]
     allfilenames = []
     textpath = join(workdir, "datasets", dataset, "full", "*.txt")
-    metadata = load_metadata(metadatafile_full)
+    metadata = load_metadata(paths)
     for textfile in sorted(glob.glob(textpath)):
         textid = basename(textfile).split(".")[0]
         print(textid)
         text = load_text(textfile)
-        chunks = split_text(text, chunksize)
+        chunks = split_text(text, params)
         filenames = save_chunks(workdir, dataset, chunks, textid)
         allfilenames.extend(filenames)
     df_split = create_df_metadata(allfilenames, metadata)
-    write_metadata(df_split, metadatafile_split)
+    write_metadata(df_split, paths)
         
         
     print("== done splitting texts ==")
                        
+
+

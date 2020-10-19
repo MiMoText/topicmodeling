@@ -27,7 +27,7 @@ import helpers
 
 # == Functions ==
 
-def build_model(dictcorpus, vectorcorpus, numtopics, identifier, passes): 
+def build_model(dictcorpus, vectorcorpus, paths, params): 
     """
     Creates the actual topic model from the data. 
     Key parameters are number of topics (numtopics) 
@@ -37,16 +37,16 @@ def build_model(dictcorpus, vectorcorpus, numtopics, identifier, passes):
     """
     
     # path to mallet binary
-    mallet_path = r'C:\mallet-2.0.8\bin\mallet'
+    mallet_path = paths["mallet_path"]
 
     model = LdaMallet(
         mallet_path,
         corpus = vectorcorpus,
         id2word = dictcorpus,
-        num_topics = numtopics,
-        prefix = identifier,
-        optimize_interval = 200,  # hierdurch werden alpha und beta automatisch generiert
-        iterations = passes,
+        num_topics = params["numtopics"],
+        prefix = paths["identifier"],
+        optimize_interval = params["optimize_interval"],  # choosing an optimal interval alpha and beta are generated automatically
+        iterations = params["passes"],
         )
     
     return model
@@ -68,13 +68,15 @@ def move_output(workdir, identifier):
 
 # == Coordinating function ==
 
-def main(workdir, identifier, numtopics, passes):
+def main(paths, params):
     
     print("\n== modeling ==")
-    dictcorpus = helpers.load_pickle(workdir, identifier, "dictcorpus.pickle")
-    vectorcorpus = helpers.load_pickle(workdir, identifier, "vectorcorpus.pickle")
-    model = build_model(dictcorpus, vectorcorpus, numtopics, identifier, passes)
-    helpers.save_model(workdir, identifier, model)
+    workdir = paths["workdir"]
+    identifier = paths["identifier"]
+    dictcorpus = helpers.load_pickle(paths, "dictcorpus.pickle")
+    vectorcorpus = helpers.load_pickle(paths, "vectorcorpus.pickle")
+    model = build_model(dictcorpus, vectorcorpus, paths, params)
+    helpers.save_model(paths, model)
     move_output(workdir, identifier)
     print("==", helpers.get_time(), "done modeling", "==")   
     return model

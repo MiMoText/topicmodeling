@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 """
-Doing Topic Modeling on Eighteenth-Century French Novels with gensim in the context of MiMoText.
+Doing Topic Modeling on Eighteenth-Century French Novels with gensim and mallet in the context of MiMoText.
+Script for building the corpus for the following modelling step.
 
 """
 
@@ -25,11 +26,11 @@ def build_vectorcorpus(allprepared):
 
 
 
-def main(workdir, identifier):
+def main(paths):
     print("\n== text2corpus ==")
-    allprepared = helpers.load_pickle(workdir, identifier, "allprepared.pickle")
+    allprepared = helpers.load_pickle(paths, "allprepared.pickle")
     dictcorpus, vectorcorpus = build_vectorcorpus(allprepared)
-    helpers.save_pickle(dictcorpus, workdir, identifier, "dictcorpus.pickle")
-    helpers.save_pickle(vectorcorpus, workdir, identifier, "vectorcorpus.pickle")
+    helpers.save_pickle(dictcorpus, paths, "dictcorpus.pickle")
+    helpers.save_pickle(vectorcorpus, paths, "vectorcorpus.pickle")
     print("==", helpers.get_time(), "done building corpus", "==")   
 

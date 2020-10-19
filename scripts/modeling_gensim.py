@@ -22,7 +22,7 @@ import helpers
 
 # == Functions ==
 
-def build_model(dictcorpus, vectorcorpus, numtopics, passes): 
+def build_model(dictcorpus, vectorcorpus, params): 
     """
     Creates the actual topic model from the data. 
     Key parameters are number of topics (numtopics) 
@@ -32,11 +32,11 @@ def build_model(dictcorpus, vectorcorpus, numtopics, passes):
     model = models.ldamodel.LdaModel(
         corpus=vectorcorpus,
         id2word=dictcorpus,
-        num_topics=numtopics, 
+        num_topics=params["numtopics"], 
         #random_state=100,
-        update_every=1000,
-        chunksize=1000,
-        passes=passes,
+        update_every=1000,  # Number of documents to be iterated through for each update. Set to 0 for batch learning, > 1 for online iterative learning
+        chunksize=params["chunksize"],
+        passes=params["passes"],
         alpha='auto',
         eta='auto',
         #minimum_probability=0.01/numtopics,
@@ -46,12 +46,12 @@ def build_model(dictcorpus, vectorcorpus, numtopics, passes):
 
 # == Coordinating function ==
 
-def main(workdir, identifier, numtopics, passes):
+def main(paths, params):
     print("\n== modeling ==")
-    dictcorpus = helpers.load_pickle(workdir, identifier, "dictcorpus.pickle")
-    vectorcorpus = helpers.load_pickle(workdir, identifier, "vectorcorpus.pickle")
-    model = build_model(dictcorpus, vectorcorpus, numtopics, passes)
-    helpers.save_model(workdir, identifier, model)
+    dictcorpus = helpers.load_pickle(paths, "dictcorpus.pickle")
+    vectorcorpus = helpers.load_pickle(paths, "vectorcorpus.pickle")
+    model = build_model(dictcorpus, vectorcorpus, params)
+    helpers.save_model(paths, model)
     print("==", helpers.get_time(), "done modeling", "==")   
     return model
 

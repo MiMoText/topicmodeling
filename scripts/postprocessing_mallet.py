@@ -1,5 +1,5 @@
 """
-Doing Topic Modeling on Eighteenth-Century French Novels with mallet and gensim in the context of MiMoText:
+Doing Topic Modeling on Eighteenth-Century French Novels with mallet in the context of MiMoText:
 
 postprocessing.
 
@@ -202,17 +202,72 @@ def make_doc_topic_avg(mastermatrix, numtopics, workdir, identifier):
     df_avg = make_avgmatrix(mastermatrix, numtopics)
     avgmatrixfile = join(workdir, "results", identifier, "avgtopics.csv")
     save_avgmatrix(df_avg, avgmatrixfile)
+    return df_avg
 
 
-# == Main ==
+# == Functions: rank topics ==
+
+def get_ranking(avgmatrixfile, numtopics):
+    '''
+    Takes work-topic distribution.
+    For each work takes the top-10 most relevant topics.
+    Provides it a pandas Dictionary.
+    '''
     
-def main(workdir, dataset, identifier, numtopics):
+    with open(avgmatrixfile, "r", encoding="utf8") as infile:
+        df_avg = pd.read_csv(infile, sep="\t", index_col="Unnamed: 0")
+    
+        work_ranked_topics = {}
+        topics = [i for i in range(0,numtopics)]
+        for index, row in df_avg.iterrows():
+            id = row['id']
+            probs = []
+            for topic in topics:
+                probs.append(row[str(topic)])
+            work_ranked_topics[id] = sorted(zip(probs, topics), reverse=True)[:10] # top-10 topics are ranked
+    
+    return work_ranked_topics # dictionary with works and ranked topics
+
+
+def save_ranking(work_ranked_topics, workdir, identifier):
+    '''
+    Saves the topic ranking to disk as a CSV file.
+    '''
+    df_ranking = pd.DataFrame()
+    df_ranking['id'] = work_ranked_topics.keys()
+    
+    ranked_topics = []
+    for work in work_ranked_topics:
+        ranked_topics.append(work_ranked_topics[work])
+    df_ranking['Ranked topics'] = ranked_topics
+
+    resultfile = join(workdir, "results", identifier, "topicranking.csv")
+
+    with open(resultfile, "w", encoding="utf8") as outfile: 
+        df_ranking.to_csv(outfile, sep="\t")
+
+
+def rank_topics(workdir, identifier, numtopics):
+    print("rank topics")
+    avgmatrixfile = join(workdir, "results", identifier, "avgtopics.csv")
+    work_ranked_topics = get_ranking(avgmatrixfile, numtopics)
+    save_ranking(work_ranked_topics, workdir, identifier)
+
+
+# == Coordinating function ==
+    
+def main(paths, params):
     print("\n== postprocessing ==")
-    model = helpers.load_model(workdir, identifier)
+    workdir = paths["workdir"]
+    identifier = paths["identifier"]
+    dataset = paths["dataset"]
+    numtopics = params["numtopics"]
+    model = helpers.load_model(paths)
     resultsfolder = join(workdir, "results", identifier)
     get_topics(model, numtopics, resultsfolder)
     get_topicwords(model, numtopics, resultsfolder)
     get_doc_topic_matrix(identifier, resultsfolder, numtopics)
     mastermatrix = make_mastermatrix(workdir, dataset, identifier)
-    make_doc_topic_avg(mastermatrix, numtopics, workdir, identifier)
+    df_avg = make_doc_topic_avg(mastermatrix, numtopics, workdir, identifier)
+    rank_topics(workdir, identifier, numtopics)
     print("==", helpers.get_time(), "done postprocessing", "==") 

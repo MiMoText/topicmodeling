@@ -14,53 +14,56 @@ from datetime import datetime
 
 
 
-def make_dirs(workdir, identifier):
+def make_dirs(paths):
     """
     Creates the folders required by the subsequent modules.
     """
-    picklesfolder = join(workdir, "results", identifier, "pickles", "")
+    textfolder = join(paths["workdir"], "datasets", paths["dataset"], "txt", "")
+    if not os.path.exists(textfolder):
+        os.makedirs(textfolder)
+    picklesfolder = join(paths["workdir"], "results", paths["identifier"], "pickles", "")
     if not os.path.exists(picklesfolder):
         os.makedirs(picklesfolder)
-    modelsfolder = join(workdir, "results", identifier, "model", "")
+    modelsfolder = join(paths["workdir"], "results", paths["identifier"], "model", "")
     if not os.path.exists(modelsfolder):
         os.makedirs(modelsfolder)
-    wordcloudsfolder = join(workdir, "results", identifier, "wordles", "")
+    wordcloudsfolder = join(paths["workdir"], "results", paths["identifier"], "wordles", "")
     if not os.path.exists(wordcloudsfolder):
         os.makedirs(wordcloudsfolder)
 
 
-def save_pickle(data, workdir, identifier, picklename):
+def save_pickle(data, paths, picklename):
     """
     Save any intermediary data to the Python binary file format for retrieval later on.
     """
-    picklesfile = join(workdir, "results", identifier, "pickles", picklename)
+    picklesfile = join(paths["workdir"], "results", paths["identifier"], "pickles", picklename)
     with open(picklesfile, "wb") as filehandle:
         pickle.dump(data, filehandle)
 
 
-def load_pickle(workdir, identifier, picklename):
+def load_pickle(paths, picklename):
     """
     Load any intermediary data from a previous step for further processing.
     """
-    picklesfile = join(workdir, "results", identifier, "pickles", picklename)
+    picklesfile = join(paths["workdir"], "results", paths["identifier"], "pickles", picklename)
     with open(picklesfile, "rb") as filehandle:
         data = pickle.load(filehandle)
         return data
 
 
-def save_model(workdir, identifier, model):
+def save_model(paths, model):
     """
     Save a gensim model to file for later use.
     """
-    modelfile = join(workdir, "results", identifier, "model", identifier+".gensim")
+    modelfile = join(paths["workdir"], "results", paths["identifier"], "model", paths["identifier"]+".gensim")
     model.save(modelfile)
 
 
-def load_model(workdir, identifier): 
+def load_model(paths): 
     """
     Load a gensim model file for further processing.
     """
-    modelfile = join(workdir, "results", identifier, "model", identifier+".gensim")
+    modelfile = join(paths["workdir"], "results", paths["identifier"], "model", paths["identifier"]+".gensim")
     model = models.LdaModel.load(modelfile)
     return model
 
