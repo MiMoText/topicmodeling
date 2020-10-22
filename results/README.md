@@ -25,3 +25,9 @@
 * 10 topics und 500 Iterationen
 
 ## Mit der Datei visualization.html lassen sich die Topics im Browser visualisieren
+
+
+### rom18_mod200_80romans_NOM
+* Romankorpus: 80 Romane
+* teilmodernisiert
+* POS-Auswahl: nur Substantive
