@@ -27,7 +27,7 @@
 ## Mit der Datei visualization.html lassen sich die Topics im Browser visualisieren
 
 
-### rom18_mod200_80romans_NOM
+### rom18_mod200_80romans_NOM (Stand 21.10.2020)
 * Romankorpus: 80 Romane
 * teilmodernisiert
 * POS-Auswahl: nur Substantive
