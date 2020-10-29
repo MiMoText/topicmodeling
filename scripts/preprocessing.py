@@ -40,21 +40,29 @@ def load_text(textfile):
         return text
     
     
-def load_stoplist(paths):
+def load_stoplists(paths):
     """
-    Loads a language-specific list of stopwords from the stoplists folder.
-    Returns a list of stopwords.
+    Loads a language-specific list of stopwords and a list of names from the stoplists folder.
+    Returns a complete list of stopwords.
     """
     try:
-        slfile = join("stoplists", paths["stoplistfile"])
+        slfile = join("stoplists", paths["stopwordsfile"])
         with open(slfile, "r", encoding="utf8") as infile:
             stoplist = infile.read().split("\n")
-        return stoplist
     except:
         stoplist = []
         print("Warning. No stoplist has been found.")
         print("Please consider adding a stoplist to the stoplist folder.")
-        return stoplist
+    
+    try:
+        namefile = join("stoplists", paths["namelistfile"])
+        with open(namefile, "r", encoding="utf8") as infile:
+            namelist = infile.read().split("\n")
+    except:
+        namelist = []
+        print("Warning. No namelist has been found.")
+
+    return stoplist + namelist
     
 
 def prepare_text(text, params, stoplist):
@@ -96,7 +104,7 @@ def main(paths, params):
     print("\n== preprocessing ==")
     alltextids = []
     allprepared = []
-    stoplist = load_stoplist(paths)
+    stoplist = load_stoplists(paths)
     textpath = join(paths["workdir"], "datasets", paths["dataset"], "txt", "*.txt")
     for textfile in sorted(glob.glob(textpath)):
         textid = basename(textfile).split(".")[0]

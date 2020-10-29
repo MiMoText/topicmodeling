@@ -36,7 +36,8 @@ identifier = "testlauf_klein_20t_2000i_200opt"
 metadata_roman18 = "roman18.csv"
 metadatafile_full = join(workdir, "datasets", dataset, "metadata-full.csv")
 metadatafile_split = join(workdir, "datasets", dataset, "metadata.csv")
-stoplistfile = "fr.txt"
+stopwordsfile = "fr.txt"
+namelistfile = "names.txt"
 
 mallet_path = r'C:\mallet-2.0.8\bin\mallet'  # only necessary if modeling step with mallet is chosen
 
@@ -58,7 +59,7 @@ cats = [["id", "author", "narration", "decade"],["gender"]]  # metadata categori
 
 # == Packing ==
 
-paths = {"workdir":workdir, "dataset":dataset, "identifier":identifier, "metadata_roman18":metadata_roman18, "metadatafile_full":metadatafile_full, "metadatafile_split":metadatafile_split, "stoplistfile":stoplistfile, "mallet_path":mallet_path}
+paths = {"workdir":workdir, "dataset":dataset, "identifier":identifier, "metadata_roman18":metadata_roman18, "metadatafile_full":metadatafile_full, "metadatafile_split":metadatafile_split, "stopwordsfile":stopwordsfile, "namelistfile":namelistfile, "mallet_path":mallet_path}
 params = {"chunksize":chunksize, "lang":lang, "numtopics":numtopics, "passes":passes, "modeling":modeling, "optimize_interval":optimize_interval}
 
 
