@@ -31,10 +31,11 @@ import make_heatmap
 # == Files and folders ==
 
 workdir = ".."            
-dataset = "testlauf_klein"             
-identifier = "testlauf_klein_20t_2000i_200opt"
+dataset = "rom18_mod"             
+identifier = "rom18_20t_2000i_200opt"
 
-metadata_roman18 = "roman18.csv"
+#metadata_roman18 = "roman18.csv"
+metadata_roman18 = "xml-tei_metadata.tsv"
 metadatafile_full = join(workdir, "datasets", dataset, "metadata-full.csv")
 metadatafile_split = join(workdir, "datasets", dataset, "metadata.csv")
 stopwordsfile = "fr.txt"

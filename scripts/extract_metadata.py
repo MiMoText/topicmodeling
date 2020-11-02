@@ -46,18 +46,18 @@ def get_metadata(metadata_full, metadata, textid):
     """
     author = textid.split('_')[0]
     textid = re.sub(r'\[1\]', r'', textid)
-    key = metadata[metadata['dhtr-id'] == textid].index.item()
-    year = str(metadata.loc[key, 'year-ref'])
+    key = metadata[metadata['filename'] == textid].index.item()
+    year = str(metadata.loc[key, 'printSource-yr'])
     
     year = year[:4]
-    if year == "nan":
+    if year == "NA":
         decade = year
     else:
         decade = year[2]
         decade = "17" + decade + "0s"
     
-    narration = metadata.loc[key, 'Form (tei-Header)']
-    gender = metadata.loc[key, 'author-gender']
+    narration = metadata.loc[key, 'form']
+    gender = metadata.loc[key, 'au-gender']
 
     metadata_full = metadata_full.append({'id': textid, 'author': author, 'decade': decade, 'gender': gender, 'narration': narration}, ignore_index=True)
     
