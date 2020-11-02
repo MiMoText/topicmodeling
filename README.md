@@ -55,7 +55,7 @@ Please install the following:
        - (only if chosen mallet:) **optimize_interval**: optimization of the topic model every "[chosen value]" iterations
 	- **cats**: category for which the most distinctive topics are visualized in heatmap
 
-* the splitted texts are saved in datasets/roman18-test/txt
+* the splitted texts are saved in datasets/[name of dataset]/txt
 * the preprocessed texts are saved as lists of lemmas in results/[name of dataset]/pickles
 * the gensim model is saved in results/[name of dataset]/model
 * in results/[name of dataset]/ you also find statistical files, a file "visualization.html" and the heatmap visualizations
