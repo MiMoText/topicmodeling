@@ -44,7 +44,7 @@ def build_model(dictcorpus, vectorcorpus, paths, params):
         corpus = vectorcorpus,
         id2word = dictcorpus,
         num_topics = params["numtopics"],
-        prefix = paths["identifier"],
+        prefix = paths["identifier"] + "_",
         optimize_interval = params["optimize_interval"],  # choosing an optimal interval alpha and beta are generated automatically
         iterations = params["passes"],
         )

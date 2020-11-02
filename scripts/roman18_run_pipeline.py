@@ -23,7 +23,8 @@ import modeling_gensim
 import modeling_mallet
 import postprocessing_gensim
 import postprocessing_mallet
-import make_overview
+import make_overview_gensim
+import make_overview_mallet
 import make_heatmap
 
 
@@ -77,13 +78,13 @@ def main(paths, params, cats):
     if modeling == "gensim":
         modeling_gensim.main(paths, params)
         postprocessing_gensim.main(paths, params)
-        make_overview.main(paths)
+        make_overview_gensim.main(paths)
      
     if modeling == "mallet":
         modeling_mallet.main(paths, params)
         postprocessing_mallet.main(paths, params)
+        make_overview_mallet.main(paths)
        
-    #make_overview.main(paths)  # currently only working for gensim output
     make_heatmap.main(paths, cats)
     print("\n==", helpers.get_time(), "done", "==")
 
