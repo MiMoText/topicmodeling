@@ -26,7 +26,8 @@ Please install the following:
     * "treetaggerwrapper", see: https://pypi.org/project/treetaggerwrapper/
     * "gensim", see: https://radimrehurek.com/gensim/install.html
     * "pyLDAvis", see: https://github.com/bmabey/pyLDAvis
-	* "seaborn", see: https://seaborn.pydata.org/
+    * "sklearn", see: https://pypi.org/project/scikit-learn/
+    * "seaborn", see: https://seaborn.pydata.org/
      
 * TreeTagger, see https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
   * Please note: Follow the installation instructions given here; consider the differences between the different operating systems. It isn't necessary to download any language parameter files. They are already included in this folder.
