@@ -56,7 +56,7 @@ def move_output(workdir, identifier):
     Moves mallet output from the script directory into the results directory.
     '''
     destination = join(workdir, "results", identifier)
-    files = ['corpus.mallet', 'corpus.txt', 'doctopics.txt', 'inferencer.mallet', 'state.mallet.gz', 'topickeys.txt']
+    files = ['_corpus.mallet', '_corpus.txt', '_doctopics.txt', '_inferencer.mallet', '_state.mallet.gz', '_topickeys.txt']
     full_path = realpath(__file__)
     path, filename = split(full_path)
     

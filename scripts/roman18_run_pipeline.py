@@ -31,8 +31,8 @@ import make_heatmap
 # == Files and folders ==
 
 workdir = ".."            
-dataset = "rom18_mod"             
-identifier = "rom18_20t_2000i_200opt"
+dataset = "rom18_90"             
+identifier = "rom18_90_20t_2000i_200opt"
 
 #metadata_roman18 = "roman18.csv"
 metadata_roman18 = "xml-tei_metadata.tsv"
@@ -69,11 +69,11 @@ params = {"chunksize":chunksize, "lang":lang, "numtopics":numtopics, "passes":pa
 
 def main(paths, params, cats):
     print("==", "starting", "==", "\n==", helpers.get_time(), "==")
-    helpers.make_dirs(paths)
-    extract_metadata.main(paths)
-    split.main(paths, params)
-    preprocessing.main(paths, params)
-    build_corpus.main(paths)
+    #helpers.make_dirs(paths)
+    #extract_metadata.main(paths)
+    #split.main(paths, params)
+    #preprocessing.main(paths, params)
+    #build_corpus.main(paths)
     
   
     if modeling == "gensim":
