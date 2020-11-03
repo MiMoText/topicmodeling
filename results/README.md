@@ -31,3 +31,9 @@
 * Romankorpus: 80 Romane
 * teilmodernisiert
 * POS-Auswahl: nur Substantive
+
+### rom18_90_20t_2000i_200opt (Stand 2.11.2020)
+* Romankorpus: 90 Romane
+* modernisiert
+* Modellierung mit Mallet: 20 Topics, 2000 Iterationen, 10 Optimierungen
+* neu: mit Namen-Stoppwortliste; pyLDAVis-Visualisierung

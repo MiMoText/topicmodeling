@@ -45,13 +45,13 @@ def get_metadata(metadata_full, metadata, textid):
     and writes it into the pandas DataFrame.
     """
     author = textid.split('_')[0]
-    textid = re.sub(r'\[1\]', r'', textid)
+    #textid = re.sub(r'\[1\]', r'', textid)
     key = metadata[metadata['filename'] == textid].index.item()
     year = str(metadata.loc[key, 'printSource-yr'])
     
     year = year[:4]
     if year == "NA":
-        decade = year
+        decade = "NA"
     else:
         decade = year[2]
         decade = "17" + decade + "0s"
