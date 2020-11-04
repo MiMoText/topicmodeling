@@ -67,7 +67,7 @@ def get_doc_topic_matrix(identifier, resultsfolder, numtopics):
     for each topic in each document.
     """
     print("get_topic_matrix")
-    filename = identifier + "doctopics.txt"
+    filename = identifier + "_doctopics.txt"
     doctopics_txt = join(resultsfolder, filename)
     doctopics_csv = join(resultsfolder, "doc-topic-matrix.csv")
     read_file = pd.read_csv(doctopics_txt, sep='\t')

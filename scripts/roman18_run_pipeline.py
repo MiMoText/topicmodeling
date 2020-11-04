@@ -56,7 +56,7 @@ modeling = "mallet"  # modeling step with "gensim" or "mallet"
 # if chosen mallet:
 optimize_interval = 200  # optimization of topic model every "200" iterations; for "0" alpha and beta keep their values
 
-cats = [["id", "author", "narration", "decade"],["gender"]]  # metadata categories: exclude,include
+cats = [["id", "author", "gender", "decade"],["narration"]]  # metadata categories: exclude,include
 
 
 # == Packing ==
@@ -82,7 +82,7 @@ def main(paths, params, cats):
         make_overview_gensim.main(paths)
      
     if modeling == "mallet":
-        modeling_mallet.main(paths, params)
+        #modeling_mallet.main(paths, params)
         postprocessing_mallet.main(paths, params)
         make_overview_mallet.main(paths)
        
