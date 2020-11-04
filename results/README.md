@@ -37,3 +37,25 @@
 * modernisiert
 * Modellierung mit Mallet: 20 Topics, 2000 Iterationen, 10 Optimierungen
 * neu: mit Namen-Stoppwortliste; pyLDAVis-Visualisierung
+
+### rom18_90_25t_2000i_200opt (Stand 2.11.2020)
+* Romankorpus: 90 Romane
+* modernisiert
+* Modellierung mit Mallet: 25 Topics, 2000 Iterationen, 10 Optimierungen
+
+### rom18_90_30t_2000i_200opt (Stand 4.11.2020)
+* Romankorpus: 90 Romane
+* modernisiert
+* Modellierung mit Mallet: 30 Topics, 2000 Iterationen, 10 Optimierungen
+
+### rom18_90_40t_2000i_200opt (Stand 4.11.2020)
+* Romankorpus: 90 Romane
+* modernisiert
+* Modellierung mit Mallet: 40 Topics, 2000 Iterationen, 10 Optimierungen
+
+### rom18_90_NOM_ADJ_20t_2000i_200opt (Stand 4.11.2020)
+* Romankorpus: 90 Romane
+* modernisiert
+* POS-Filter: nur Substantive und Adjektive
+* Modellierung mit Mallet: 20 Topics, 2000 Iterationen, 10 Optimierungen
+
