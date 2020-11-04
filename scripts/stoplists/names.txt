@@ -71,10 +71,13 @@ marie
 bourdonnais
 homère
 roger
-jacques
+jacque|jacques
 voltaire
 louis
 corneille
 henri
 eugénie
 edmée
+durut
+faublas
+isambard
