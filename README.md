@@ -8,7 +8,7 @@ The pipeline is based on the following set of scripts by Christof Schöch: https
 * Extracting metadata
 * Splitting texts 
 * Preprocessing: lemmatizing, POS-tagging, filtering by POS, stopword list and minimum word length
-* Modeling with gensim or with mallet 
+* Modeling with mallet (using the python wrapper of the gensim library)
 * Postprocessing: statistics (different lists and matrices)
 * Visualizing via pyLDAvis
 * Generating heatmaps
@@ -32,14 +32,14 @@ Please install the following:
 * TreeTagger, see https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
   * Please note: Follow the installation instructions given here; consider the differences between the different operating systems. It isn't necessary to download any language parameter files. They are already included in this folder.
     
-* If you would like to perform the topic modeling with mallet, you have to install the implementation first:
+* For the modeling you have to install the mallet implementation first:
 	* mallet: http://mallet.cs.umass.edu/; download here: http://mallet.cs.umass.edu/topics.php
 	(here you can find a helpful installation guide: https://programminghistorian.org/en/lessons/topic-modeling-and-mallet#installing-mallet)
-	* important: In order to run the scripts it is necessary to specify the path where you stored the mallet binary on your computer (see "mallet_path" in 			  roman18_run_pipeline.py)
+	* important: In order to run the scripts it is necessary to specify the path where you stored the mallet binary on your computer (see "mallet_path" in roman18_run_pipeline.py)
 
 ### Application and usage notes
 
-* Please make sure you have installed Python 3, TreeTagger and the desired libraries.
+* Please make sure you have installed Python 3, TreeTagger, mallet and the desired libraries.
 * Download and save this repository. 
 * Save your text files (TXT) in datasets/[name-of-your-dataset]/full.
 * Now you can run the scripts. 
