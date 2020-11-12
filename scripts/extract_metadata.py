@@ -76,4 +76,4 @@ def main(paths):
         print(textid)
         metadata_full = get_metadata(metadata_full, metadata, textid)
     metadata_out = join(workdir, "datasets", dataset, "metadata-full.csv")
-    metadata_full.to_csv(metadata_out, index=False)
+    metadata_full.to_csv(metadata_out, sep='\t', index=False)

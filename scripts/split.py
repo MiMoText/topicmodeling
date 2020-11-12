@@ -40,7 +40,7 @@ def load_metadata(paths):
     Provides it as a pandas DataFrame.
     """
     with open(paths["metadatafile_full"], "r", encoding="utf8") as infile:
-        metadata = pd.read_csv(infile, sep=",")
+        metadata = pd.read_csv(infile, sep='\t')
         return metadata
 
 
