@@ -176,15 +176,6 @@ def make_avgmatrix(mastermatrix, numtopics):
             else:  #id == id_prev:
                 score = score + score_add
                 counter +=1
-        
-    # Spaltensummen:
-    sum_row = {'id': "Total"}
-    
-    for column in range(0,numtopics):
-        total = df_avg[int(column)].sum()
-        sum_row.update({(column) : (total/len(id_list))})
-        
-    df_avg = df_avg.append(sum_row, ignore_index=True)
 
     return df_avg
 
