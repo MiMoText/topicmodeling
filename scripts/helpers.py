@@ -8,6 +8,7 @@ This module provides some helper functions used by various other modules.
 
 import os
 import pickle
+import pandas as pd
 from os.path import join
 from gensim import models
 from datetime import datetime
@@ -67,6 +68,23 @@ def load_model(paths):
     model = models.LdaModel.load(modelfile)
     return model
 
+
+def load_metadata(metadatafile):
+    """
+    Loads the metadata file from disk.
+    Provides it as a pandas DataFrame.
+    """
+    with open(metadatafile, "r", encoding="utf8") as infile:
+        metadata = pd.read_csv(infile, sep="\t")
+        return metadata
+    
+def save_matrix(matrix, matrixfile):
+    """
+    Saves DataFrame to CSV.
+
+    """
+    matrix.to_csv(matrixfile, sep='\t', encoding="utf-8")
+    
 
 def get_time(): 
     now = datetime.now()

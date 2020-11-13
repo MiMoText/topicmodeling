@@ -77,17 +77,7 @@ def get_doc_topic_matrix(identifier, resultsfolder, numtopics):
     read_file.to_csv(doctopics_csv, sep='\t')
     
     
-# == Functions: make mastermatrix ==
-
-def load_metadata(metadatafile):
-    """
-    Loads the metadata file from disk.
-    Provides it as a pandas DataFrame.
-    """
-    with open(metadatafile, "r", encoding="utf8") as infile:
-        metadata = pd.read_csv(infile, sep="\t")
-        return metadata
-
+# == Functions: make chunkmatrix ==
 
 def load_doc_topic_matrix(dtmatrixfile):
     """
@@ -104,44 +94,36 @@ def merge_matrices(metadata, dtmatrix):
     Merges the metadata matrix and the document x topic matrix on the index.
     Returns the result as a pands DataFrame.
     """
-    mastermatrix = metadata.merge(dtmatrix, right_index=True, left_index=True)
-    mastermatrix.drop('Unnamed: 0', axis=1, inplace=True)
-    return mastermatrix
-
-
-def save_mastermatrix(mastermatrix, mastermatrixfile):
-    """
-    Saves the mastermatrix to disk as a CSV file.
-    """
-    with open(mastermatrixfile, "w", encoding="utf8") as outfile:
-        mastermatrix.to_csv(mastermatrixfile, sep="\t")
+    chunkmatrix = metadata.merge(dtmatrix, right_index=True, left_index=True)
+    chunkmatrix.drop('Unnamed: 0', axis=1, inplace=True)
+    return chunkmatrix
         
 
-def make_mastermatrix(workdir, dataset, identifier):
-    print("make_mastermatrix")
+def make_chunkmatrix(workdir, dataset, identifier):
+    print("make_chunkmatrix")
     metadatafile = join(workdir, "datasets", dataset, "metadata.csv")
-    metadata = load_metadata(metadatafile)
+    metadata = helpers.load_metadata(metadatafile)
     dtmatrixfile = join(workdir, "results", identifier, "doc-topic-matrix.csv")
     dtmatrix = load_doc_topic_matrix(dtmatrixfile)
-    mastermatrix = merge_matrices(metadata, dtmatrix)
-    mastermatrixfile = join(workdir, "results", identifier, "mastermatrix.csv")
-    save_mastermatrix(mastermatrix, mastermatrixfile)
-    return mastermatrix
+    chunkmatrix = merge_matrices(metadata, dtmatrix)
+    chunkmatrixfile = join(workdir, "results", identifier, "chunkmatrix.csv")
+    helpers.save_matrix(chunkmatrix, chunkmatrixfile)
+    return chunkmatrix
 
 
-# == Functions: make average matrix ==
+# == Functions: make mastermatrix ==
 
-def make_avgmatrix(mastermatrix, numtopics):
+def make_avgmatrix(chunkmatrix, numtopics):
     """
-    Takes the mastermatrix as DataFrame,
+    Takes the chunkmatrix as DataFrame,
     calculates the average probability per novel and topic
     and writes it into a new DataFrame.
     Calculates the average probabilty per topic (respective to whole corpus).
     """
     
     id_list = []
-    for ind in mastermatrix.index:
-        id = mastermatrix['id'][ind]
+    for ind in chunkmatrix.index:
+        id = chunkmatrix['id'][ind]
         if id not in id_list:
             id_list.append(id)
     
@@ -155,16 +137,16 @@ def make_avgmatrix(mastermatrix, numtopics):
         id_prev = ""
         counter = 0
         score = 0
-        for ind in mastermatrix.index:
-            id = mastermatrix['id'][ind]
-            score_add = mastermatrix[column][ind] 
+        for ind in chunkmatrix.index:
+            id = chunkmatrix['id'][ind]
+            score_add = chunkmatrix[column][ind] 
             
             if ind == 0:   # Sonderfall: erste Zeile
                 id_prev = id
                 score = score_add
                 counter +=1
                 
-            elif ind == mastermatrix.index[-1] or id != id_prev:  # Sonderfall: letzte Zeile oder neue ID
+            elif ind == chunkmatrix.index[-1] or id != id_prev:  # Sonderfall: letzte Zeile oder neue ID
                 avg = str(score / counter)   # Durchschnitt des Topicscore berechnen
                 key = df_avg[df_avg['id'] == id_prev].index.item()
                 df_avg.loc[key][int(column)] = float(avg)
@@ -176,24 +158,19 @@ def make_avgmatrix(mastermatrix, numtopics):
             else:  #id == id_prev:
                 score = score + score_add
                 counter +=1
-
     return df_avg
 
 
-def save_avgmatrix(df_avg, avgmatrixfile):
-    """
-    Saves DataFrame to CSV.
 
-    """
-    df_avg.to_csv(avgmatrixfile, sep='\t', encoding="utf-8")
-
-
-def make_doc_topic_avg(mastermatrix, numtopics, workdir, identifier):
-    print("make_doc_topic_avg")
-    df_avg = make_avgmatrix(mastermatrix, numtopics)
-    avgmatrixfile = join(workdir, "results", identifier, "avgtopics.csv")
-    save_avgmatrix(df_avg, avgmatrixfile)
-    return df_avg
+def make_mastermatrix(chunkmatrix, numtopics, workdir, dataset, identifier):
+    print("make_mastermatrix")
+    df_avg = make_avgmatrix(chunkmatrix, numtopics)
+    metadatafile = join(workdir, "datasets", dataset, "metadata-full.csv")
+    metadata = helpers.load_metadata(metadatafile)
+    master_df = metadata.merge(df_avg, on ="id")
+    mastermatrixfile = join(workdir, "results", identifier, "mastermatrix.csv")
+    helpers.save_matrix(master_df, mastermatrixfile)
+    return master_df
 
 
 # == Functions: rank topics ==
@@ -258,7 +235,7 @@ def main(paths, params):
     get_topics(model, numtopics, resultsfolder)
     get_topicwords(model, numtopics, resultsfolder)
     get_doc_topic_matrix(identifier, resultsfolder, numtopics)
-    mastermatrix = make_mastermatrix(workdir, dataset, identifier)
-    df_avg = make_doc_topic_avg(mastermatrix, numtopics, workdir, identifier)
+    chunkmatrix = make_chunkmatrix(workdir, dataset, identifier)
+    master_df = make_mastermatrix(chunkmatrix, numtopics, workdir, dataset, identifier)
     rank_topics(workdir, identifier, numtopics)
     print("==", helpers.get_time(), "done postprocessing", "==") 

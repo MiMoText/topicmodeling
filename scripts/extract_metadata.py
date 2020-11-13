@@ -49,10 +49,11 @@ def get_metadata(metadata_full, metadata, textid):
     key = metadata[metadata['filename'] == textid].index.item()
     year = str(metadata.loc[key, 'printSource-yr'])
     
-    year = year[:4]
-    if year == "NA":
-        decade = "NA"
+    
+    if year == "nan" or year == "unknown":
+        decade = "nan"
     else:
+        year = year[:4]
         decade = year[2]
         decade = "17" + decade + "0s"
     

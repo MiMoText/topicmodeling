@@ -49,7 +49,7 @@ numtopics = 20 # number of topics that is generated
 passes = 2000 # number of iterations
 optimize_interval = 200  # optimization of topic model every "200" iterations; for "0" alpha and beta keep their values
 
-cats = [["id", "author", "gender", "decade"],["narration"]]  # metadata categories: exclude,include
+cats = [["id", "author", "gender", "narration"],["decade"]]  # metadata categories: exclude,include
 
 
 # == Packing ==
@@ -62,6 +62,7 @@ params = {"chunksize":chunksize, "lang":lang, "numtopics":numtopics, "passes":pa
 
 def main(paths, params, cats):
     print("==", "starting", "==", "\n==", helpers.get_time(), "==")
+    
     helpers.make_dirs(paths)
     extract_metadata.main(paths)
     split.main(paths, params)
@@ -71,6 +72,7 @@ def main(paths, params, cats):
     postprocessing.main(paths, params)
     make_overview.main(paths)
     make_heatmap.main(paths, cats)
+    
     print("\n==", helpers.get_time(), "done", "==")
 
     
