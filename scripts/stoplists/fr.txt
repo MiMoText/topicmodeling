@@ -54,8 +54,14 @@ pouvoir
 devoir
 falloir
 vouloir
+savoir
+suivre|être
 dire
 aller
+venir
+trouver
+prendre
+rendre
 bien
 tout
 il
