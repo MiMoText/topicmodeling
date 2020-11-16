@@ -175,14 +175,14 @@ def make_mastermatrix(chunkmatrix, numtopics, workdir, dataset, identifier):
 
 # == Functions: rank topics ==
 
-def get_ranking(avgmatrixfile, numtopics):
+def get_ranking(mastermatrixfile, numtopics):
     '''
     Takes work-topic distribution.
     For each work takes the top-10 most relevant topics.
     Provides it a pandas Dictionary.
     '''
     
-    with open(avgmatrixfile, "r", encoding="utf8") as infile:
+    with open(mastermatrixfile, "r", encoding="utf8") as infile:
         df_avg = pd.read_csv(infile, sep="\t", index_col="Unnamed: 0")
     
         work_ranked_topics = {}
@@ -217,8 +217,8 @@ def save_ranking(work_ranked_topics, workdir, identifier):
 
 def rank_topics(workdir, identifier, numtopics):
     print("rank topics")
-    avgmatrixfile = join(workdir, "results", identifier, "avgtopics.csv")
-    work_ranked_topics = get_ranking(avgmatrixfile, numtopics)
+    mastermatrixfile = join(workdir, "results", identifier, "mastermatrix.csv")
+    work_ranked_topics = get_ranking(mastermatrixfile, numtopics)
     save_ranking(work_ranked_topics, workdir, identifier)
 
 
