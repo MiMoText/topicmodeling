@@ -59,3 +59,8 @@
 * POS-Filter: nur Substantive und Adjektive
 * Modellierung mit Mallet: 20 Topics, 2000 Iterationen, 10 Optimierungen
 
+
+### mmt_2020-11-19_11-38 (Stand 16.11.2020)
+* Romankorpus: 92 Romane
+* modernisiert
+* Modellierung mit Mallet: 30 Topics, 2000 Iterationen, 10 Optimierungen
