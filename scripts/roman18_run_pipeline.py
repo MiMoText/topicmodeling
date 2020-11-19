@@ -23,6 +23,7 @@ import modeling
 import postprocessing
 import make_overview
 import make_heatmap
+import make_wordclouds
 
 
 # == Files and folders ==
@@ -72,6 +73,7 @@ def main(paths, params, cats):
     postprocessing.main(paths, params)
     make_overview.main(paths)
     make_heatmap.main(paths, cats)
+    make_wordclouds.main(paths, params)
     
     print("\n==", helpers.get_time(), "done", "==")
 

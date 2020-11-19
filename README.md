@@ -12,6 +12,7 @@ The pipeline is based on the following set of scripts by Christof Schöch: https
 * Postprocessing: statistics (different lists and matrices)
 * Visualizing via pyLDAvis
 * Generating heatmaps
+* Generating wordclouds
 
 ## How to
 
@@ -28,9 +29,10 @@ Please install the following:
     * "pyLDAvis", see: https://github.com/bmabey/pyLDAvis
     * "sklearn", see: https://pypi.org/project/scikit-learn/
     * "seaborn", see: https://seaborn.pydata.org/
+    * "wordcloud", see: https://pypi.org/project/wordcloud/  (Note: Trying to install wordcloud on Windows often leads to difficulties. It might help to install and run the library with Python version 3.7)
      
-* TreeTagger, see https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
-  * Please note: Follow the installation instructions given here; consider the differences between the different operating systems. It isn't necessary to download any language parameter files. They are already included in this folder.
+    * TreeTagger, see https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
+    * Please note: Follow the installation instructions given here; consider the differences between the different operating systems. It isn't necessary to download any language parameter files. They are already included in this folder.
     
 * For the modeling you have to install the mallet implementation first:
 	* mallet: http://mallet.cs.umass.edu/; download here: http://mallet.cs.umass.edu/topics.php
