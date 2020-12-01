@@ -43,7 +43,7 @@ namelistfile = "names.txt"
 
 # == Parameters ==
 
-chunksize = 1000  # splitting texts in chunks of "1000" words
+chunksize = 1000  # splitting texts in chunks of 1000 words
 lang = "fr"   # possible values: "fr" (standard French); "presto" (French of the 16th and 17th century)
 
 numtopics = 20 # number of topics that is generated
