@@ -1,461 +1,461 @@
 	MiMoText-ID	Property	TopicNumber	Item (Themen-Konzept)	ReferencedBy
-0	Abbes_Voyage	isAbout	26	Art	https://doi.org/10.5281/zenodo.4493224
+0	Abbes_Voyage	isAbout	26	art	https://doi.org/10.5281/zenodo.4493224
 1	Abbes_Voyage	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-2	Abbes_Voyage	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-3	Abbes_Voyage	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-4	Abbes_Voyage	isAbout	7	Nature	https://doi.org/10.5281/zenodo.4493224
+2	Abbes_Voyage	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+3	Abbes_Voyage	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+4	Abbes_Voyage	isAbout	7	nature	https://doi.org/10.5281/zenodo.4493224
 5	Anonym_Suzon	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-6	Anonym_Suzon	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
+6	Anonym_Suzon	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
 7	Anonym_Suzon	isAbout	18	[point voir jour]	https://doi.org/10.5281/zenodo.4493224
-8	Anonym_Suzon	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
-9	Anonym_Suzon	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-10	Anonyme_Etourdi	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-11	Anonyme_Etourdi	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
+8	Anonym_Suzon	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+9	Anonym_Suzon	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+10	Anonyme_Etourdi	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+11	Anonyme_Etourdi	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
 12	Anonyme_Etourdi	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-13	Anonyme_Etourdi	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
-14	Anonyme_Etourdi	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-15	Anonyme_Zoloe	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
-16	Anonyme_Zoloe	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
+13	Anonyme_Etourdi	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+14	Anonyme_Etourdi	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+15	Anonyme_Zoloe	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+16	Anonyme_Zoloe	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
 17	Anonyme_Zoloe	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
-18	Anonyme_Zoloe	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
+18	Anonyme_Zoloe	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
 19	Anonyme_Zoloe	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-20	Arnaud_Epoux	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-21	Arnaud_Epoux	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-22	Arnaud_Epoux	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
+20	Arnaud_Epoux	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+21	Arnaud_Epoux	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+22	Arnaud_Epoux	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
 23	Arnaud_Epoux	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-24	Arnaud_Epoux	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
-25	Arnaud_Sentiment	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-26	Arnaud_Sentiment	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-27	Arnaud_Sentiment	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
+24	Arnaud_Epoux	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
+25	Arnaud_Sentiment	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+26	Arnaud_Sentiment	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+27	Arnaud_Sentiment	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
 28	Arnaud_Sentiment	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-29	Arnaud_Sentiment	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-30	Beauharnais_Lettres	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-31	Beauharnais_Lettres	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-32	Beauharnais_Lettres	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
+29	Arnaud_Sentiment	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+30	Beauharnais_Lettres	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+31	Beauharnais_Lettres	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+32	Beauharnais_Lettres	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
 33	Beauharnais_Lettres	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-34	Beauharnais_Lettres	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-35	Beaumont_Clarice	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
+34	Beauharnais_Lettres	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+35	Beaumont_Clarice	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
 36	Beaumont_Clarice	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-37	Beaumont_Clarice	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-38	Beaumont_Clarice	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-39	Beaumont_Clarice	isAbout	1	Fortune	https://doi.org/10.5281/zenodo.4493224
-40	Beckford_Vathek	isAbout	7	Nature	https://doi.org/10.5281/zenodo.4493224
-41	Beckford_Vathek	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-42	Beckford_Vathek	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-43	Beckford_Vathek	isAbout	9	Sociabilité	https://doi.org/10.5281/zenodo.4493224
-44	Beckford_Vathek	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
-45	Benoist_Elisabeth3	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-46	Benoist_Elisabeth3	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-47	Benoist_Elisabeth3	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
+37	Beaumont_Clarice	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+38	Beaumont_Clarice	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+39	Beaumont_Clarice	isAbout	1	richesse	https://doi.org/10.5281/zenodo.4493224
+40	Beckford_Vathek	isAbout	7	nature	https://doi.org/10.5281/zenodo.4493224
+41	Beckford_Vathek	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+42	Beckford_Vathek	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+43	Beckford_Vathek	isAbout	9	sociabilité	https://doi.org/10.5281/zenodo.4493224
+44	Beckford_Vathek	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+45	Benoist_Elisabeth3	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+46	Benoist_Elisabeth3	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+47	Benoist_Elisabeth3	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
 48	Benoist_Elisabeth3	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
 49	Benoist_Elisabeth3	isAbout	18	[point voir jour]	https://doi.org/10.5281/zenodo.4493224
 50	Benouville_Pensees	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
 51	Benouville_Pensees	isAbout	25	[point voir moins]	https://doi.org/10.5281/zenodo.4493224
-52	Benouville_Pensees	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-53	Benouville_Pensees	isAbout	20	Religion	https://doi.org/10.5281/zenodo.4493224
-54	Benouville_Pensees	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-55	Bernardin_Paul	isAbout	7	Nature	https://doi.org/10.5281/zenodo.4493224
-56	Bernardin_Paul	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-57	Bernardin_Paul	isAbout	26	Art	https://doi.org/10.5281/zenodo.4493224
-58	Bernardin_Paul	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-59	Bernardin_Paul	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-60	Berquin_Enfants	isAbout	9	Sociabilité	https://doi.org/10.5281/zenodo.4493224
-61	Berquin_Enfants	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-62	Berquin_Enfants	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-63	Berquin_Enfants	isAbout	7	Nature	https://doi.org/10.5281/zenodo.4493224
-64	Berquin_Enfants	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-65	Cazotte_Diable	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-66	Cazotte_Diable	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-67	Cazotte_Diable	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
-68	Cazotte_Diable	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
+52	Benouville_Pensees	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+53	Benouville_Pensees	isAbout	20	religion	https://doi.org/10.5281/zenodo.4493224
+54	Benouville_Pensees	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+55	Bernardin_Paul	isAbout	7	nature	https://doi.org/10.5281/zenodo.4493224
+56	Bernardin_Paul	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+57	Bernardin_Paul	isAbout	26	art	https://doi.org/10.5281/zenodo.4493224
+58	Bernardin_Paul	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+59	Bernardin_Paul	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+60	Berquin_Enfants	isAbout	9	sociabilité	https://doi.org/10.5281/zenodo.4493224
+61	Berquin_Enfants	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+62	Berquin_Enfants	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+63	Berquin_Enfants	isAbout	7	nature	https://doi.org/10.5281/zenodo.4493224
+64	Berquin_Enfants	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+65	Cazotte_Diable	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+66	Cazotte_Diable	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+67	Cazotte_Diable	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
+68	Cazotte_Diable	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
 69	Cazotte_Diable	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-70	Charriere_Femmes	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-71	Charriere_Femmes	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-72	Charriere_Femmes	isAbout	27	Enfance	https://doi.org/10.5281/zenodo.4493224
-73	Charriere_Femmes	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-74	Charriere_Femmes	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-75	Charriere_Lausanne	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-76	Charriere_Lausanne	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-77	Charriere_Lausanne	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-78	Charriere_Lausanne	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-79	Charriere_Lausanne	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-80	Constant_Laure1	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-81	Constant_Laure1	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-82	Constant_Laure1	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
+70	Charriere_Femmes	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+71	Charriere_Femmes	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+72	Charriere_Femmes	isAbout	27	enfance	https://doi.org/10.5281/zenodo.4493224
+73	Charriere_Femmes	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+74	Charriere_Femmes	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+75	Charriere_Lausanne	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+76	Charriere_Lausanne	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+77	Charriere_Lausanne	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+78	Charriere_Lausanne	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+79	Charriere_Lausanne	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+80	Constant_Laure1	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+81	Constant_Laure1	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+82	Constant_Laure1	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
 83	Constant_Laure1	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-84	Constant_Laure1	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-85	Constant_Laure2	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-86	Constant_Laure2	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-87	Constant_Laure2	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
+84	Constant_Laure1	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+85	Constant_Laure2	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+86	Constant_Laure2	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+87	Constant_Laure2	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
 88	Constant_Laure2	isAbout	18	[point voir jour]	https://doi.org/10.5281/zenodo.4493224
 89	Constant_Laure2	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-90	Cottin_Claire	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-91	Cottin_Claire	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-92	Cottin_Claire	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-93	Cottin_Claire	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-94	Cottin_Claire	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
+90	Cottin_Claire	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+91	Cottin_Claire	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+92	Cottin_Claire	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+93	Cottin_Claire	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+94	Cottin_Claire	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
 95	Crebillon_Nuit	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-96	Crebillon_Nuit	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-97	Crebillon_Nuit	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-98	Crebillon_Nuit	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-99	Crebillon_Nuit	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-100	Diderot_Jacques	isAbout	9	Sociabilité	https://doi.org/10.5281/zenodo.4493224
-101	Diderot_Jacques	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-102	Diderot_Jacques	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
-103	Diderot_Jacques	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-104	Diderot_Jacques	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-105	Diderot_Neveu	isAbout	9	Sociabilité	https://doi.org/10.5281/zenodo.4493224
-106	Diderot_Neveu	isAbout	26	Art	https://doi.org/10.5281/zenodo.4493224
-107	Diderot_Neveu	isAbout	27	Enfance	https://doi.org/10.5281/zenodo.4493224
-108	Diderot_Neveu	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
-109	Diderot_Neveu	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-110	Diderot_Religieuse	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-111	Diderot_Religieuse	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-112	Diderot_Religieuse	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-113	Diderot_Religieuse	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-114	Diderot_Religieuse	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-115	Diderot_Supplement	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-116	Diderot_Supplement	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
+96	Crebillon_Nuit	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+97	Crebillon_Nuit	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+98	Crebillon_Nuit	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+99	Crebillon_Nuit	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+100	Diderot_Jacques	isAbout	9	sociabilité	https://doi.org/10.5281/zenodo.4493224
+101	Diderot_Jacques	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+102	Diderot_Jacques	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
+103	Diderot_Jacques	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+104	Diderot_Jacques	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+105	Diderot_Neveu	isAbout	9	sociabilité	https://doi.org/10.5281/zenodo.4493224
+106	Diderot_Neveu	isAbout	26	art	https://doi.org/10.5281/zenodo.4493224
+107	Diderot_Neveu	isAbout	27	enfance	https://doi.org/10.5281/zenodo.4493224
+108	Diderot_Neveu	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+109	Diderot_Neveu	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+110	Diderot_Religieuse	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+111	Diderot_Religieuse	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+112	Diderot_Religieuse	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+113	Diderot_Religieuse	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+114	Diderot_Religieuse	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+115	Diderot_Supplement	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+116	Diderot_Supplement	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
 117	Diderot_Supplement	isAbout	25	[point voir moins]	https://doi.org/10.5281/zenodo.4493224
-118	Diderot_Supplement	isAbout	7	Nature	https://doi.org/10.5281/zenodo.4493224
-119	Diderot_Supplement	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
-120	Doppet_Memoires	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-121	Doppet_Memoires	isAbout	1	Fortune	https://doi.org/10.5281/zenodo.4493224
+118	Diderot_Supplement	isAbout	7	nature	https://doi.org/10.5281/zenodo.4493224
+119	Diderot_Supplement	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
+120	Doppet_Memoires	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+121	Doppet_Memoires	isAbout	1	richesse	https://doi.org/10.5281/zenodo.4493224
 122	Doppet_Memoires	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-123	Doppet_Memoires	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-124	Doppet_Memoires	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-125	Dorat_Sacrifices	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-126	Dorat_Sacrifices	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-127	Dorat_Sacrifices	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-128	Dorat_Sacrifices	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-129	Dorat_Sacrifices	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
-130	Duclos_Acajou	isAbout	27	Enfance	https://doi.org/10.5281/zenodo.4493224
-131	Duclos_Acajou	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
+123	Doppet_Memoires	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+124	Doppet_Memoires	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+125	Dorat_Sacrifices	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+126	Dorat_Sacrifices	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+127	Dorat_Sacrifices	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+128	Dorat_Sacrifices	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+129	Dorat_Sacrifices	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
+130	Duclos_Acajou	isAbout	27	enfance	https://doi.org/10.5281/zenodo.4493224
+131	Duclos_Acajou	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
 132	Duclos_Acajou	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-133	Duclos_Acajou	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
+133	Duclos_Acajou	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
 134	Duclos_Acajou	isAbout	13	[chevalier voir mot]	https://doi.org/10.5281/zenodo.4493224
-135	Ducray_Cinquante1	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-136	Ducray_Cinquante1	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-137	Ducray_Cinquante1	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-138	Ducray_Cinquante1	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-139	Ducray_Cinquante1	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-140	Dulaurens_Imirce	isAbout	9	Sociabilité	https://doi.org/10.5281/zenodo.4493224
-141	Dulaurens_Imirce	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
+135	Ducray_Cinquante1	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+136	Ducray_Cinquante1	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+137	Ducray_Cinquante1	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+138	Ducray_Cinquante1	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+139	Ducray_Cinquante1	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+140	Dulaurens_Imirce	isAbout	9	sociabilité	https://doi.org/10.5281/zenodo.4493224
+141	Dulaurens_Imirce	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
 142	Dulaurens_Imirce	isAbout	18	[point voir jour]	https://doi.org/10.5281/zenodo.4493224
-143	Dulaurens_Imirce	isAbout	26	Art	https://doi.org/10.5281/zenodo.4493224
+143	Dulaurens_Imirce	isAbout	26	art	https://doi.org/10.5281/zenodo.4493224
 144	Dulaurens_Imirce	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
-145	Duras_Edouard	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-146	Duras_Edouard	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-147	Duras_Edouard	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
+145	Duras_Edouard	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+146	Duras_Edouard	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+147	Duras_Edouard	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
 148	Duras_Edouard	isAbout	18	[point voir jour]	https://doi.org/10.5281/zenodo.4493224
-149	Duras_Edouard	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-150	Duras_Ourika	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-151	Duras_Ourika	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-152	Duras_Ourika	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-153	Duras_Ourika	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-154	Duras_Ourika	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-155	Fievee_Dot	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-156	Fievee_Dot	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-157	Fievee_Dot	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-158	Fievee_Dot	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-159	Fievee_Dot	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
+149	Duras_Edouard	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+150	Duras_Ourika	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+151	Duras_Ourika	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+152	Duras_Ourika	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+153	Duras_Ourika	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+154	Duras_Ourika	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+155	Fievee_Dot	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+156	Fievee_Dot	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+157	Fievee_Dot	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+158	Fievee_Dot	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+159	Fievee_Dot	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
 160	Florian_Estelle	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
-161	Florian_Estelle	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-162	Florian_Estelle	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-163	Florian_Estelle	isAbout	2	Monarchie	https://doi.org/10.5281/zenodo.4493224
-164	Florian_Estelle	isAbout	7	Nature	https://doi.org/10.5281/zenodo.4493224
+161	Florian_Estelle	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+162	Florian_Estelle	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+163	Florian_Estelle	isAbout	2	monarchie	https://doi.org/10.5281/zenodo.4493224
+164	Florian_Estelle	isAbout	7	nature	https://doi.org/10.5281/zenodo.4493224
 165	Florian_Galatee	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
-166	Florian_Galatee	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-167	Florian_Galatee	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
-168	Florian_Galatee	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-169	Florian_Galatee	isAbout	26	Art	https://doi.org/10.5281/zenodo.4493224
-170	Fourqueux_Zely	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
+166	Florian_Galatee	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+167	Florian_Galatee	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
+168	Florian_Galatee	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+169	Florian_Galatee	isAbout	26	art	https://doi.org/10.5281/zenodo.4493224
+170	Fourqueux_Zely	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
 171	Fourqueux_Zely	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-172	Fourqueux_Zely	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-173	Fourqueux_Zely	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-174	Fourqueux_Zely	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-175	Genlis_Adele	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
+172	Fourqueux_Zely	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+173	Fourqueux_Zely	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+174	Fourqueux_Zely	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+175	Genlis_Adele	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
 176	Genlis_Adele	isAbout	13	[chevalier voir mot]	https://doi.org/10.5281/zenodo.4493224
-177	Genlis_Adele	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-178	Genlis_Adele	isAbout	27	Enfance	https://doi.org/10.5281/zenodo.4493224
-179	Genlis_Adele	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
+177	Genlis_Adele	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+178	Genlis_Adele	isAbout	27	enfance	https://doi.org/10.5281/zenodo.4493224
+179	Genlis_Adele	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
 180	Genlis_Chevaliers	isAbout	13	[chevalier voir mot]	https://doi.org/10.5281/zenodo.4493224
-181	Genlis_Chevaliers	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-182	Genlis_Chevaliers	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-183	Genlis_Chevaliers	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-184	Genlis_Chevaliers	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-185	Gerard_Comte	isAbout	20	Religion	https://doi.org/10.5281/zenodo.4493224
-186	Gerard_Comte	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
+181	Genlis_Chevaliers	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+182	Genlis_Chevaliers	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+183	Genlis_Chevaliers	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+184	Genlis_Chevaliers	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+185	Gerard_Comte	isAbout	20	religion	https://doi.org/10.5281/zenodo.4493224
+186	Gerard_Comte	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
 187	Gerard_Comte	isAbout	25	[point voir moins]	https://doi.org/10.5281/zenodo.4493224
-188	Gerard_Comte	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
+188	Gerard_Comte	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
 189	Gerard_Comte	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-190	Gorjy_Voyage	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-191	Gorjy_Voyage	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
+190	Gorjy_Voyage	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+191	Gorjy_Voyage	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
 192	Gorjy_Voyage	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-193	Gorjy_Voyage	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
-194	Gorjy_Voyage	isAbout	9	Sociabilité	https://doi.org/10.5281/zenodo.4493224
+193	Gorjy_Voyage	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+194	Gorjy_Voyage	isAbout	9	sociabilité	https://doi.org/10.5281/zenodo.4493224
 195	Jacquant_Lettres	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-196	Jacquant_Lettres	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-197	Jacquant_Lettres	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-198	Jacquant_Lettres	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-199	Jacquant_Lettres	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
+196	Jacquant_Lettres	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+197	Jacquant_Lettres	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+198	Jacquant_Lettres	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+199	Jacquant_Lettres	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
 200	Jacquin_Parisiennes2	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-201	Jacquin_Parisiennes2	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-202	Jacquin_Parisiennes2	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-203	Jacquin_Parisiennes2	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-204	Jacquin_Parisiennes2	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
+201	Jacquin_Parisiennes2	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+202	Jacquin_Parisiennes2	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+203	Jacquin_Parisiennes2	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+204	Jacquin_Parisiennes2	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
 205	Kimber_Thompson1	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-206	Kimber_Thompson1	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
-207	Kimber_Thompson1	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-208	Kimber_Thompson1	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-209	Kimber_Thompson1	isAbout	1	Fortune	https://doi.org/10.5281/zenodo.4493224
+206	Kimber_Thompson1	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
+207	Kimber_Thompson1	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+208	Kimber_Thompson1	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+209	Kimber_Thompson1	isAbout	1	richesse	https://doi.org/10.5281/zenodo.4493224
 210	Kimber_Thompson2	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-211	Kimber_Thompson2	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
-212	Kimber_Thompson2	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-213	Kimber_Thompson2	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-214	Kimber_Thompson2	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
+211	Kimber_Thompson2	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
+212	Kimber_Thompson2	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+213	Kimber_Thompson2	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+214	Kimber_Thompson2	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
 215	LaPlace_Collection	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-216	LaPlace_Collection	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-217	LaPlace_Collection	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
-218	LaPlace_Collection	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-219	LaPlace_Collection	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
+216	LaPlace_Collection	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+217	LaPlace_Collection	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
+218	LaPlace_Collection	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+219	LaPlace_Collection	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
 220	LaPlace_Lydia	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-221	LaPlace_Lydia	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-222	LaPlace_Lydia	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-223	LaPlace_Lydia	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-224	LaPlace_Lydia	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-225	Laclos_Liaisons	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-226	Laclos_Liaisons	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-227	Laclos_Liaisons	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-228	Laclos_Liaisons	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
+221	LaPlace_Lydia	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+222	LaPlace_Lydia	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+223	LaPlace_Lydia	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+224	LaPlace_Lydia	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+225	Laclos_Liaisons	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+226	Laclos_Liaisons	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+227	Laclos_Liaisons	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+228	Laclos_Liaisons	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
 229	Laclos_Liaisons	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-230	Lagrave_Sophie1	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-231	Lagrave_Sophie1	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-232	Lagrave_Sophie1	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-233	Lagrave_Sophie1	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-234	Lagrave_Sophie1	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-235	Lagrave_Zabeth1	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-236	Lagrave_Zabeth1	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-237	Lagrave_Zabeth1	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-238	Lagrave_Zabeth1	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
+230	Lagrave_Sophie1	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+231	Lagrave_Sophie1	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+232	Lagrave_Sophie1	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+233	Lagrave_Sophie1	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+234	Lagrave_Sophie1	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+235	Lagrave_Zabeth1	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+236	Lagrave_Zabeth1	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+237	Lagrave_Zabeth1	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+238	Lagrave_Zabeth1	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
 239	Lagrave_Zabeth1	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-240	Leonard_Lettres1	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-241	Leonard_Lettres1	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-242	Leonard_Lettres1	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-243	Leonard_Lettres1	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
+240	Leonard_Lettres1	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+241	Leonard_Lettres1	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+242	Leonard_Lettres1	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+243	Leonard_Lettres1	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
 244	Leonard_Lettres1	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
 245	Lesuire_Aventurier1	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
 246	Lesuire_Aventurier1	isAbout	18	[point voir jour]	https://doi.org/10.5281/zenodo.4493224
-247	Lesuire_Aventurier1	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-248	Lesuire_Aventurier1	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
-249	Lesuire_Aventurier1	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
-250	Lesuire_Crime1	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
-251	Lesuire_Crime1	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-252	Lesuire_Crime1	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
-253	Lesuire_Crime1	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
+247	Lesuire_Aventurier1	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+248	Lesuire_Aventurier1	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
+249	Lesuire_Aventurier1	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+250	Lesuire_Crime1	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+251	Lesuire_Crime1	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+252	Lesuire_Crime1	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
+253	Lesuire_Crime1	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
 254	Lesuire_Crime1	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-255	Loaisel_Comtesse	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-256	Loaisel_Comtesse	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-257	Loaisel_Comtesse	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-258	Loaisel_Comtesse	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-259	Loaisel_Comtesse	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
-260	Loaisel_Lucile	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-261	Loaisel_Lucile	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-262	Loaisel_Lucile	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-263	Loaisel_Lucile	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-264	Loaisel_Lucile	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
-265	Louvet_Annee	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-266	Louvet_Annee	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
-267	Louvet_Annee	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
+255	Loaisel_Comtesse	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+256	Loaisel_Comtesse	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+257	Loaisel_Comtesse	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+258	Loaisel_Comtesse	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+259	Loaisel_Comtesse	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
+260	Loaisel_Lucile	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+261	Loaisel_Lucile	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+262	Loaisel_Lucile	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+263	Loaisel_Lucile	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+264	Loaisel_Lucile	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
+265	Louvet_Annee	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+266	Louvet_Annee	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
+267	Louvet_Annee	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
 268	Louvet_Annee	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-269	Louvet_Annee	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-270	Louvet_Fin	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-271	Louvet_Fin	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
+269	Louvet_Annee	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+270	Louvet_Fin	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+271	Louvet_Fin	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
 272	Louvet_Fin	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-273	Louvet_Fin	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-274	Louvet_Fin	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-275	Maistre_Voyage	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-276	Maistre_Voyage	isAbout	26	Art	https://doi.org/10.5281/zenodo.4493224
-277	Maistre_Voyage	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-278	Maistre_Voyage	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-279	Maistre_Voyage	isAbout	7	Nature	https://doi.org/10.5281/zenodo.4493224
+273	Louvet_Fin	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+274	Louvet_Fin	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+275	Maistre_Voyage	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+276	Maistre_Voyage	isAbout	26	art	https://doi.org/10.5281/zenodo.4493224
+277	Maistre_Voyage	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+278	Maistre_Voyage	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+279	Maistre_Voyage	isAbout	7	nature	https://doi.org/10.5281/zenodo.4493224
 280	Meissner_Histoire1	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-281	Meissner_Histoire1	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-282	Meissner_Histoire1	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-283	Meissner_Histoire1	isAbout	2	Monarchie	https://doi.org/10.5281/zenodo.4493224
+281	Meissner_Histoire1	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+282	Meissner_Histoire1	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+283	Meissner_Histoire1	isAbout	2	monarchie	https://doi.org/10.5281/zenodo.4493224
 284	Meissner_Histoire1	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
 285	Merard_Bergeries	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
-286	Merard_Bergeries	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
+286	Merard_Bergeries	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
 287	Merard_Bergeries	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-288	Merard_Bergeries	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-289	Merard_Bergeries	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-290	Mercier_An	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-291	Mercier_An	isAbout	2	Monarchie	https://doi.org/10.5281/zenodo.4493224
-292	Mercier_An	isAbout	26	Art	https://doi.org/10.5281/zenodo.4493224
-293	Mercier_An	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-294	Mercier_An	isAbout	1	Fortune	https://doi.org/10.5281/zenodo.4493224
-295	Mirabeau_Conversion	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+288	Merard_Bergeries	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+289	Merard_Bergeries	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+290	Mercier_An	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+291	Mercier_An	isAbout	2	monarchie	https://doi.org/10.5281/zenodo.4493224
+292	Mercier_An	isAbout	26	art	https://doi.org/10.5281/zenodo.4493224
+293	Mercier_An	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+294	Mercier_An	isAbout	1	richesse	https://doi.org/10.5281/zenodo.4493224
+295	Mirabeau_Conversion	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
 296	Mirabeau_Conversion	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
-297	Mirabeau_Conversion	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-298	Mirabeau_Conversion	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-299	Mirabeau_Conversion	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
+297	Mirabeau_Conversion	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+298	Mirabeau_Conversion	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+299	Mirabeau_Conversion	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
 300	Mirabeau_Rideau	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-301	Mirabeau_Rideau	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-302	Mirabeau_Rideau	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
+301	Mirabeau_Rideau	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+302	Mirabeau_Rideau	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
 303	Mirabeau_Rideau	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
-304	Mirabeau_Rideau	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-305	Morelly_Naufrage1	isAbout	7	Nature	https://doi.org/10.5281/zenodo.4493224
-306	Morelly_Naufrage1	isAbout	2	Monarchie	https://doi.org/10.5281/zenodo.4493224
+304	Mirabeau_Rideau	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+305	Morelly_Naufrage1	isAbout	7	nature	https://doi.org/10.5281/zenodo.4493224
+306	Morelly_Naufrage1	isAbout	2	monarchie	https://doi.org/10.5281/zenodo.4493224
 307	Morelly_Naufrage1	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
-308	Morelly_Naufrage1	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
+308	Morelly_Naufrage1	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
 309	Morelly_Naufrage1	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-310	Morelly_Naufrage2	isAbout	7	Nature	https://doi.org/10.5281/zenodo.4493224
-311	Morelly_Naufrage2	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-312	Morelly_Naufrage2	isAbout	2	Monarchie	https://doi.org/10.5281/zenodo.4493224
-313	Morelly_Naufrage2	isAbout	20	Religion	https://doi.org/10.5281/zenodo.4493224
-314	Morelly_Naufrage2	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-315	Nerciat_Aphrodites	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
-316	Nerciat_Aphrodites	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-317	Nerciat_Aphrodites	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-318	Nerciat_Aphrodites	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
+310	Morelly_Naufrage2	isAbout	7	nature	https://doi.org/10.5281/zenodo.4493224
+311	Morelly_Naufrage2	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+312	Morelly_Naufrage2	isAbout	2	monarchie	https://doi.org/10.5281/zenodo.4493224
+313	Morelly_Naufrage2	isAbout	20	religion	https://doi.org/10.5281/zenodo.4493224
+314	Morelly_Naufrage2	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+315	Nerciat_Aphrodites	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+316	Nerciat_Aphrodites	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+317	Nerciat_Aphrodites	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+318	Nerciat_Aphrodites	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
 319	Nerciat_Aphrodites	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-320	Nerciat_Etourdi	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-321	Nerciat_Etourdi	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
+320	Nerciat_Etourdi	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+321	Nerciat_Etourdi	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
 322	Nerciat_Etourdi	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-323	Nerciat_Etourdi	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
-324	Nerciat_Etourdi	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-325	Nerciat_Felicia	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+323	Nerciat_Etourdi	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+324	Nerciat_Etourdi	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+325	Nerciat_Felicia	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
 326	Nerciat_Felicia	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-327	Nerciat_Felicia	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-328	Nerciat_Felicia	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-329	Nerciat_Felicia	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-330	Popeliniere_Daira1	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
-331	Popeliniere_Daira1	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
+327	Nerciat_Felicia	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+328	Nerciat_Felicia	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+329	Nerciat_Felicia	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+330	Popeliniere_Daira1	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
+331	Popeliniere_Daira1	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
 332	Popeliniere_Daira1	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-333	Popeliniere_Daira1	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-334	Popeliniere_Daira1	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
-335	Popeliniere_Daira2	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
-336	Popeliniere_Daira2	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-337	Popeliniere_Daira2	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-338	Popeliniere_Daira2	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
+333	Popeliniere_Daira1	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+334	Popeliniere_Daira1	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
+335	Popeliniere_Daira2	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
+336	Popeliniere_Daira2	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+337	Popeliniere_Daira2	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+338	Popeliniere_Daira2	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
 339	Popeliniere_Daira2	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-340	Puget_Periphas1	isAbout	2	Monarchie	https://doi.org/10.5281/zenodo.4493224
-341	Puget_Periphas1	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-342	Puget_Periphas1	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-343	Puget_Periphas1	isAbout	1	Fortune	https://doi.org/10.5281/zenodo.4493224
+340	Puget_Periphas1	isAbout	2	monarchie	https://doi.org/10.5281/zenodo.4493224
+341	Puget_Periphas1	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+342	Puget_Periphas1	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+343	Puget_Periphas1	isAbout	1	richesse	https://doi.org/10.5281/zenodo.4493224
 344	Puget_Periphas1	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-345	Puget_Periphas2	isAbout	2	Monarchie	https://doi.org/10.5281/zenodo.4493224
-346	Puget_Periphas2	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
+345	Puget_Periphas2	isAbout	2	monarchie	https://doi.org/10.5281/zenodo.4493224
+346	Puget_Periphas2	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
 347	Puget_Periphas2	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
 348	Puget_Periphas2	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
-349	Puget_Periphas2	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-350	Retif_AntiJustine	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-351	Retif_AntiJustine	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
+349	Puget_Periphas2	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+350	Retif_AntiJustine	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+351	Retif_AntiJustine	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
 352	Retif_AntiJustine	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-353	Retif_AntiJustine	isAbout	3	Relation amoureuse	https://doi.org/10.5281/zenodo.4493224
-354	Retif_AntiJustine	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-355	Retif_Paysanne	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
-356	Retif_Paysanne	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-357	Retif_Paysanne	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-358	Retif_Paysanne	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-359	Retif_Paysanne	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-360	Reveroni_Pauliska	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-361	Reveroni_Pauliska	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-362	Reveroni_Pauliska	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-363	Reveroni_Pauliska	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
+353	Retif_AntiJustine	isAbout	3	relation amoureuse	https://doi.org/10.5281/zenodo.4493224
+354	Retif_AntiJustine	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+355	Retif_Paysanne	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
+356	Retif_Paysanne	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+357	Retif_Paysanne	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+358	Retif_Paysanne	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+359	Retif_Paysanne	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+360	Reveroni_Pauliska	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+361	Reveroni_Pauliska	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+362	Reveroni_Pauliska	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+363	Reveroni_Pauliska	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
 364	Reveroni_Pauliska	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-365	Riccoboni_MylordRivers	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-366	Riccoboni_MylordRivers	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-367	Riccoboni_MylordRivers	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
+365	Riccoboni_MylordRivers	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+366	Riccoboni_MylordRivers	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+367	Riccoboni_MylordRivers	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
 368	Riccoboni_MylordRivers	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-369	Riccoboni_MylordRivers	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-370	Rosny_Firmin	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-371	Rosny_Firmin	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
+369	Riccoboni_MylordRivers	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+370	Rosny_Firmin	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+371	Rosny_Firmin	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
 372	Rosny_Firmin	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-373	Rosny_Firmin	isAbout	1	Fortune	https://doi.org/10.5281/zenodo.4493224
-374	Rosny_Firmin	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
-375	Rousseau_Emile1	isAbout	27	Enfance	https://doi.org/10.5281/zenodo.4493224
+373	Rosny_Firmin	isAbout	1	richesse	https://doi.org/10.5281/zenodo.4493224
+374	Rosny_Firmin	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
+375	Rousseau_Emile1	isAbout	27	enfance	https://doi.org/10.5281/zenodo.4493224
 376	Rousseau_Emile1	isAbout	25	[point voir moins]	https://doi.org/10.5281/zenodo.4493224
-377	Rousseau_Emile1	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-378	Rousseau_Emile1	isAbout	9	Sociabilité	https://doi.org/10.5281/zenodo.4493224
-379	Rousseau_Emile1	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-380	Rousseau_Emile2	isAbout	27	Enfance	https://doi.org/10.5281/zenodo.4493224
+377	Rousseau_Emile1	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+378	Rousseau_Emile1	isAbout	9	sociabilité	https://doi.org/10.5281/zenodo.4493224
+379	Rousseau_Emile1	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+380	Rousseau_Emile2	isAbout	27	enfance	https://doi.org/10.5281/zenodo.4493224
 381	Rousseau_Emile2	isAbout	25	[point voir moins]	https://doi.org/10.5281/zenodo.4493224
-382	Rousseau_Emile2	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-383	Rousseau_Emile2	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-384	Rousseau_Emile2	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
+382	Rousseau_Emile2	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+383	Rousseau_Emile2	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+384	Rousseau_Emile2	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
 385	Rousseau_Julie	isAbout	25	[point voir moins]	https://doi.org/10.5281/zenodo.4493224
-386	Rousseau_Julie	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-387	Rousseau_Julie	isAbout	27	Enfance	https://doi.org/10.5281/zenodo.4493224
-388	Rousseau_Julie	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-389	Rousseau_Julie	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
+386	Rousseau_Julie	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+387	Rousseau_Julie	isAbout	27	enfance	https://doi.org/10.5281/zenodo.4493224
+388	Rousseau_Julie	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+389	Rousseau_Julie	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
 390	Sacy_Amours	isAbout	6	Locus amoenus	https://doi.org/10.5281/zenodo.4493224
-391	Sacy_Amours	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-392	Sacy_Amours	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
+391	Sacy_Amours	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+392	Sacy_Amours	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
 393	Sacy_Amours	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-394	Sacy_Amours	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-395	Sade_120	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-396	Sade_120	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-397	Sade_120	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-398	Sade_120	isAbout	9	Sociabilité	https://doi.org/10.5281/zenodo.4493224
+394	Sacy_Amours	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+395	Sade_120	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+396	Sade_120	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+397	Sade_120	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+398	Sade_120	isAbout	9	sociabilité	https://doi.org/10.5281/zenodo.4493224
 399	Sade_120	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-400	Sade_Aline	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-401	Sade_Aline	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-402	Sade_Aline	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-403	Sade_Aline	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-404	Sade_Aline	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
-405	Sade_Infortunes	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
-406	Sade_Infortunes	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-407	Sade_Infortunes	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-408	Sade_Infortunes	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-409	Sade_Infortunes	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-410	Sade_Justine	isAbout	15	Terreur	https://doi.org/10.5281/zenodo.4493224
-411	Sade_Justine	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-412	Sade_Justine	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-413	Sade_Justine	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-414	Sade_Justine	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-415	Sade_Philosophie	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-416	Sade_Philosophie	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-417	Sade_Philosophie	isAbout	20	Religion	https://doi.org/10.5281/zenodo.4493224
-418	Sade_Philosophie	isAbout	14	Échange	https://doi.org/10.5281/zenodo.4493224
-419	Sade_Philosophie	isAbout	23	Famille	https://doi.org/10.5281/zenodo.4493224
+400	Sade_Aline	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+401	Sade_Aline	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+402	Sade_Aline	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+403	Sade_Aline	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+404	Sade_Aline	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
+405	Sade_Infortunes	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
+406	Sade_Infortunes	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+407	Sade_Infortunes	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+408	Sade_Infortunes	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+409	Sade_Infortunes	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+410	Sade_Justine	isAbout	15	terreur	https://doi.org/10.5281/zenodo.4493224
+411	Sade_Justine	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+412	Sade_Justine	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+413	Sade_Justine	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+414	Sade_Justine	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+415	Sade_Philosophie	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+416	Sade_Philosophie	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+417	Sade_Philosophie	isAbout	20	religion	https://doi.org/10.5281/zenodo.4493224
+418	Sade_Philosophie	isAbout	14	interaction	https://doi.org/10.5281/zenodo.4493224
+419	Sade_Philosophie	isAbout	23	famille	https://doi.org/10.5281/zenodo.4493224
 420	Segur_Correspondance	isAbout	18	[point voir jour]	https://doi.org/10.5281/zenodo.4493224
-421	Segur_Correspondance	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-422	Segur_Correspondance	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
-423	Segur_Correspondance	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-424	Segur_Correspondance	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-425	Senac_Emigre	isAbout	11	Correspondance	https://doi.org/10.5281/zenodo.4493224
-426	Senac_Emigre	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-427	Senac_Emigre	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
+421	Segur_Correspondance	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+422	Segur_Correspondance	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
+423	Segur_Correspondance	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+424	Segur_Correspondance	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+425	Senac_Emigre	isAbout	11	correspondance	https://doi.org/10.5281/zenodo.4493224
+426	Senac_Emigre	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+427	Senac_Emigre	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
 428	Senac_Emigre	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-429	Senac_Emigre	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-430	Souza_Adele	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
-431	Souza_Adele	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-432	Souza_Adele	isAbout	22	Physiognomie	https://doi.org/10.5281/zenodo.4493224
+429	Senac_Emigre	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+430	Souza_Adele	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
+431	Souza_Adele	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+432	Souza_Adele	isAbout	22	physiognomie	https://doi.org/10.5281/zenodo.4493224
 433	Souza_Adele	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-434	Souza_Adele	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-435	Tiphaigne_Galligenes1	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-436	Tiphaigne_Galligenes1	isAbout	7	Nature	https://doi.org/10.5281/zenodo.4493224
-437	Tiphaigne_Galligenes1	isAbout	27	Enfance	https://doi.org/10.5281/zenodo.4493224
-438	Tiphaigne_Galligenes1	isAbout	21	Bonheur	https://doi.org/10.5281/zenodo.4493224
-439	Tiphaigne_Galligenes1	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-440	Tiphaigne_Galligenes2	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
-441	Tiphaigne_Galligenes2	isAbout	2	Monarchie	https://doi.org/10.5281/zenodo.4493224
+434	Souza_Adele	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+435	Tiphaigne_Galligenes1	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+436	Tiphaigne_Galligenes1	isAbout	7	nature	https://doi.org/10.5281/zenodo.4493224
+437	Tiphaigne_Galligenes1	isAbout	27	enfance	https://doi.org/10.5281/zenodo.4493224
+438	Tiphaigne_Galligenes1	isAbout	21	bonheur	https://doi.org/10.5281/zenodo.4493224
+439	Tiphaigne_Galligenes1	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+440	Tiphaigne_Galligenes2	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
+441	Tiphaigne_Galligenes2	isAbout	2	monarchie	https://doi.org/10.5281/zenodo.4493224
 442	Tiphaigne_Galligenes2	isAbout	0	[temps paraître encore]	https://doi.org/10.5281/zenodo.4493224
-443	Tiphaigne_Galligenes2	isAbout	5	Sentiment	https://doi.org/10.5281/zenodo.4493224
-444	Tiphaigne_Galligenes2	isAbout	24	Mort	https://doi.org/10.5281/zenodo.4493224
-445	Voltaire_Candide	isAbout	9	Sociabilité	https://doi.org/10.5281/zenodo.4493224
-446	Voltaire_Candide	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
+443	Tiphaigne_Galligenes2	isAbout	5	sentiment	https://doi.org/10.5281/zenodo.4493224
+444	Tiphaigne_Galligenes2	isAbout	24	mort	https://doi.org/10.5281/zenodo.4493224
+445	Voltaire_Candide	isAbout	9	sociabilité	https://doi.org/10.5281/zenodo.4493224
+446	Voltaire_Candide	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
 447	Voltaire_Candide	isAbout	18	[point voir jour]	https://doi.org/10.5281/zenodo.4493224
-448	Voltaire_Candide	isAbout	1	Fortune	https://doi.org/10.5281/zenodo.4493224
-449	Voltaire_Candide	isAbout	16	Larmes	https://doi.org/10.5281/zenodo.4493224
-450	Voltaire_Homme	isAbout	1	Fortune	https://doi.org/10.5281/zenodo.4493224
-451	Voltaire_Homme	isAbout	9	Sociabilité	https://doi.org/10.5281/zenodo.4493224
-452	Voltaire_Homme	isAbout	10	Philosophie	https://doi.org/10.5281/zenodo.4493224
+448	Voltaire_Candide	isAbout	1	richesse	https://doi.org/10.5281/zenodo.4493224
+449	Voltaire_Candide	isAbout	16	mélancolie 	https://doi.org/10.5281/zenodo.4493224
+450	Voltaire_Homme	isAbout	1	richesse	https://doi.org/10.5281/zenodo.4493224
+451	Voltaire_Homme	isAbout	9	sociabilité	https://doi.org/10.5281/zenodo.4493224
+452	Voltaire_Homme	isAbout	10	philosophie	https://doi.org/10.5281/zenodo.4493224
 453	Voltaire_Homme	isAbout	18	[point voir jour]	https://doi.org/10.5281/zenodo.4493224
-454	Voltaire_Homme	isAbout	26	Art	https://doi.org/10.5281/zenodo.4493224
-455	Voltaire_Princesse	isAbout	2	Monarchie	https://doi.org/10.5281/zenodo.4493224
-456	Voltaire_Princesse	isAbout	12	Voyage	https://doi.org/10.5281/zenodo.4493224
-457	Voltaire_Princesse	isAbout	9	Sociabilité	https://doi.org/10.5281/zenodo.4493224
-458	Voltaire_Princesse	isAbout	7	Nature	https://doi.org/10.5281/zenodo.4493224
-459	Voltaire_Princesse	isAbout	28	Nuit	https://doi.org/10.5281/zenodo.4493224
+454	Voltaire_Homme	isAbout	26	art	https://doi.org/10.5281/zenodo.4493224
+455	Voltaire_Princesse	isAbout	2	monarchie	https://doi.org/10.5281/zenodo.4493224
+456	Voltaire_Princesse	isAbout	12	voyage	https://doi.org/10.5281/zenodo.4493224
+457	Voltaire_Princesse	isAbout	9	sociabilité	https://doi.org/10.5281/zenodo.4493224
+458	Voltaire_Princesse	isAbout	7	nature	https://doi.org/10.5281/zenodo.4493224
+459	Voltaire_Princesse	isAbout	28	nuit	https://doi.org/10.5281/zenodo.4493224
