@@ -4,28 +4,28 @@ TopicNumber	Label
 2	monarchie
 3	relation amoureuse
 4	[femme fille servir]
-5	sentiment
-6	Locus amoenus
+5	amour_sentiment 
+6	locus amoenus_pastorale en littérature 
 7	nature
 8	[voir croire là]
-9	sociabilité
+9	alimentation_sociabilité 
 10	philosophie
 11	correspondance
-12	voyage
+12	migration_voyage 
 13	[chevalier voir mot]
 14	interaction
-15	terreur
-16	mélancolie 
+15	crime
+16	deuil
 17	libertinage
 18	[point voir jour]
-19	censure
+19	censure_religion 
 20	religion
 21	bonheur
-22	physiognomie
+22	attraction_personnalité 
 23	famille
 24	mort
 25	[point voir moins]
 26	art
-27	enfance
+27	éducation_enfance 
 28	nuit
 29	noblesse
