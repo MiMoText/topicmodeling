@@ -1,0 +1,1002 @@
+,source,target,weight
+0,Abbes_Voyage,[temps paraître encore],0.0823871366229129
+1,Abbes_Voyage,richesse,0.0435075884779248
+2,Abbes_Voyage,relation amoureuse,0.0311617347422254
+3,Abbes_Voyage,nature,0.0495756610099407
+4,Abbes_Voyage,[voir croire là],0.0696706853783597
+5,Abbes_Voyage,[chevalier voir mot],0.0344235565118283
+6,Abbes_Voyage,deuil,0.0307070521871754
+7,Abbes_Voyage,bonheur,0.0461834717836375
+8,Abbes_Voyage,attraction_personnalité ,0.0696919030838622
+9,Abbes_Voyage,mort,0.0532828346144468
+10,Abbes_Voyage,[point voir moins],0.0455770186849116
+11,Abbes_Voyage,art,0.1568691184782435
+12,Abbes_Voyage,éducation_enfance ,0.0387493001494203
+13,Abbes_Voyage,nuit,0.0399080479697148
+14,Anonym_Suzon,[temps paraître encore],0.1073547606214011
+15,Anonym_Suzon,richesse,0.0464114974593178
+16,Anonym_Suzon,relation amoureuse,0.0567226036181422
+17,Anonym_Suzon,amour_sentiment ,0.0308308650387989
+18,Anonym_Suzon,[voir croire là],0.0471178265093588
+19,Anonym_Suzon,alimentation_sociabilité ,0.0350428248941289
+20,Anonym_Suzon,interaction,0.0518771154529802
+21,Anonym_Suzon,libertinage,0.0344284316615877
+22,Anonym_Suzon,[point voir jour],0.059587799885198
+23,Anonym_Suzon,bonheur,0.0514950028717454
+24,Anonym_Suzon,attraction_personnalité ,0.0420420811625846
+25,Anonym_Suzon,famille,0.030632850511934
+26,Anonym_Suzon,mort,0.0304861552850395
+27,Anonym_Suzon,éducation_enfance ,0.0446587483896383
+28,Anonym_Suzon,nuit,0.0903219724823215
+29,Anonyme_Etourdi,[temps paraître encore],0.0844982421853196
+30,Anonyme_Etourdi,relation amoureuse,0.0642308083337305
+31,Anonyme_Etourdi,amour_sentiment ,0.0854482672880691
+32,Anonyme_Etourdi,locus amoenus_pastorale en littérature ,0.0496339949129265
+33,Anonyme_Etourdi,[voir croire là],0.0461768429067866
+34,Anonyme_Etourdi,correspondance,0.0349141178166273
+35,Anonyme_Etourdi,migration_voyage ,0.0306359463191271
+36,Anonyme_Etourdi,interaction,0.0595617065989509
+37,Anonyme_Etourdi,deuil,0.0463995059980023
+38,Anonyme_Etourdi,[point voir jour],0.0356989029773489
+39,Anonyme_Etourdi,bonheur,0.0467620605360868
+40,Anonyme_Etourdi,attraction_personnalité ,0.1213060456631587
+41,Anonyme_Etourdi,famille,0.0339791778124644
+42,Anonyme_Etourdi,mort,0.0336762516049203
+43,Anonyme_Etourdi,nuit,0.0459227831974236
+44,Anonyme_Zoloe,[temps paraître encore],0.0399627937878792
+45,Anonyme_Zoloe,richesse,0.0373948422111547
+46,Anonyme_Zoloe,relation amoureuse,0.1447089541936753
+47,Anonyme_Zoloe,[femme fille servir],0.042245089485768
+48,Anonyme_Zoloe,amour_sentiment ,0.0322186417693796
+49,Anonyme_Zoloe,locus amoenus_pastorale en littérature ,0.0707815324271712
+50,Anonyme_Zoloe,nature,0.0360920487761916
+51,Anonyme_Zoloe,interaction,0.0376561176245361
+52,Anonyme_Zoloe,crime,0.0393573305632176
+53,Anonyme_Zoloe,attraction_personnalité ,0.04936978004464
+54,Anonyme_Zoloe,mort,0.0999129947347187
+55,Anonyme_Zoloe,[point voir moins],0.0332494504977357
+56,Anonyme_Zoloe,art,0.0307532690339383
+57,Anonyme_Zoloe,nuit,0.0396883583311893
+58,Arnaud_Epoux,[temps paraître encore],0.0467114263324417
+59,Arnaud_Epoux,amour_sentiment ,0.0668111427568253
+60,Arnaud_Epoux,interaction,0.0865571767431761
+61,Arnaud_Epoux,crime,0.0400378951313705
+62,Arnaud_Epoux,deuil,0.0770855043894043
+63,Arnaud_Epoux,censure_religion ,0.4455077505936411
+64,Arnaud_Sentiment,[temps paraître encore],0.0679556368321369
+65,Arnaud_Sentiment,monarchie,0.0376098403621825
+66,Arnaud_Sentiment,amour_sentiment ,0.1605984902244427
+67,Arnaud_Sentiment,crime,0.1162842656066277
+68,Arnaud_Sentiment,deuil,0.1909406313517948
+69,Arnaud_Sentiment,bonheur,0.0390875857817423
+70,Arnaud_Sentiment,attraction_personnalité ,0.046985292547349
+71,Arnaud_Sentiment,famille,0.0497975824962493
+72,Beauharnais_Lettres,[temps paraître encore],0.0827425561380363
+73,Beauharnais_Lettres,amour_sentiment ,0.2275236139781128
+74,Beauharnais_Lettres,[voir croire là],0.0408434763711465
+75,Beauharnais_Lettres,correspondance,0.0695528513688819
+76,Beauharnais_Lettres,interaction,0.0731778141675511
+77,Beauharnais_Lettres,crime,0.0592794972476579
+78,Beauharnais_Lettres,deuil,0.0951343772929813
+79,Beauharnais_Lettres,bonheur,0.0880923406709309
+80,Beauharnais_Lettres,attraction_personnalité ,0.0365416154206349
+81,Beauharnais_Lettres,famille,0.0307026731768233
+82,Beauharnais_Lettres,[point voir moins],0.0522071817182251
+83,Beaumont_Clarice,[temps paraître encore],0.0931741900904448
+84,Beaumont_Clarice,richesse,0.0585612200626986
+85,Beaumont_Clarice,monarchie,0.0460961247902893
+86,Beaumont_Clarice,[femme fille servir],0.0441611548720722
+87,Beaumont_Clarice,locus amoenus_pastorale en littérature ,0.0303798892405613
+88,Beaumont_Clarice,nature,0.042729465563524
+89,Beaumont_Clarice,[voir croire là],0.0320844328440295
+90,Beaumont_Clarice,interaction,0.0642934074385512
+91,Beaumont_Clarice,crime,0.0534366092962475
+92,Beaumont_Clarice,censure_religion ,0.048679857664883
+93,Beaumont_Clarice,bonheur,0.0928771227268157
+94,Beaumont_Clarice,famille,0.1305535378758288
+95,Beckford_Vathek,[temps paraître encore],0.0380356111651616
+96,Beckford_Vathek,monarchie,0.0315996930046247
+97,Beckford_Vathek,relation amoureuse,0.0535673095046344
+98,Beckford_Vathek,locus amoenus_pastorale en littérature ,0.0408288200566285
+99,Beckford_Vathek,nature,0.1847413241070491
+100,Beckford_Vathek,[voir croire là],0.045543310107173
+101,Beckford_Vathek,alimentation_sociabilité ,0.0634054185828595
+102,Beckford_Vathek,migration_voyage ,0.0422508210832938
+103,Beckford_Vathek,[chevalier voir mot],0.0330297802233615
+104,Beckford_Vathek,deuil,0.0447645042679358
+105,Beckford_Vathek,mort,0.1433926859102348
+106,Beckford_Vathek,nuit,0.0666964331615623
+107,Benoist_Elisabeth3,[temps paraître encore],0.0935540596535705
+108,Benoist_Elisabeth3,amour_sentiment ,0.1138504549293084
+109,Benoist_Elisabeth3,[voir croire là],0.0557546159695036
+110,Benoist_Elisabeth3,correspondance,0.1280631786028227
+111,Benoist_Elisabeth3,interaction,0.1053967536374022
+112,Benoist_Elisabeth3,deuil,0.0400564452920852
+113,Benoist_Elisabeth3,[point voir jour],0.0598307349951068
+114,Benoist_Elisabeth3,bonheur,0.0489494587215878
+115,Benoist_Elisabeth3,attraction_personnalité ,0.0457671874553356
+116,Benoist_Elisabeth3,[point voir moins],0.0385518382999141
+117,Benouville_Pensees,[temps paraître encore],0.0762546199997674
+118,Benouville_Pensees,amour_sentiment ,0.0649933615818353
+119,Benouville_Pensees,[voir croire là],0.1602006451770118
+120,Benouville_Pensees,philosophie,0.0671515087713594
+121,Benouville_Pensees,correspondance,0.0329441467855372
+122,Benouville_Pensees,interaction,0.0587315598578438
+123,Benouville_Pensees,religion,0.0699401325465001
+124,Benouville_Pensees,bonheur,0.0468148598153277
+125,Benouville_Pensees,attraction_personnalité ,0.0732043489546532
+126,Benouville_Pensees,[point voir moins],0.0737541848892607
+127,Benouville_Pensees,éducation_enfance ,0.0438188983373191
+128,Bernardin_Paul,richesse,0.046407091070559
+129,Bernardin_Paul,nature,0.2269349440073029
+130,Bernardin_Paul,[voir croire là],0.0362771386933421
+131,Bernardin_Paul,philosophie,0.0411218845015182
+132,Bernardin_Paul,migration_voyage ,0.0315837791189171
+133,Bernardin_Paul,interaction,0.0336985915317364
+134,Bernardin_Paul,deuil,0.034075045562739
+135,Bernardin_Paul,bonheur,0.0731796348240238
+136,Bernardin_Paul,famille,0.0471405581432695
+137,Bernardin_Paul,mort,0.0493572734974144
+138,Bernardin_Paul,art,0.0663571736835292
+139,Bernardin_Paul,nuit,0.0414380226954531
+140,Berquin_Enfants,locus amoenus_pastorale en littérature ,0.0338522592300014
+141,Berquin_Enfants,nature,0.0529427742249907
+142,Berquin_Enfants,[voir croire là],0.1893390379538575
+143,Berquin_Enfants,alimentation_sociabilité ,0.1380702098581726
+144,Berquin_Enfants,bonheur,0.0440624607832351
+145,Berquin_Enfants,famille,0.1098967238931084
+146,Berquin_Enfants,mort,0.0399294977168903
+147,Berquin_Enfants,nuit,0.1142753303062688
+148,Cazotte_Diable,[temps paraître encore],0.0604682334035196
+149,Cazotte_Diable,relation amoureuse,0.0441806874514459
+150,Cazotte_Diable,amour_sentiment ,0.0537314941778779
+151,Cazotte_Diable,locus amoenus_pastorale en littérature ,0.0341279510777279
+152,Cazotte_Diable,[voir croire là],0.0478011086933323
+153,Cazotte_Diable,migration_voyage ,0.0702357652012889
+154,Cazotte_Diable,interaction,0.0583504929996833
+155,Cazotte_Diable,deuil,0.0499557617345034
+156,Cazotte_Diable,bonheur,0.0349132520861976
+157,Cazotte_Diable,attraction_personnalité ,0.0674878710547129
+158,Cazotte_Diable,mort,0.0932061332191016
+159,Cazotte_Diable,nuit,0.1036354466764814
+160,Charriere_Femmes,[temps paraître encore],0.0361531177823617
+161,Charriere_Femmes,richesse,0.0393022778716848
+162,Charriere_Femmes,amour_sentiment ,0.0316596965387897
+163,Charriere_Femmes,[voir croire là],0.1358710963630435
+164,Charriere_Femmes,correspondance,0.0326245833604879
+165,Charriere_Femmes,interaction,0.0516230655674538
+166,Charriere_Femmes,deuil,0.0347867398770605
+167,Charriere_Femmes,[point voir jour],0.0497976799216572
+168,Charriere_Femmes,bonheur,0.0414974095179135
+169,Charriere_Femmes,attraction_personnalité ,0.0590472013739337
+170,Charriere_Femmes,famille,0.0522547977503565
+171,Charriere_Femmes,[point voir moins],0.044674523807532
+172,Charriere_Femmes,éducation_enfance ,0.0557632805239568
+173,Charriere_Femmes,nuit,0.0757714418734645
+174,Charriere_Lausanne,[temps paraître encore],0.0313984743673618
+175,Charriere_Lausanne,richesse,0.030718819245167
+176,Charriere_Lausanne,amour_sentiment ,0.0379608444636578
+177,Charriere_Lausanne,[voir croire là],0.161778646054122
+178,Charriere_Lausanne,correspondance,0.0574722295482915
+179,Charriere_Lausanne,interaction,0.0430990242132706
+180,Charriere_Lausanne,deuil,0.0436668820416956
+181,Charriere_Lausanne,[point voir jour],0.0332401220819712
+182,Charriere_Lausanne,bonheur,0.0682158438680834
+183,Charriere_Lausanne,attraction_personnalité ,0.0921554115275796
+184,Charriere_Lausanne,famille,0.0771559617068447
+185,Charriere_Lausanne,[point voir moins],0.054831245018058
+186,Charriere_Lausanne,art,0.0307054781742207
+187,Charriere_Lausanne,nuit,0.0835145512245616
+188,Constant_Laure1,[temps paraître encore],0.0564815012095638
+189,Constant_Laure1,richesse,0.0306483992103757
+190,Constant_Laure1,amour_sentiment ,0.036537110046612
+191,Constant_Laure1,nature,0.0350855237521385
+192,Constant_Laure1,[voir croire là],0.1561451298792505
+193,Constant_Laure1,correspondance,0.0736836089579502
+194,Constant_Laure1,interaction,0.0490509188630726
+195,Constant_Laure1,bonheur,0.1129231297371798
+196,Constant_Laure1,attraction_personnalité ,0.1598592614217229
+197,Constant_Laure1,[point voir moins],0.0320150791512734
+198,Constant_Laure1,nuit,0.0344561916256459
+199,Constant_Laure2,[temps paraître encore],0.0510731126434684
+200,Constant_Laure2,amour_sentiment ,0.0320894388406664
+201,Constant_Laure2,[voir croire là],0.1804341027554155
+202,Constant_Laure2,correspondance,0.0895491145385632
+203,Constant_Laure2,interaction,0.0496805738113108
+204,Constant_Laure2,[point voir jour],0.075085847838039
+205,Constant_Laure2,bonheur,0.083253427386462
+206,Constant_Laure2,attraction_personnalité ,0.1579952899796761
+207,Constant_Laure2,famille,0.0304324826609312
+208,Constant_Laure2,nuit,0.0473948688183988
+209,Cottin_Claire,[temps paraître encore],0.0327981167202455
+210,Cottin_Claire,amour_sentiment ,0.1492159765266196
+211,Cottin_Claire,[voir croire là],0.0786079070790432
+212,Cottin_Claire,correspondance,0.103957655843075
+213,Cottin_Claire,crime,0.0448275957896029
+214,Cottin_Claire,deuil,0.123736725152829
+215,Cottin_Claire,bonheur,0.0691541009895981
+216,Cottin_Claire,attraction_personnalité ,0.0388706488520396
+217,Cottin_Claire,mort,0.074920437537709
+218,Cottin_Claire,[point voir moins],0.0447523180482724
+219,Cottin_Claire,éducation_enfance ,0.0321915325422702
+220,Crebillon_Nuit,[temps paraître encore],0.1728327937245933
+221,Crebillon_Nuit,amour_sentiment ,0.0911148401903656
+222,Crebillon_Nuit,[voir croire là],0.3270930979777518
+223,Crebillon_Nuit,interaction,0.0622049366872556
+224,Crebillon_Nuit,attraction_personnalité ,0.0704955229814909
+225,Crebillon_Nuit,[point voir moins],0.0319297186551113
+226,Crebillon_Nuit,nuit,0.0401570704973654
+227,Diderot_Jacques,[voir croire là],0.1396251578546604
+228,Diderot_Jacques,alimentation_sociabilité ,0.2405599662823525
+229,Diderot_Jacques,migration_voyage ,0.0413935668323157
+230,Diderot_Jacques,interaction,0.039493086112132
+231,Diderot_Jacques,deuil,0.0407459781754019
+232,Diderot_Jacques,famille,0.0302506866703034
+233,Diderot_Jacques,nuit,0.1013007878195923
+234,Diderot_Neveu,richesse,0.0402932980409233
+235,Diderot_Neveu,relation amoureuse,0.0485656741104885
+236,Diderot_Neveu,[voir croire là],0.1512318772889929
+237,Diderot_Neveu,alimentation_sociabilité ,0.1545949432954291
+238,Diderot_Neveu,philosophie,0.0379517514052804
+239,Diderot_Neveu,attraction_personnalité ,0.0377020958347916
+240,Diderot_Neveu,mort,0.043577820085656
+241,Diderot_Neveu,[point voir moins],0.0420109649826283
+242,Diderot_Neveu,art,0.0751924008066191
+243,Diderot_Neveu,éducation_enfance ,0.0578353093631769
+244,Diderot_Neveu,nuit,0.0446701891349763
+245,Diderot_Religieuse,[temps paraître encore],0.0381107574088155
+246,Diderot_Religieuse,[voir croire là],0.0768902504118132
+247,Diderot_Religieuse,correspondance,0.0473116823996677
+248,Diderot_Religieuse,interaction,0.0769786897502684
+249,Diderot_Religieuse,deuil,0.0972704944238734
+250,Diderot_Religieuse,[point voir jour],0.0358249380439213
+251,Diderot_Religieuse,bonheur,0.0403699254604348
+252,Diderot_Religieuse,famille,0.0439952543872689
+253,Diderot_Religieuse,mort,0.0360226111585247
+254,Diderot_Religieuse,[point voir moins],0.0359480816977481
+255,Diderot_Religieuse,nuit,0.2033128726307304
+256,Diderot_Supplement,amour_sentiment ,0.0301457228953183
+257,Diderot_Supplement,nature,0.0541154558712192
+258,Diderot_Supplement,[voir croire là],0.0692187670398477
+259,Diderot_Supplement,philosophie,0.1948380000594076
+260,Diderot_Supplement,migration_voyage ,0.0393564110384657
+261,Diderot_Supplement,interaction,0.0376727436291343
+262,Diderot_Supplement,crime,0.047878013579943
+263,Diderot_Supplement,deuil,0.0324989428931886
+264,Diderot_Supplement,attraction_personnalité ,0.041072267725823
+265,Diderot_Supplement,famille,0.101293995919906
+266,Diderot_Supplement,[point voir moins],0.0555714680509611
+267,Diderot_Supplement,éducation_enfance ,0.0449727941206473
+268,Doppet_Memoires,[temps paraître encore],0.0683709404906453
+269,Doppet_Memoires,richesse,0.0900112777098462
+270,Doppet_Memoires,amour_sentiment ,0.0670966351674162
+271,Doppet_Memoires,[voir croire là],0.0350451231278124
+272,Doppet_Memoires,correspondance,0.0313878097406028
+273,Doppet_Memoires,interaction,0.0354766944190388
+274,Doppet_Memoires,crime,0.0461207793982156
+275,Doppet_Memoires,deuil,0.0562413523246875
+276,Doppet_Memoires,religion,0.0384064036465627
+277,Doppet_Memoires,bonheur,0.0964087717621994
+278,Doppet_Memoires,attraction_personnalité ,0.0531951204338697
+279,Doppet_Memoires,famille,0.0322217989464357
+280,Doppet_Memoires,[point voir moins],0.0318211361590458
+281,Doppet_Memoires,art,0.0393629582975492
+282,Doppet_Memoires,éducation_enfance ,0.041061854958945
+283,Doppet_Memoires,nuit,0.0348270579979645
+284,Dorat_Sacrifices,[temps paraître encore],0.0409899160712247
+285,Dorat_Sacrifices,amour_sentiment ,0.2344183597963637
+286,Dorat_Sacrifices,[voir croire là],0.0750221650877701
+287,Dorat_Sacrifices,correspondance,0.0767991404437792
+288,Dorat_Sacrifices,interaction,0.0432223489213411
+289,Dorat_Sacrifices,crime,0.0645784212771978
+290,Dorat_Sacrifices,deuil,0.0674103962636634
+291,Dorat_Sacrifices,bonheur,0.0760809869589434
+292,Dorat_Sacrifices,attraction_personnalité ,0.0481917128215592
+293,Dorat_Sacrifices,mort,0.0359389002323259
+294,Dorat_Sacrifices,[point voir moins],0.0528820607570182
+295,Duclos_Acajou,[temps paraître encore],0.1162288315658102
+296,Duclos_Acajou,amour_sentiment ,0.0527412272110995
+297,Duclos_Acajou,locus amoenus_pastorale en littérature ,0.041662207824404
+298,Duclos_Acajou,nature,0.0312250931273403
+299,Duclos_Acajou,[voir croire là],0.0499084831597582
+300,Duclos_Acajou,alimentation_sociabilité ,0.0327309739135111
+301,Duclos_Acajou,migration_voyage ,0.0388684900694682
+302,Duclos_Acajou,[chevalier voir mot],0.0461798957612765
+303,Duclos_Acajou,interaction,0.043297984226733
+304,Duclos_Acajou,[point voir jour],0.032039928291296
+305,Duclos_Acajou,bonheur,0.0423993152791409
+306,Duclos_Acajou,attraction_personnalité ,0.1243011647006188
+307,Duclos_Acajou,mort,0.0314210632561064
+308,Duclos_Acajou,éducation_enfance ,0.1275316390582994
+309,Ducray_Cinquante1,[temps paraître encore],0.0413737323251253
+310,Ducray_Cinquante1,richesse,0.0417409303711934
+311,Ducray_Cinquante1,amour_sentiment ,0.0474213585606541
+312,Ducray_Cinquante1,[voir croire là],0.0943988904828078
+313,Ducray_Cinquante1,interaction,0.0607895557571456
+314,Ducray_Cinquante1,deuil,0.0536777868377271
+315,Ducray_Cinquante1,bonheur,0.1163401931113203
+316,Ducray_Cinquante1,attraction_personnalité ,0.0685626976360642
+317,Ducray_Cinquante1,famille,0.1341776717752064
+318,Ducray_Cinquante1,nuit,0.0584716592460979
+319,Dulaurens_Imirce,locus amoenus_pastorale en littérature ,0.0433430974768852
+320,Dulaurens_Imirce,[voir croire là],0.0486165690330352
+321,Dulaurens_Imirce,alimentation_sociabilité ,0.2300085736066752
+322,Dulaurens_Imirce,philosophie,0.0367336564523701
+323,Dulaurens_Imirce,[point voir jour],0.0588733572753676
+324,Dulaurens_Imirce,attraction_personnalité ,0.0323004245091351
+325,Dulaurens_Imirce,famille,0.0612327233005176
+326,Dulaurens_Imirce,mort,0.030567673244235
+327,Dulaurens_Imirce,art,0.0510113617157301
+328,Dulaurens_Imirce,éducation_enfance ,0.0304699925831162
+329,Dulaurens_Imirce,nuit,0.0395950104528805
+330,Duras_Edouard,amour_sentiment ,0.0874700404448134
+331,Duras_Edouard,[voir croire là],0.0751971991866865
+332,Duras_Edouard,[chevalier voir mot],0.0417787951778296
+333,Duras_Edouard,crime,0.030591169819348
+334,Duras_Edouard,deuil,0.0841925027227939
+335,Duras_Edouard,[point voir jour],0.0715343742536427
+336,Duras_Edouard,bonheur,0.1687816776601938
+337,Duras_Edouard,attraction_personnalité ,0.0522116426256323
+338,Duras_Edouard,mort,0.0316527777157265
+339,Duras_Edouard,[point voir moins],0.0409542812806673
+340,Duras_Edouard,nuit,0.0567432678707221
+341,Duras_Ourika,[temps paraître encore],0.0369621712740391
+342,Duras_Ourika,amour_sentiment ,0.0582198382399683
+343,Duras_Ourika,[voir croire là],0.0707403414894752
+344,Duras_Ourika,interaction,0.0357634050985114
+345,Duras_Ourika,crime,0.0305429349157159
+346,Duras_Ourika,deuil,0.0801985306308381
+347,Duras_Ourika,religion,0.0342846042030634
+348,Duras_Ourika,bonheur,0.2631961553875323
+349,Duras_Ourika,attraction_personnalité ,0.0768354743382316
+350,Duras_Ourika,famille,0.0468205445395781
+351,Duras_Ourika,éducation_enfance ,0.0416172830630417
+352,Fievee_Dot,[temps paraître encore],0.054624259650813
+353,Fievee_Dot,richesse,0.061222418142964
+354,Fievee_Dot,amour_sentiment ,0.0671156690021435
+355,Fievee_Dot,[voir croire là],0.0609008193863726
+356,Fievee_Dot,correspondance,0.0543599553388163
+357,Fievee_Dot,interaction,0.0943165336611432
+358,Fievee_Dot,deuil,0.051871636489013
+359,Fievee_Dot,bonheur,0.1409129318969829
+360,Fievee_Dot,attraction_personnalité ,0.0819575394599007
+361,Fievee_Dot,famille,0.07015742668843
+362,Fievee_Dot,nuit,0.0443940318857361
+363,Florian_Estelle,monarchie,0.080425289179624
+364,Florian_Estelle,amour_sentiment ,0.056029369967188
+365,Florian_Estelle,locus amoenus_pastorale en littérature ,0.1543027889518297
+366,Florian_Estelle,nature,0.0569640402381653
+367,Florian_Estelle,migration_voyage ,0.0543471023284815
+368,Florian_Estelle,deuil,0.1331935535144029
+369,Florian_Estelle,bonheur,0.0921228436756356
+370,Florian_Estelle,famille,0.0378537436111783
+371,Florian_Estelle,mort,0.0443660167579327
+372,Florian_Estelle,nuit,0.0414306079900321
+373,Florian_Galatee,[temps paraître encore],0.031508568051009
+374,Florian_Galatee,amour_sentiment ,0.0451089850619133
+375,Florian_Galatee,locus amoenus_pastorale en littérature ,0.184875612438813
+376,Florian_Galatee,nature,0.0491228116739989
+377,Florian_Galatee,[voir croire là],0.0547231232746111
+378,Florian_Galatee,migration_voyage ,0.0676820044679924
+379,Florian_Galatee,deuil,0.1080742296855569
+380,Florian_Galatee,bonheur,0.0664115939085242
+381,Florian_Galatee,famille,0.0399537391504275
+382,Florian_Galatee,mort,0.0395000727471647
+383,Florian_Galatee,art,0.0495267831257944
+384,Florian_Galatee,nuit,0.0448415681164437
+385,Fourqueux_Zely,[temps paraître encore],0.0918209961122853
+386,Fourqueux_Zely,amour_sentiment ,0.1094091167687891
+387,Fourqueux_Zely,[voir croire là],0.121614446139166
+388,Fourqueux_Zely,correspondance,0.0410965333982832
+389,Fourqueux_Zely,migration_voyage ,0.0501726820557862
+390,Fourqueux_Zely,interaction,0.0635321764838135
+391,Fourqueux_Zely,crime,0.0352128090241578
+392,Fourqueux_Zely,deuil,0.0449726386925701
+393,Fourqueux_Zely,bonheur,0.0822724454810082
+394,Fourqueux_Zely,attraction_personnalité ,0.0903160704775866
+395,Fourqueux_Zely,[point voir moins],0.0307558098149262
+396,Genlis_Adele,[temps paraître encore],0.0348332044395394
+397,Genlis_Adele,amour_sentiment ,0.055485675701582
+398,Genlis_Adele,[voir croire là],0.0754487282073329
+399,Genlis_Adele,correspondance,0.0757183601917065
+400,Genlis_Adele,[chevalier voir mot],0.1059370556097308
+401,Genlis_Adele,interaction,0.0558713765737751
+402,Genlis_Adele,deuil,0.044587653068544
+403,Genlis_Adele,bonheur,0.0594540703223386
+404,Genlis_Adele,attraction_personnalité ,0.1246719878483442
+405,Genlis_Adele,famille,0.0366949523121613
+406,Genlis_Adele,art,0.0354517778571209
+407,Genlis_Adele,éducation_enfance ,0.0598619558028668
+408,Genlis_Adele,nuit,0.0446761778257364
+409,Genlis_Chevaliers,[temps paraître encore],0.0387383117827448
+410,Genlis_Chevaliers,monarchie,0.0533207691631429
+411,Genlis_Chevaliers,amour_sentiment ,0.0863158158171323
+412,Genlis_Chevaliers,[chevalier voir mot],0.2747937374967598
+413,Genlis_Chevaliers,interaction,0.0508504564923393
+414,Genlis_Chevaliers,crime,0.0361854009040668
+415,Genlis_Chevaliers,deuil,0.0657902508812211
+416,Genlis_Chevaliers,bonheur,0.0560753991659162
+417,Genlis_Chevaliers,mort,0.0589139604231545
+418,Genlis_Chevaliers,nuit,0.04557082618325
+419,Gerard_Comte,[temps paraître encore],0.0590387747674069
+420,Gerard_Comte,amour_sentiment ,0.0962958792634252
+421,Gerard_Comte,[voir croire là],0.0347329831749704
+422,Gerard_Comte,philosophie,0.0665105868535747
+423,Gerard_Comte,interaction,0.039712235714827
+424,Gerard_Comte,deuil,0.0340154394901891
+425,Gerard_Comte,religion,0.241447721884142
+426,Gerard_Comte,bonheur,0.0580298798013053
+427,Gerard_Comte,attraction_personnalité ,0.0319492025091137
+428,Gerard_Comte,[point voir moins],0.074138938506104
+429,Gerard_Comte,éducation_enfance ,0.0568881498471325
+430,Gorjy_Voyage,[temps paraître encore],0.0748854109384741
+431,Gorjy_Voyage,richesse,0.0331295320079098
+432,Gorjy_Voyage,relation amoureuse,0.0673020837000919
+433,Gorjy_Voyage,amour_sentiment ,0.0429936042398447
+434,Gorjy_Voyage,locus amoenus_pastorale en littérature ,0.0586744343376894
+435,Gorjy_Voyage,nature,0.0311488920584054
+436,Gorjy_Voyage,[voir croire là],0.0811846134466342
+437,Gorjy_Voyage,alimentation_sociabilité ,0.0669531986605845
+438,Gorjy_Voyage,interaction,0.0367865936181107
+439,Gorjy_Voyage,attraction_personnalité ,0.0793456542584256
+440,Gorjy_Voyage,art,0.0483032878554837
+441,Gorjy_Voyage,nuit,0.0909905572160846
+442,Jacquant_Lettres,[temps paraître encore],0.2541957499003437
+443,Jacquant_Lettres,amour_sentiment ,0.1500799327775274
+444,Jacquant_Lettres,locus amoenus_pastorale en littérature ,0.0300283476612124
+445,Jacquant_Lettres,[voir croire là],0.0342259505444673
+446,Jacquant_Lettres,interaction,0.0697706022328921
+447,Jacquant_Lettres,crime,0.0330747747825122
+448,Jacquant_Lettres,bonheur,0.0802518802782495
+449,Jacquant_Lettres,attraction_personnalité ,0.1035172195054957
+450,Jacquin_Parisiennes2,[temps paraître encore],0.1580494772468224
+451,Jacquin_Parisiennes2,richesse,0.0443523734203231
+452,Jacquin_Parisiennes2,amour_sentiment ,0.0928471809449002
+453,Jacquin_Parisiennes2,[voir croire là],0.0440664023649294
+454,Jacquin_Parisiennes2,interaction,0.0619811788045012
+455,Jacquin_Parisiennes2,crime,0.0468870029199209
+456,Jacquin_Parisiennes2,bonheur,0.090734050229472
+457,Jacquin_Parisiennes2,attraction_personnalité ,0.1131707305210007
+458,Jacquin_Parisiennes2,[point voir moins],0.0310639681246463
+459,Jacquin_Parisiennes2,art,0.0455936873086272
+460,Jacquin_Parisiennes2,éducation_enfance ,0.0368206160707901
+461,Kimber_Thompson1,[temps paraître encore],0.1273649219346083
+462,Kimber_Thompson1,richesse,0.0627047966679452
+463,Kimber_Thompson1,[voir croire là],0.0570233100777753
+464,Kimber_Thompson1,alimentation_sociabilité ,0.0552506925261476
+465,Kimber_Thompson1,correspondance,0.0340344395329793
+466,Kimber_Thompson1,migration_voyage ,0.0885416624103783
+467,Kimber_Thompson1,interaction,0.0368555296274991
+468,Kimber_Thompson1,bonheur,0.0367036155409232
+469,Kimber_Thompson1,attraction_personnalité ,0.0757012711750635
+470,Kimber_Thompson1,famille,0.0391124807737334
+471,Kimber_Thompson1,mort,0.0315062797570133
+472,Kimber_Thompson1,éducation_enfance ,0.0428335917589329
+473,Kimber_Thompson1,nuit,0.0681542106279719
+474,Kimber_Thompson2,[temps paraître encore],0.1417072215109943
+475,Kimber_Thompson2,richesse,0.0448565114573291
+476,Kimber_Thompson2,amour_sentiment ,0.0386221731120157
+477,Kimber_Thompson2,[voir croire là],0.0530968314802979
+478,Kimber_Thompson2,correspondance,0.0698577983138145
+479,Kimber_Thompson2,migration_voyage ,0.104624127366142
+480,Kimber_Thompson2,interaction,0.0457606668043953
+481,Kimber_Thompson2,deuil,0.0542768164425097
+482,Kimber_Thompson2,[point voir jour],0.0330990022919224
+483,Kimber_Thompson2,bonheur,0.0794538490963814
+484,Kimber_Thompson2,attraction_personnalité ,0.0536207480085715
+485,Kimber_Thompson2,famille,0.0504483393025207
+486,Kimber_Thompson2,nuit,0.0457241694544129
+487,LaPlace_Collection,[temps paraître encore],0.1733278571059065
+488,LaPlace_Collection,amour_sentiment ,0.0559156588632849
+489,LaPlace_Collection,[voir croire là],0.0534983300459466
+490,LaPlace_Collection,correspondance,0.0663701989875437
+491,LaPlace_Collection,migration_voyage ,0.0703343152784409
+492,LaPlace_Collection,interaction,0.0792320065017968
+493,LaPlace_Collection,crime,0.0314730828004727
+494,LaPlace_Collection,deuil,0.0581273688439891
+495,LaPlace_Collection,bonheur,0.046992464996875
+496,LaPlace_Collection,famille,0.038143603534658
+497,LaPlace_Collection,[point voir moins],0.0315994141577744
+498,LaPlace_Collection,nuit,0.0321079888891898
+499,LaPlace_Collection,noblesse,0.0715079406673267
+500,LaPlace_Lydia,[temps paraître encore],0.1998776083190297
+501,LaPlace_Lydia,amour_sentiment ,0.0627613587736865
+502,LaPlace_Lydia,[voir croire là],0.0534818217285636
+503,LaPlace_Lydia,interaction,0.0908474204470345
+504,LaPlace_Lydia,bonheur,0.0550680706650097
+505,LaPlace_Lydia,attraction_personnalité ,0.1471120308856574
+506,LaPlace_Lydia,[point voir moins],0.0509202343893155
+507,LaPlace_Lydia,éducation_enfance ,0.0343728374532988
+508,Laclos_Liaisons,[temps paraître encore],0.0608225208353024
+509,Laclos_Liaisons,amour_sentiment ,0.0836627265267459
+510,Laclos_Liaisons,[voir croire là],0.1716264076196401
+511,Laclos_Liaisons,correspondance,0.1469874109657242
+512,Laclos_Liaisons,interaction,0.1154304813507068
+513,Laclos_Liaisons,deuil,0.0300225549332784
+514,Laclos_Liaisons,bonheur,0.070117118146982
+515,Laclos_Liaisons,attraction_personnalité ,0.0494362568220314
+516,Laclos_Liaisons,[point voir moins],0.040049278826196
+517,Laclos_Liaisons,nuit,0.0555230731053729
+518,Lagrave_Sophie1,[temps paraître encore],0.0491319810318546
+519,Lagrave_Sophie1,amour_sentiment ,0.1150529246845854
+520,Lagrave_Sophie1,[voir croire là],0.0856616361001948
+521,Lagrave_Sophie1,correspondance,0.1084202933619636
+522,Lagrave_Sophie1,deuil,0.072896620622173
+523,Lagrave_Sophie1,bonheur,0.0733445472520737
+524,Lagrave_Sophie1,attraction_personnalité ,0.0937254765260904
+525,Lagrave_Sophie1,famille,0.0731981813956703
+526,Lagrave_Sophie1,mort,0.0391205626720613
+527,Lagrave_Sophie1,nuit,0.0540687751065231
+528,Lagrave_Zabeth1,[temps paraître encore],0.0637770404795519
+529,Lagrave_Zabeth1,amour_sentiment ,0.0545454297105799
+530,Lagrave_Zabeth1,[voir croire là],0.0933599006823717
+531,Lagrave_Zabeth1,correspondance,0.0336979751238893
+532,Lagrave_Zabeth1,interaction,0.0380100493546596
+533,Lagrave_Zabeth1,deuil,0.0840803664880841
+534,Lagrave_Zabeth1,bonheur,0.0824804406982547
+535,Lagrave_Zabeth1,attraction_personnalité ,0.0626208966681823
+536,Lagrave_Zabeth1,famille,0.1779497233306975
+537,Lagrave_Zabeth1,nuit,0.0806820972495462
+538,Leonard_Lettres1,[temps paraître encore],0.0331086887881984
+539,Leonard_Lettres1,amour_sentiment ,0.1246922214625782
+540,Leonard_Lettres1,locus amoenus_pastorale en littérature ,0.0528282334315242
+541,Leonard_Lettres1,nature,0.0377708130730881
+542,Leonard_Lettres1,[voir croire là],0.0366475015133239
+543,Leonard_Lettres1,philosophie,0.0341138892861873
+544,Leonard_Lettres1,correspondance,0.0485285605219799
+545,Leonard_Lettres1,deuil,0.1277911059047888
+546,Leonard_Lettres1,bonheur,0.1261366046893745
+547,Leonard_Lettres1,famille,0.0434378114811871
+548,Leonard_Lettres1,mort,0.0556797827728418
+549,Leonard_Lettres1,[point voir moins],0.0382422442835216
+550,Leonard_Lettres1,nuit,0.0428264954514874
+551,Lesuire_Aventurier1,[temps paraître encore],0.0798338700714824
+552,Lesuire_Aventurier1,relation amoureuse,0.0666362295937167
+553,Lesuire_Aventurier1,amour_sentiment ,0.0339010470441791
+554,Lesuire_Aventurier1,[voir croire là],0.0523983536979391
+555,Lesuire_Aventurier1,migration_voyage ,0.0399262570761609
+556,Lesuire_Aventurier1,[chevalier voir mot],0.0422161365925245
+557,Lesuire_Aventurier1,interaction,0.0425254563628184
+558,Lesuire_Aventurier1,crime,0.0705233173473689
+559,Lesuire_Aventurier1,deuil,0.0481706837876618
+560,Lesuire_Aventurier1,[point voir jour],0.074514886166774
+561,Lesuire_Aventurier1,bonheur,0.0329449851393975
+562,Lesuire_Aventurier1,attraction_personnalité ,0.0376964236137285
+563,Lesuire_Aventurier1,famille,0.0370555954672952
+564,Lesuire_Aventurier1,mort,0.0709055049925644
+565,Lesuire_Aventurier1,nuit,0.0615275865268992
+566,Lesuire_Crime1,[temps paraître encore],0.0480627124948791
+567,Lesuire_Crime1,richesse,0.045525815043274
+568,Lesuire_Crime1,relation amoureuse,0.1236011071683502
+569,Lesuire_Crime1,[voir croire là],0.1130158198886394
+570,Lesuire_Crime1,correspondance,0.0418497687588452
+571,Lesuire_Crime1,interaction,0.0353249123626522
+572,Lesuire_Crime1,crime,0.0602337051179977
+573,Lesuire_Crime1,attraction_personnalité ,0.0534466257543102
+574,Lesuire_Crime1,famille,0.0778990571392816
+575,Lesuire_Crime1,art,0.0342978065651379
+576,Lesuire_Crime1,nuit,0.0440480889993143
+577,Loaisel_Comtesse,amour_sentiment ,0.1386452660014029
+578,Loaisel_Comtesse,locus amoenus_pastorale en littérature ,0.0497789186522863
+579,Loaisel_Comtesse,nature,0.0458062994890682
+580,Loaisel_Comtesse,crime,0.059982282842921
+581,Loaisel_Comtesse,deuil,0.1123548442667383
+582,Loaisel_Comtesse,bonheur,0.1192605874249035
+583,Loaisel_Comtesse,famille,0.039814082001121
+584,Loaisel_Comtesse,mort,0.1980640661455104
+585,Loaisel_Lucile,amour_sentiment ,0.1383772804087384
+586,Loaisel_Lucile,locus amoenus_pastorale en littérature ,0.0445551715181106
+587,Loaisel_Lucile,nature,0.0423143045734514
+588,Loaisel_Lucile,crime,0.0601225887224468
+589,Loaisel_Lucile,deuil,0.1221674839553447
+590,Loaisel_Lucile,bonheur,0.1103486895498196
+591,Loaisel_Lucile,famille,0.0429710747283089
+592,Loaisel_Lucile,mort,0.2036956040074696
+593,Louvet_Annee,[temps paraître encore],0.0539375997216128
+594,Louvet_Annee,amour_sentiment ,0.0407797636150159
+595,Louvet_Annee,[voir croire là],0.1081939814777072
+596,Louvet_Annee,migration_voyage ,0.0610231217283531
+597,Louvet_Annee,crime,0.0317621303319532
+598,Louvet_Annee,deuil,0.0471042133227799
+599,Louvet_Annee,bonheur,0.0447051835900837
+600,Louvet_Annee,famille,0.0389354137580367
+601,Louvet_Annee,mort,0.0571123332941349
+602,Louvet_Annee,nuit,0.1362284737939126
+603,Louvet_Annee,noblesse,0.1188320234365812
+604,Louvet_Fin,[temps paraître encore],0.0543109873086745
+605,Louvet_Fin,amour_sentiment ,0.0494421113805417
+606,Louvet_Fin,[voir croire là],0.1579789340922169
+607,Louvet_Fin,interaction,0.0405618752919367
+608,Louvet_Fin,crime,0.0323528440174337
+609,Louvet_Fin,deuil,0.0587892166464504
+610,Louvet_Fin,bonheur,0.0440607635386201
+611,Louvet_Fin,attraction_personnalité ,0.043992023688318
+612,Louvet_Fin,famille,0.0372794817279506
+613,Louvet_Fin,mort,0.0360760263763396
+614,Louvet_Fin,nuit,0.0791015911967409
+615,Louvet_Fin,noblesse,0.1415212453006925
+616,Maistre_Voyage,[temps paraître encore],0.0358136262826404
+617,Maistre_Voyage,relation amoureuse,0.0515124704399614
+618,Maistre_Voyage,amour_sentiment ,0.0347956066631095
+619,Maistre_Voyage,locus amoenus_pastorale en littérature ,0.0436901074399631
+620,Maistre_Voyage,nature,0.0594849453346906
+621,Maistre_Voyage,[voir croire là],0.0526491908740026
+622,Maistre_Voyage,philosophie,0.0469165737144165
+623,Maistre_Voyage,deuil,0.0314138670519643
+624,Maistre_Voyage,bonheur,0.099504225000714
+625,Maistre_Voyage,attraction_personnalité ,0.0389505612134125
+626,Maistre_Voyage,mort,0.0742489139714426
+627,Maistre_Voyage,art,0.0959338576821774
+628,Maistre_Voyage,éducation_enfance ,0.0502042203218403
+629,Maistre_Voyage,nuit,0.075164236848085
+630,Meissner_Histoire1,[temps paraître encore],0.130050010119689
+631,Meissner_Histoire1,monarchie,0.048301297717517
+632,Meissner_Histoire1,amour_sentiment ,0.069331495593861
+633,Meissner_Histoire1,locus amoenus_pastorale en littérature ,0.0477994689162767
+634,Meissner_Histoire1,[voir croire là],0.0637605607527407
+635,Meissner_Histoire1,interaction,0.0437717919597858
+636,Meissner_Histoire1,crime,0.0356291630827947
+637,Meissner_Histoire1,deuil,0.0739094973353909
+638,Meissner_Histoire1,bonheur,0.0464035639257666
+639,Meissner_Histoire1,attraction_personnalité ,0.0335785332439333
+640,Meissner_Histoire1,mort,0.0423940917822845
+641,Meissner_Histoire1,nuit,0.0423257301484826
+642,Merard_Bergeries,[temps paraître encore],0.0714661120501666
+643,Merard_Bergeries,amour_sentiment ,0.1121776994581517
+644,Merard_Bergeries,locus amoenus_pastorale en littérature ,0.3493987020443029
+645,Merard_Bergeries,[voir croire là],0.0858846263879045
+646,Merard_Bergeries,deuil,0.0583509723512845
+647,Merard_Bergeries,bonheur,0.0438232957606428
+648,Merard_Bergeries,mort,0.0332070275569238
+649,Merard_Bergeries,nuit,0.0318874445024767
+650,Mercier_An,richesse,0.0612528886159419
+651,Mercier_An,monarchie,0.0899336231990662
+652,Mercier_An,amour_sentiment ,0.0383813646847252
+653,Mercier_An,nature,0.0520325578993688
+654,Mercier_An,philosophie,0.0937023420544587
+655,Mercier_An,crime,0.0415017153378722
+656,Mercier_An,deuil,0.0384473931003371
+657,Mercier_An,religion,0.0593035317085541
+658,Mercier_An,mort,0.0767688559263227
+659,Mercier_An,[point voir moins],0.0337081126540563
+660,Mercier_An,art,0.0815639850864013
+661,Mercier_An,éducation_enfance ,0.0481588981625534
+662,Mirabeau_Conversion,richesse,0.0318816277049352
+663,Mirabeau_Conversion,relation amoureuse,0.1015725157891469
+664,Mirabeau_Conversion,amour_sentiment ,0.0424087886586844
+665,Mirabeau_Conversion,locus amoenus_pastorale en littérature ,0.0632766427441532
+666,Mirabeau_Conversion,[voir croire là],0.0696276590438055
+667,Mirabeau_Conversion,alimentation_sociabilité ,0.0475456017408675
+668,Mirabeau_Conversion,interaction,0.0301636937249234
+669,Mirabeau_Conversion,deuil,0.0493576262274575
+670,Mirabeau_Conversion,libertinage,0.0699497301907982
+671,Mirabeau_Conversion,attraction_personnalité ,0.0501378481975203
+672,Mirabeau_Conversion,mort,0.0458575038085751
+673,Mirabeau_Conversion,nuit,0.0584432377591512
+674,Mirabeau_Rideau,[temps paraître encore],0.1602416071716439
+675,Mirabeau_Rideau,amour_sentiment ,0.0436935797286365
+676,Mirabeau_Rideau,locus amoenus_pastorale en littérature ,0.0630867747975877
+677,Mirabeau_Rideau,[voir croire là],0.0321001705958779
+678,Mirabeau_Rideau,philosophie,0.0512315600289249
+679,Mirabeau_Rideau,interaction,0.0334607075207538
+680,Mirabeau_Rideau,deuil,0.0420236935455889
+681,Mirabeau_Rideau,libertinage,0.1107707748784858
+682,Mirabeau_Rideau,bonheur,0.0640255861763713
+683,Mirabeau_Rideau,attraction_personnalité ,0.0369259995605497
+684,Mirabeau_Rideau,famille,0.0314041309647953
+685,Mirabeau_Rideau,mort,0.0311832960206988
+686,Mirabeau_Rideau,éducation_enfance ,0.0452216523703086
+687,Mirabeau_Rideau,nuit,0.0794562437845988
+688,Morelly_Naufrage1,[temps paraître encore],0.0745085426516143
+689,Morelly_Naufrage1,monarchie,0.1111024149034002
+690,Morelly_Naufrage1,amour_sentiment ,0.0755346507126176
+691,Morelly_Naufrage1,locus amoenus_pastorale en littérature ,0.0767824575210059
+692,Morelly_Naufrage1,nature,0.1116824111566583
+693,Morelly_Naufrage1,philosophie,0.055417251193185
+694,Morelly_Naufrage1,migration_voyage ,0.0322801591661995
+695,Morelly_Naufrage1,crime,0.0334696245368888
+696,Morelly_Naufrage1,bonheur,0.0511288659345598
+697,Morelly_Naufrage1,mort,0.0664757412225864
+698,Morelly_Naufrage1,éducation_enfance ,0.0488262054111449
+699,Morelly_Naufrage2,[temps paraître encore],0.0625277657212077
+700,Morelly_Naufrage2,monarchie,0.099827163577
+701,Morelly_Naufrage2,amour_sentiment ,0.0452794827879108
+702,Morelly_Naufrage2,nature,0.134401191202861
+703,Morelly_Naufrage2,philosophie,0.1023307506028988
+704,Morelly_Naufrage2,interaction,0.031266581587312
+705,Morelly_Naufrage2,crime,0.0534123231320564
+706,Morelly_Naufrage2,religion,0.0710813865409954
+707,Morelly_Naufrage2,bonheur,0.0449997813770096
+708,Morelly_Naufrage2,mort,0.0663679732042421
+709,Morelly_Naufrage2,[point voir moins],0.0309004487751252
+710,Morelly_Naufrage2,éducation_enfance ,0.0377203580995018
+711,Nerciat_Aphrodites,[temps paraître encore],0.0345277069705381
+712,Nerciat_Aphrodites,relation amoureuse,0.2695367536141005
+713,Nerciat_Aphrodites,[voir croire là],0.0823148143414988
+714,Nerciat_Aphrodites,interaction,0.0397126264606568
+715,Nerciat_Aphrodites,bonheur,0.0321623066620019
+716,Nerciat_Aphrodites,mort,0.0383448253095746
+717,Nerciat_Aphrodites,nuit,0.0495491597370802
+718,Nerciat_Aphrodites,noblesse,0.0452164132830857
+719,Nerciat_Etourdi,[temps paraître encore],0.0844866200194856
+720,Nerciat_Etourdi,relation amoureuse,0.065976856609433
+721,Nerciat_Etourdi,amour_sentiment ,0.0848161093742927
+722,Nerciat_Etourdi,locus amoenus_pastorale en littérature ,0.0462188416027092
+723,Nerciat_Etourdi,[voir croire là],0.0491875633074031
+724,Nerciat_Etourdi,correspondance,0.0339730636698195
+725,Nerciat_Etourdi,interaction,0.0576420681585766
+726,Nerciat_Etourdi,deuil,0.0456987412461175
+727,Nerciat_Etourdi,[point voir jour],0.0372350878381385
+728,Nerciat_Etourdi,bonheur,0.0443189974517456
+729,Nerciat_Etourdi,attraction_personnalité ,0.1214720684133055
+730,Nerciat_Etourdi,famille,0.0385997828550128
+731,Nerciat_Etourdi,mort,0.0329478724834374
+732,Nerciat_Etourdi,nuit,0.0493481534897563
+733,Nerciat_Felicia,[temps paraître encore],0.0761674915035721
+734,Nerciat_Felicia,relation amoureuse,0.1467115862273676
+735,Nerciat_Felicia,amour_sentiment ,0.0501296311074834
+736,Nerciat_Felicia,[voir croire là],0.0752430661102553
+737,Nerciat_Felicia,interaction,0.0546065267845142
+738,Nerciat_Felicia,crime,0.0309732933270797
+739,Nerciat_Felicia,bonheur,0.0508664604382004
+740,Nerciat_Felicia,attraction_personnalité ,0.06630712203865
+741,Nerciat_Felicia,[point voir moins],0.0381630099364324
+742,Nerciat_Felicia,nuit,0.0582725447477386
+743,Popeliniere_Daira1,[temps paraître encore],0.0891216543191721
+744,Popeliniere_Daira1,amour_sentiment ,0.0459863421979061
+745,Popeliniere_Daira1,migration_voyage ,0.2823590158295768
+746,Popeliniere_Daira1,crime,0.0592777016511743
+747,Popeliniere_Daira1,deuil,0.1319394101346797
+748,Popeliniere_Daira1,bonheur,0.0460428946553753
+749,Popeliniere_Daira1,mort,0.0666557673711743
+750,Popeliniere_Daira2,[temps paraître encore],0.0532271669313686
+751,Popeliniere_Daira2,migration_voyage ,0.3327343922818305
+752,Popeliniere_Daira2,interaction,0.0333276023109965
+753,Popeliniere_Daira2,crime,0.0576560241490254
+754,Popeliniere_Daira2,deuil,0.1494118479121633
+755,Popeliniere_Daira2,bonheur,0.0356964986534267
+756,Popeliniere_Daira2,famille,0.0433712291487732
+757,Popeliniere_Daira2,mort,0.060405758420138
+758,Puget_Periphas1,[temps paraître encore],0.0486604737182163
+759,Puget_Periphas1,richesse,0.05527511749669
+760,Puget_Periphas1,monarchie,0.2734378575252643
+761,Puget_Periphas1,amour_sentiment ,0.0417315724674042
+762,Puget_Periphas1,locus amoenus_pastorale en littérature ,0.0421644927658367
+763,Puget_Periphas1,nature,0.0392856321010229
+764,Puget_Periphas1,philosophie,0.0325927874518832
+765,Puget_Periphas1,interaction,0.0608362237024027
+766,Puget_Periphas1,crime,0.0414356731139928
+767,Puget_Periphas1,deuil,0.0323271726743656
+768,Puget_Periphas1,religion,0.03726252674071
+769,Puget_Periphas1,bonheur,0.0421497071379273
+770,Puget_Periphas1,mort,0.0730037761047029
+771,Puget_Periphas1,[point voir moins],0.0354236519269873
+772,Puget_Periphas1,éducation_enfance ,0.0344492228189797
+773,Puget_Periphas2,[temps paraître encore],0.059712853310259
+774,Puget_Periphas2,monarchie,0.2968665477108819
+775,Puget_Periphas2,amour_sentiment ,0.0509649654937913
+776,Puget_Periphas2,locus amoenus_pastorale en littérature ,0.0545621958821012
+777,Puget_Periphas2,nature,0.0472219193238473
+778,Puget_Periphas2,interaction,0.0528276666343544
+779,Puget_Periphas2,crime,0.0390587325466701
+780,Puget_Periphas2,religion,0.0402920506888143
+781,Puget_Periphas2,bonheur,0.0322474699936104
+782,Puget_Periphas2,mort,0.1062178292155377
+783,Retif_AntiJustine,[voir croire là],0.0562996885241964
+784,Retif_AntiJustine,libertinage,0.4703897459797225
+785,Retif_AntiJustine,famille,0.0744802403493176
+786,Retif_AntiJustine,nuit,0.0915177414010285
+787,Retif_Paysanne,[temps paraître encore],0.0384984703233419
+788,Retif_Paysanne,relation amoureuse,0.0377106249297629
+789,Retif_Paysanne,amour_sentiment ,0.0307484242087999
+790,Retif_Paysanne,[voir croire là],0.1150182609367236
+791,Retif_Paysanne,correspondance,0.0938572199830934
+792,Retif_Paysanne,interaction,0.0503064910488361
+793,Retif_Paysanne,crime,0.0452179285764044
+794,Retif_Paysanne,deuil,0.0476881845265326
+795,Retif_Paysanne,attraction_personnalité ,0.0461705731234518
+796,Retif_Paysanne,famille,0.1378917870616387
+797,Retif_Paysanne,[point voir moins],0.0349061409974457
+798,Retif_Paysanne,nuit,0.0591121389585698
+799,Reveroni_Pauliska,[temps paraître encore],0.0518322206626125
+800,Reveroni_Pauliska,relation amoureuse,0.0330992266356268
+801,Reveroni_Pauliska,amour_sentiment ,0.0356002790267131
+802,Reveroni_Pauliska,philosophie,0.0304623342114072
+803,Reveroni_Pauliska,migration_voyage ,0.0538288314867645
+804,Reveroni_Pauliska,[chevalier voir mot],0.0417556595271061
+805,Reveroni_Pauliska,interaction,0.0493774866571934
+806,Reveroni_Pauliska,crime,0.0317008330001004
+807,Reveroni_Pauliska,deuil,0.0490939185712151
+808,Reveroni_Pauliska,bonheur,0.0571882297234662
+809,Reveroni_Pauliska,mort,0.2239148329670573
+810,Reveroni_Pauliska,nuit,0.0592093460441844
+811,Riccoboni_MylordRivers,[temps paraître encore],0.0941140526802185
+812,Riccoboni_MylordRivers,amour_sentiment ,0.1182953761643724
+813,Riccoboni_MylordRivers,[voir croire là],0.0564952188669161
+814,Riccoboni_MylordRivers,correspondance,0.0600499036758486
+815,Riccoboni_MylordRivers,interaction,0.0817879993370624
+816,Riccoboni_MylordRivers,bonheur,0.101333582901901
+817,Riccoboni_MylordRivers,attraction_personnalité ,0.2035343830924769
+818,Riccoboni_MylordRivers,[point voir moins],0.032241686919461
+819,Rosny_Firmin,[temps paraître encore],0.098125200356848
+820,Rosny_Firmin,richesse,0.0694840791838165
+821,Rosny_Firmin,amour_sentiment ,0.0562811128703095
+822,Rosny_Firmin,philosophie,0.0377464616548469
+823,Rosny_Firmin,migration_voyage ,0.0331460246507231
+824,Rosny_Firmin,interaction,0.115886237163474
+825,Rosny_Firmin,crime,0.064769682016113
+826,Rosny_Firmin,bonheur,0.1113053408556662
+827,Rosny_Firmin,attraction_personnalité ,0.0463035544278836
+828,Rosny_Firmin,mort,0.0321950947015742
+829,Rosny_Firmin,art,0.0521976948761877
+830,Rosny_Firmin,éducation_enfance ,0.0304604034596223
+831,Rousseau_Emile1,[voir croire là],0.0564865855412211
+832,Rousseau_Emile1,alimentation_sociabilité ,0.0330013990234904
+833,Rousseau_Emile1,philosophie,0.0738057542232619
+834,Rousseau_Emile1,bonheur,0.0308622631631768
+835,Rousseau_Emile1,[point voir moins],0.0840182812110154
+836,Rousseau_Emile1,éducation_enfance ,0.3562688208871998
+837,Rousseau_Emile1,nuit,0.0303797498409888
+838,Rousseau_Emile2,[temps paraître encore],0.0312643280042674
+839,Rousseau_Emile2,amour_sentiment ,0.0640863213056734
+840,Rousseau_Emile2,[voir croire là],0.0624671921087692
+841,Rousseau_Emile2,philosophie,0.0899650778923799
+842,Rousseau_Emile2,interaction,0.0352108297137531
+843,Rousseau_Emile2,religion,0.0471965761254411
+844,Rousseau_Emile2,bonheur,0.0435843708002593
+845,Rousseau_Emile2,attraction_personnalité ,0.0636026959516805
+846,Rousseau_Emile2,[point voir moins],0.1456092773720991
+847,Rousseau_Emile2,éducation_enfance ,0.1502152002820322
+848,Rousseau_Julie,[temps paraître encore],0.040210463880962
+849,Rousseau_Julie,amour_sentiment ,0.1054293159781511
+850,Rousseau_Julie,[voir croire là],0.0675596989920768
+851,Rousseau_Julie,correspondance,0.0435081286272282
+852,Rousseau_Julie,interaction,0.0407475323957942
+853,Rousseau_Julie,deuil,0.0463766206805021
+854,Rousseau_Julie,bonheur,0.063287139133033
+855,Rousseau_Julie,attraction_personnalité ,0.0418951125979698
+856,Rousseau_Julie,[point voir moins],0.2013640139225643
+857,Rousseau_Julie,éducation_enfance ,0.064296647142693
+858,Sacy_Amours,[temps paraître encore],0.0564475414592102
+859,Sacy_Amours,amour_sentiment ,0.0493500870332072
+860,Sacy_Amours,locus amoenus_pastorale en littérature ,0.4619838614957852
+861,Sacy_Amours,deuil,0.0823938905737154
+862,Sacy_Amours,bonheur,0.0394603774529943
+863,Sacy_Amours,mort,0.0940549557863353
+864,Sade_120,[femme fille servir],0.181155842984642
+865,Sade_120,[voir croire là],0.0587569050709994
+866,Sade_120,libertinage,0.3089147879972194
+867,Sade_120,nuit,0.0622534583304997
+868,Sade_Aline,[temps paraître encore],0.0358974824230458
+869,Sade_Aline,richesse,0.032741201392101
+870,Sade_Aline,[femme fille servir],0.1400223766042039
+871,Sade_Aline,amour_sentiment ,0.0559706357681863
+872,Sade_Aline,[voir croire là],0.071558337061495
+873,Sade_Aline,philosophie,0.0713156594762289
+874,Sade_Aline,migration_voyage ,0.0504714655867
+875,Sade_Aline,interaction,0.0693226826920955
+876,Sade_Aline,crime,0.0494102534188479
+877,Sade_Aline,deuil,0.0511617155526189
+878,Sade_Aline,bonheur,0.041580727205107
+879,Sade_Aline,mort,0.0365160042644431
+880,Sade_Aline,nuit,0.0480404856189834
+881,Sade_Infortunes,[temps paraître encore],0.0310651994274856
+882,Sade_Infortunes,richesse,0.0426097365033511
+883,Sade_Infortunes,[femme fille servir],0.1988021616775837
+884,Sade_Infortunes,[voir croire là],0.0491122533328619
+885,Sade_Infortunes,philosophie,0.0463942544238245
+886,Sade_Infortunes,migration_voyage ,0.038291804694931
+887,Sade_Infortunes,interaction,0.0757085581507998
+888,Sade_Infortunes,crime,0.0909855494727547
+889,Sade_Infortunes,deuil,0.043970548746648
+890,Sade_Infortunes,bonheur,0.0450225660973744
+891,Sade_Infortunes,mort,0.0365851038372398
+892,Sade_Infortunes,nuit,0.0822193561699913
+893,Sade_Justine,[femme fille servir],0.2304246632934606
+894,Sade_Justine,[voir croire là],0.0445331852022252
+895,Sade_Justine,philosophie,0.0707732945923915
+896,Sade_Justine,interaction,0.0575464930507879
+897,Sade_Justine,crime,0.0773804474146858
+898,Sade_Justine,deuil,0.0411609726099057
+899,Sade_Justine,bonheur,0.0332462655556998
+900,Sade_Justine,mort,0.062524907420815
+901,Sade_Justine,nuit,0.0606925070185794
+902,Sade_Philosophie,[femme fille servir],0.2139831399612974
+903,Sade_Philosophie,amour_sentiment ,0.0395527327768319
+904,Sade_Philosophie,[voir croire là],0.0736487251723247
+905,Sade_Philosophie,philosophie,0.180953154173102
+906,Sade_Philosophie,interaction,0.0345948917020922
+907,Sade_Philosophie,libertinage,0.1010091540290586
+908,Sade_Philosophie,religion,0.0350577016720393
+909,Sade_Philosophie,famille,0.0307651852034448
+910,Segur_Correspondance,[temps paraître encore],0.0316176035747463
+911,Segur_Correspondance,amour_sentiment ,0.0367329192736647
+912,Segur_Correspondance,[voir croire là],0.1049128567693866
+913,Segur_Correspondance,correspondance,0.0838072546670898
+914,Segur_Correspondance,interaction,0.0318462719013619
+915,Segur_Correspondance,[point voir jour],0.3240403271352551
+916,Segur_Correspondance,bonheur,0.0374625735016017
+917,Segur_Correspondance,attraction_personnalité ,0.0475609386970637
+918,Segur_Correspondance,nuit,0.0350183770262186
+919,Senac_Emigre,[temps paraître encore],0.0553589521256573
+920,Senac_Emigre,richesse,0.048178165491685
+921,Senac_Emigre,monarchie,0.0423607931447286
+922,Senac_Emigre,amour_sentiment ,0.0490455229772983
+923,Senac_Emigre,[voir croire là],0.0457152046481408
+924,Senac_Emigre,philosophie,0.0355256637437781
+925,Senac_Emigre,correspondance,0.1144241677785857
+926,Senac_Emigre,interaction,0.0486177517506115
+927,Senac_Emigre,deuil,0.0320515618807336
+928,Senac_Emigre,bonheur,0.0917338599201126
+929,Senac_Emigre,attraction_personnalité ,0.0788351042069656
+930,Senac_Emigre,mort,0.0306535393101757
+931,Senac_Emigre,art,0.036758665642662
+932,Senac_Emigre,nuit,0.0367308384720255
+933,Souza_Adele,[temps paraître encore],0.0664591666503633
+934,Souza_Adele,amour_sentiment ,0.036807174961913
+935,Souza_Adele,[voir croire là],0.1123581052852602
+936,Souza_Adele,correspondance,0.0518300286869191
+937,Souza_Adele,[chevalier voir mot],0.0353730375562886
+938,Souza_Adele,interaction,0.0369785580413963
+939,Souza_Adele,deuil,0.0628924214897125
+940,Souza_Adele,bonheur,0.1448280533514784
+941,Souza_Adele,attraction_personnalité ,0.0710957705092377
+942,Souza_Adele,famille,0.0477741643820609
+943,Souza_Adele,nuit,0.1562716688697648
+944,Tiphaigne_Galligenes1,[temps paraître encore],0.0534321437876173
+945,Tiphaigne_Galligenes1,richesse,0.0385666577359377
+946,Tiphaigne_Galligenes1,amour_sentiment ,0.054261521523717
+947,Tiphaigne_Galligenes1,nature,0.1241538182514831
+948,Tiphaigne_Galligenes1,[voir croire là],0.0596955449090943
+949,Tiphaigne_Galligenes1,philosophie,0.1591557565843974
+950,Tiphaigne_Galligenes1,deuil,0.0300413511157108
+951,Tiphaigne_Galligenes1,bonheur,0.0647004815787785
+952,Tiphaigne_Galligenes1,attraction_personnalité ,0.0351942659514229
+953,Tiphaigne_Galligenes1,famille,0.0344872290960509
+954,Tiphaigne_Galligenes1,[point voir moins],0.0347339331974015
+955,Tiphaigne_Galligenes1,éducation_enfance ,0.073491492926995
+956,Tiphaigne_Galligenes2,[temps paraître encore],0.0746707216039112
+957,Tiphaigne_Galligenes2,monarchie,0.1213461290150409
+958,Tiphaigne_Galligenes2,amour_sentiment ,0.0642427433957331
+959,Tiphaigne_Galligenes2,nature,0.0479473999793925
+960,Tiphaigne_Galligenes2,[voir croire là],0.0301676999703664
+961,Tiphaigne_Galligenes2,philosophie,0.1544786266875575
+962,Tiphaigne_Galligenes2,interaction,0.052079717183881
+963,Tiphaigne_Galligenes2,crime,0.03547210900988
+964,Tiphaigne_Galligenes2,bonheur,0.0464051785559355
+965,Tiphaigne_Galligenes2,attraction_personnalité ,0.030163096997883
+966,Tiphaigne_Galligenes2,mort,0.0583866935022887
+967,Tiphaigne_Galligenes2,[point voir moins],0.0335174262029972
+968,Tiphaigne_Galligenes2,éducation_enfance ,0.0466259545601878
+969,Voltaire_Candide,richesse,0.0396024169470847
+970,Voltaire_Candide,monarchie,0.0352677903761507
+971,Voltaire_Candide,nature,0.0313549898343903
+972,Voltaire_Candide,[voir croire là],0.0923999942154091
+973,Voltaire_Candide,alimentation_sociabilité ,0.194845055703615
+974,Voltaire_Candide,philosophie,0.0300728740794632
+975,Voltaire_Candide,migration_voyage ,0.1279080535627058
+976,Voltaire_Candide,deuil,0.0376080975662525
+977,Voltaire_Candide,[point voir jour],0.0511653263823761
+978,Voltaire_Candide,famille,0.0301967726766736
+979,Voltaire_Candide,art,0.0301558392613751
+980,Voltaire_Candide,nuit,0.0334398467715415
+981,Voltaire_Homme,richesse,0.2363548966029241
+982,Voltaire_Homme,monarchie,0.0483667821489784
+983,Voltaire_Homme,nature,0.0401850488921479
+984,Voltaire_Homme,[voir croire là],0.0804889516198587
+985,Voltaire_Homme,alimentation_sociabilité ,0.1053238235232816
+986,Voltaire_Homme,philosophie,0.0614608608366466
+987,Voltaire_Homme,[point voir jour],0.0513850687412144
+988,Voltaire_Homme,art,0.0484750546345763
+989,Voltaire_Princesse,monarchie,0.1979556597526599
+990,Voltaire_Princesse,locus amoenus_pastorale en littérature ,0.0384392518037747
+991,Voltaire_Princesse,nature,0.0540296040246309
+992,Voltaire_Princesse,[voir croire là],0.0612312064736665
+993,Voltaire_Princesse,alimentation_sociabilité ,0.0560707969665683
+994,Voltaire_Princesse,philosophie,0.0338536975600613
+995,Voltaire_Princesse,migration_voyage ,0.0795549703889336
+996,Voltaire_Princesse,[chevalier voir mot],0.0326404891548962
+997,Voltaire_Princesse,deuil,0.0300463676951084
+998,Voltaire_Princesse,[point voir jour],0.0354708629935558
+999,Voltaire_Princesse,famille,0.0355847994214142
+1000,Voltaire_Princesse,nuit,0.0389364319255117

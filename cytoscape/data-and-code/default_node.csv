@@ -1,0 +1,123 @@
+name,selected,shared name,type
+[chevalier voir mot],false,[chevalier voir mot],topic
+[femme fille servir],false,[femme fille servir],topic
+[point voir jour],false,[point voir jour],topic
+[point voir moins],false,[point voir moins],topic
+[temps paraître encore],false,[temps paraître encore],topic
+[voir croire là],false,[voir croire là],topic
+alimentation_sociabilité ,false,alimentation_sociabilité ,topic
+amour_sentiment ,false,amour_sentiment ,topic
+art,false,art,topic
+attraction_personnalité ,false,attraction_personnalité ,topic
+bonheur,false,bonheur,topic
+censure_religion ,false,censure_religion ,topic
+correspondance,false,correspondance,topic
+crime,false,crime,topic
+deuil,false,deuil,topic
+éducation_enfance ,false,éducation_enfance ,topic
+famille,false,famille,topic
+interaction,false,interaction,topic
+libertinage,false,libertinage,topic
+locus amoenus_pastorale en littérature ,false,locus amoenus_pastorale en littérature ,topic
+migration_voyage ,false,migration_voyage ,topic
+monarchie,false,monarchie,topic
+mort,false,mort,topic
+nature,false,nature,topic
+noblesse,false,noblesse,topic
+nuit,false,nuit,topic
+philosophie,false,philosophie,topic
+relation amoureuse,false,relation amoureuse,topic
+religion,false,religion,topic
+richesse,false,richesse,topic
+Abbes_Voyage,false,Abbes_Voyage,work
+Anonym_Suzon,false,Anonym_Suzon,work
+Anonyme_Etourdi,false,Anonyme_Etourdi,work
+Anonyme_Zoloe,false,Anonyme_Zoloe,work
+Arnaud_Epoux,false,Arnaud_Epoux,work
+Arnaud_Sentiment,false,Arnaud_Sentiment,work
+Beauharnais_Lettres,false,Beauharnais_Lettres,work
+Beaumont_Clarice,false,Beaumont_Clarice,work
+Beckford_Vathek,false,Beckford_Vathek,work
+Benoist_Elisabeth3,false,Benoist_Elisabeth3,work
+Benouville_Pensees,false,Benouville_Pensees,work
+Bernardin_Paul,false,Bernardin_Paul,work
+Berquin_Enfants,false,Berquin_Enfants,work
+Cazotte_Diable,false,Cazotte_Diable,work
+Charriere_Femmes,false,Charriere_Femmes,work
+Charriere_Lausanne,false,Charriere_Lausanne,work
+Constant_Laure1,false,Constant_Laure1,work
+Constant_Laure2,false,Constant_Laure2,work
+Cottin_Claire,false,Cottin_Claire,work
+Crebillon_Nuit,false,Crebillon_Nuit,work
+Diderot_Jacques,false,Diderot_Jacques,work
+Diderot_Neveu,false,Diderot_Neveu,work
+Diderot_Religieuse,false,Diderot_Religieuse,work
+Diderot_Supplement,false,Diderot_Supplement,work
+Doppet_Memoires,false,Doppet_Memoires,work
+Dorat_Sacrifices,false,Dorat_Sacrifices,work
+Duclos_Acajou,false,Duclos_Acajou,work
+Ducray_Cinquante1,false,Ducray_Cinquante1,work
+Dulaurens_Imirce,false,Dulaurens_Imirce,work
+Duras_Edouard,false,Duras_Edouard,work
+Duras_Ourika,false,Duras_Ourika,work
+Fievee_Dot,false,Fievee_Dot,work
+Florian_Estelle,false,Florian_Estelle,work
+Florian_Galatee,false,Florian_Galatee,work
+Fourqueux_Zely,false,Fourqueux_Zely,work
+Genlis_Adele,false,Genlis_Adele,work
+Genlis_Chevaliers,false,Genlis_Chevaliers,work
+Gerard_Comte,false,Gerard_Comte,work
+Gorjy_Voyage,false,Gorjy_Voyage,work
+Jacquant_Lettres,false,Jacquant_Lettres,work
+Jacquin_Parisiennes2,false,Jacquin_Parisiennes2,work
+Kimber_Thompson1,false,Kimber_Thompson1,work
+Kimber_Thompson2,false,Kimber_Thompson2,work
+Laclos_Liaisons,false,Laclos_Liaisons,work
+Lagrave_Sophie1,false,Lagrave_Sophie1,work
+Lagrave_Zabeth1,false,Lagrave_Zabeth1,work
+LaPlace_Collection,false,LaPlace_Collection,work
+LaPlace_Lydia,false,LaPlace_Lydia,work
+Leonard_Lettres1,false,Leonard_Lettres1,work
+Lesuire_Aventurier1,false,Lesuire_Aventurier1,work
+Lesuire_Crime1,false,Lesuire_Crime1,work
+Loaisel_Comtesse,false,Loaisel_Comtesse,work
+Loaisel_Lucile,false,Loaisel_Lucile,work
+Louvet_Annee,false,Louvet_Annee,work
+Louvet_Fin,false,Louvet_Fin,work
+Maistre_Voyage,false,Maistre_Voyage,work
+Meissner_Histoire1,false,Meissner_Histoire1,work
+Merard_Bergeries,false,Merard_Bergeries,work
+Mercier_An,false,Mercier_An,work
+Mirabeau_Conversion,false,Mirabeau_Conversion,work
+Mirabeau_Rideau,false,Mirabeau_Rideau,work
+Morelly_Naufrage1,false,Morelly_Naufrage1,work
+Morelly_Naufrage2,false,Morelly_Naufrage2,work
+Nerciat_Aphrodites,false,Nerciat_Aphrodites,work
+Nerciat_Etourdi,false,Nerciat_Etourdi,work
+Nerciat_Felicia,false,Nerciat_Felicia,work
+Popeliniere_Daira1,false,Popeliniere_Daira1,work
+Popeliniere_Daira2,false,Popeliniere_Daira2,work
+Puget_Periphas1,false,Puget_Periphas1,work
+Puget_Periphas2,false,Puget_Periphas2,work
+Retif_AntiJustine,false,Retif_AntiJustine,work
+Retif_Paysanne,false,Retif_Paysanne,work
+Reveroni_Pauliska,false,Reveroni_Pauliska,work
+Riccoboni_MylordRivers,false,Riccoboni_MylordRivers,work
+Rosny_Firmin,false,Rosny_Firmin,work
+Rousseau_Emile1,false,Rousseau_Emile1,work
+Rousseau_Emile2,false,Rousseau_Emile2,work
+Rousseau_Julie,false,Rousseau_Julie,work
+Sacy_Amours,false,Sacy_Amours,work
+Sade_120,false,Sade_120,work
+Sade_Aline,false,Sade_Aline,work
+Sade_Infortunes,false,Sade_Infortunes,work
+Sade_Justine,false,Sade_Justine,work
+Sade_Philosophie,false,Sade_Philosophie,work
+Segur_Correspondance,false,Segur_Correspondance,work
+Senac_Emigre,false,Senac_Emigre,work
+Souza_Adele,false,Souza_Adele,work
+Tiphaigne_Galligenes1,false,Tiphaigne_Galligenes1,work
+Tiphaigne_Galligenes2,false,Tiphaigne_Galligenes2,work
+Voltaire_Candide,false,Voltaire_Candide,work
+Voltaire_Homme,false,Voltaire_Homme,work
+Voltaire_Princesse,false,Voltaire_Princesse,work
