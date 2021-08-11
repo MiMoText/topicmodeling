@@ -1,31 +1,31 @@
-TopicNumber	Label
-0	[temps paraÃ®tre encore]
-1	richesse
-2	monarchie
-3	relation amoureuse
-4	[femme fille servir]
-5	amour_sentiment 
-6	locus amoenus_pastorale en littÃ©rature 
-7	nature
-8	[voir croire lÃ ]
-9	alimentation_sociabilitÃ© 
-10	philosophie
-11	correspondance
-12	migration_voyage 
-13	[chevalier voir mot]
-14	interaction
-15	crime
-16	deuil
-17	libertinage
-18	[point voir jour]
-19	censure_religion 
-20	religion
-21	bonheur
-22	attraction_personnalitÃ© 
-23	famille
-24	mort
-25	[point voir moins]
-26	art
-27	Ã©ducation_enfance 
-28	nuit
-29	noblesse
+TopicNumber	Label fr	Label en	Label de	Themenkonzept 1	Themenkonzept 2
+0	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]		
+1	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse	
+2	Topic 2:monarchie	Topic 2:monarchy	Topic 2:Monarchie	monarchie	
+3	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse	
+4	Topic 4:[femme fille servir]	Topic 4:[femme fille servir]	Topic 4:[femme fille servir]		
+5	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour	sentiment
+6	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus	pastorale en littérature 
+7	Topic 7:nature	Topic 7:nature	Topic 7:Natur	nature	
+8	Topic 8:[voir croire là]	Topic 8:[voir croire là]	Topic 8:[voir croire là]		
+9	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation	sociabilité
+10	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie	
+11	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance	
+12	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration	voyage
+13	Topic 13:[chevalier voir mot]	Topic 13:[chevalier voir mot]	Topic 13:[chevalier voir mot]		
+14	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction	
+15	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime	
+16	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil	
+17	Topic 17:libertinage	Topic 17:libertinism	Topic 17:Libertinismus	libertinage	
+18	Topic 18:[point voir jour]	Topic 18:[point voir jour]	Topic 18:[point voir jour]		
+19	Topic 19:censure_religion 	Topic 19:censure_religion 	Topic 19:Zensur_Religion 	censure	religion
+20	Topic 20:religion	Topic 20:religion	Topic 20:Religion	religion	
+21	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur	
+22	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction	personnalité
+23	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille	
+24	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort	
+25	Topic 25:[point voir moins]	Topic 25:[point voir moins]	Topic 25:[point voir moins]		
+26	Topic 26:art	Topic 26:art	Topic 26:Kunst	art	
+27	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation	enfance
+28	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit	
+29	Topic 29:noblesse	Topic 29:nobility	Topic 29:Adel	noblesse	
