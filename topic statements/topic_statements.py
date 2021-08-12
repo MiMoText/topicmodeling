@@ -4,6 +4,7 @@ Input:
 - mastermatrix file (results topic modeling)
 - topic ranking file (results topic modeling)
 - file with topic labels (manually generated)
+- xml-tei_metadata (metadata roman18 corpus)
 
 Output:
 - mastermatrix with additional percentage distribution of topics based on a
@@ -12,7 +13,7 @@ threshold value to be defined in the Parameters
 
 Notes:
 -The labelfile must be newly created for each new topic model. For this purpose,
-the topics generated in the topic model are interpreted and labels
+the topics generated in the topic model are interpreted and labels corresponding to concepts
 from the topic vocabulary are assigned to them.
 
 - In order to calculate in what percentage of the works a topic occurs,
@@ -30,18 +31,17 @@ import re
 
 # == Files and Folders ==
 
-zenodo_url = "https://doi.org/10.5281/zenodo.4493224" # Zenodo-URL der Veröffentlichung des TM
-mastermatrixfile = "mastermatrix_tm_19112020.csv" # Mastermatrix-Datei (siehe results TM)
-rankingfile = "topicranking.csv" # Topic-Ranking-Datei (siehe results TM)
-labelfile = "topic_label.csv" # CSV-Datei mit der Zuordnung von Topicnummer und Label
+mastermatrixfile = "mastermatrix_tm_19112020.csv" # Mastermatrix-file (results TM)
+rankingfile = "topicranking.csv" # topic ranking file (results TM)
+labelfile = "topic_label.csv" # CSV with mapping of topicnumber, label and concept
+metadata = "xml-tei_metadata.tsv" 
 
 # == Parameters ==
 
-identifier = "mmt_2020-11-19_11-38"  # identifier des zugrundeliegenden Topic Models
-numtopics = 30 # number of Topics
-treshold = 0.03   # the treshold determines when a topic is consisidered to occur in a work
+identifier = "mmt_2020-11-19_11-38"  # identifier topic model
+numtopics = 30 # number of topics
+treshold = 0.03   # the treshold determines when a topic is considered to occur in a work
 number_top_topics = 5 # how many Top-Topics to feed into Wikidata
-
 
 # == Functions ==
 
@@ -143,11 +143,10 @@ def get_topTopics(df_ranking, delete, number_top_topics):
                     keep.append(topic)
         
         for item in keep:
-            all_rows.append([id, "isAbout", item])
+            #all_rows.append([id, "isAbout", item])
+            all_rows.append([id, item])
     
-    
-    df_top = pd.DataFrame(all_rows, columns=['MiMoText-ID', 'Property', 'TopicNumber'])
-    #print(df_top)
+    df_top = pd.DataFrame(all_rows, columns=['MiMoText-ID', 'TopicNumber'])
     return df_top
 
 
@@ -158,41 +157,77 @@ def load_topicLabel(labelfile):
     """
     with open(labelfile, "r", encoding="utf8") as infile:
         df_labels = pd.read_csv(infile, sep="\t")
-        label_dict = {}
-        for ind in df_labels.index:
-            label_dict[df_labels['TopicNumber'][ind]] = df_labels['Label'][ind]
-            
-        return label_dict
+        return df_labels
     
 
-def add_label_ref(df_top, label_dict, zenodo_url):
-    '''
-    Adds topic label and reference-url.
-    Returns Dataframe with prepared statements.
-    '''
-    column_label = []
-    reference = []
+def get_id_mapping(metadata, df_top):
+    """
+    Loads the metadata file from disk.
+    Provides mapping of mimotext id to bgrf id as dictionary.
+    """
+    with open(metadata, "r", encoding="utf8") as infile:
+        df_metadata = pd.read_csv(infile, sep="\t")
+        
+        # mapping from metadata: mimotext id to bgrf id
+        id_dict = {}
+        for ind in df_metadata.index:
+            id_dict[df_metadata['filename'][ind]] = df_metadata['bgrf'][ind]
+        
+        # mapping: mimotext ids used in topic modeling to bgrf
+        id_mapping_dict = {}
+        for ind in df_top.index:
+            mimotext_id = df_top['MiMoText-ID'][ind]
+            if mimotext_id in id_dict:
+                id_mapping_dict[mimotext_id] = id_dict[mimotext_id]
+            else:
+                print(mimotext_id, "not part of roman18 corpus")
+    
+    return id_mapping_dict
+    
+    
+def create_statement_df(df_top, df_labels, id_mapping_dict):
+    """
+    Creates CSV with topic statements.
+    """
+    rows = []
+    
     for ind in df_top.index:
-        number = int(df_top['TopicNumber'][ind])
-        column_label.append(label_dict.get(number))
-        reference.append(zenodo_url)
+        work = df_top['MiMoText-ID'][ind]
+        if work in id_mapping_dict:
+            bgrf_id = id_mapping_dict[work]
+            topicnumber = int(df_top['TopicNumber'][ind])
+            fr_label = df_labels['Label fr'][topicnumber]
+            en_label = df_labels['Label en'][topicnumber]
+            de_label = df_labels['Label de'][topicnumber]
+            concept1 = df_labels['Themenkonzept 1'][topicnumber]
+            concept2 = df_labels['Themenkonzept 2'][topicnumber]
+        
+            if concept2 == "x":
+                rows.append({"MimoText_ID": work, "BGRF_ID": bgrf_id, "FrLabel": fr_label, "enLabel": en_label, "DeLabel": de_label, "Concept": concept1})
+            else:
+                rows.append({"MimoText_ID": work, "BGRF_ID": bgrf_id, "FrLabel": fr_label, "enLabel": en_label, "DeLabel": de_label, "Concept": concept1})
+                rows.append({"MimoText_ID": work, "BGRF_ID": bgrf_id, "FrLabel": fr_label, "enLabel": en_label, "DeLabel": de_label, "Concept": concept2})
+        
+        else:
+            pass  # works that aren't part of roman18 corpus any more are ignored
+        
     
-    df_top['Item (Themen-Konzept)'] = column_label
-    df_top['ReferencedBy'] = reference
-    
-    return df_top
+    df_statem = pd.DataFrame(rows)
+    return df_statem
+
 
 # == Coordinating function ==
 
-def main(mastermatrixfile, numtopics, treshold, identifier, rankingfile, number_top_topics, labelfile,zenodo_url):
+def main(mastermatrixfile, numtopics, treshold, identifier, rankingfile, number_top_topics, labelfile):
     df_avg = load_mastermatrix(mastermatrixfile)
     df_perc, delete = get_percentage(df_avg, numtopics, treshold)
     save_df(df_perc, identifier)
     df_ranking = load_topicranking(rankingfile)
     df_top = get_topTopics(df_ranking, delete, number_top_topics)
-    label_dict = load_topicLabel(labelfile)
-    df_top = add_label_ref(df_top, label_dict, zenodo_url)
+    df_labels = load_topicLabel(labelfile)
+    id_mapping_dict = get_id_mapping(metadata, df_top)
+    df_statem = create_statement_df(df_top, df_labels, id_mapping_dict)
     filename = identifier + "_statements.csv"
-    df_top.to_csv(filename, sep='\t', encoding="utf-8")
+    df_statem.to_csv(filename, sep='\t', encoding="utf-8")
 
-main(mastermatrixfile, numtopics, treshold, identifier, rankingfile, number_top_topics, labelfile, zenodo_url)
+main(mastermatrixfile, numtopics, treshold, identifier, rankingfile, number_top_topics, labelfile)
