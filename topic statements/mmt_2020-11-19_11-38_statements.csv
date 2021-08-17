@@ -58,11 +58,11 @@
 56	Benouville_Pensees	58.8	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
 57	Benouville_Pensees	58.8	Topic 20:religion	Topic 20:religion	Topic 20:Religion	religion
 58	Benouville_Pensees	58.8	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
-59	Bernardin_Paul	88.101	Topic 7:nature	Topic 7:nature	Topic 7:Natur	nature
-60	Bernardin_Paul	88.101	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-61	Bernardin_Paul	88.101	Topic 26:art	Topic 26:art	Topic 26:Kunst	art
-62	Bernardin_Paul	88.101	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-63	Bernardin_Paul	88.101	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
+59	Bernardin_Paul	88101	Topic 7:nature	Topic 7:nature	Topic 7:Natur	nature
+60	Bernardin_Paul	88101	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+61	Bernardin_Paul	88101	Topic 26:art	Topic 26:art	Topic 26:Kunst	art
+62	Bernardin_Paul	88101	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+63	Bernardin_Paul	88101	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
 64	Berquin_Enfants	82.14	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
 65	Berquin_Enfants	82.14	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	sociabilité
 66	Berquin_Enfants	82.14	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
@@ -95,12 +95,6 @@
 93	Constant_Laure1	86.27	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
 94	Constant_Laure1	86.27	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
 95	Constant_Laure1	86.27	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-96	Constant_Laure2	86.27	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
-97	Constant_Laure2	86.27	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-98	Constant_Laure2	86.27	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
-99	Constant_Laure2	86.27	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-100	Constant_Laure2	86.27	Topic 18:[point voir jour]	Topic 18:[point voir jour]	Topic 18:[point voir jour]	[point voir jour]
-101	Constant_Laure2	86.27	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
 102	Cottin_Claire	99.62	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
 103	Cottin_Claire	99.62	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
 104	Cottin_Claire	99.62	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
@@ -231,229 +225,268 @@
 229	Jacquin_Parisiennes	58.13	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
 230	Jacquin_Parisiennes	58.13	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
 231	Jacquin_Parisiennes	58.13	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-232	LaPlace_Collection	88.75	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-233	LaPlace_Collection	88.75	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-234	LaPlace_Collection	88.75	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
-235	LaPlace_Collection	88.75	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
-236	LaPlace_Collection	88.75	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
-237	LaPlace_Collection	88.75	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-238	LaPlace_Lydia	72.23	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-239	LaPlace_Lydia	72.23	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
-240	LaPlace_Lydia	72.23	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-241	LaPlace_Lydia	72.23	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-242	LaPlace_Lydia	72.23	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-243	LaPlace_Lydia	72.23	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-244	LaPlace_Lydia	72.23	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-245	Laclos_Liaisons	82.17	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
-246	Laclos_Liaisons	82.17	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-247	Laclos_Liaisons	82.17	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-248	Laclos_Liaisons	82.17	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-249	Laclos_Liaisons	82.17	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-250	Laclos_Liaisons	82.17	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-251	Lagrave_Sophie	99.104	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-252	Lagrave_Sophie	99.104	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-253	Lagrave_Sophie	99.104	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
-254	Lagrave_Sophie	99.104	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
-255	Lagrave_Sophie	99.104	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-256	Lagrave_Sophie	99.104	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-257	Lagrave_Sophie	99.104	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
-258	Lagrave_Zabeth	99.105	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
-259	Lagrave_Zabeth	99.105	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-260	Lagrave_Zabeth	99.105	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-261	Lagrave_Zabeth	99.105	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-262	Lagrave_Zabeth	99.105	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-263	Leonard_Lettres	83.31	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-264	Leonard_Lettres	83.31	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-265	Leonard_Lettres	83.31	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-266	Leonard_Lettres	83.31	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-267	Leonard_Lettres	83.31	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-268	Leonard_Lettres	83.31	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
-269	Leonard_Lettres	83.31	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	pastorale en littérature 
-270	Lesuire_Aventurier	82.27	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-271	Lesuire_Aventurier	82.27	Topic 18:[point voir jour]	Topic 18:[point voir jour]	Topic 18:[point voir jour]	[point voir jour]
-272	Lesuire_Aventurier	82.27	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-273	Lesuire_Aventurier	82.27	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
-274	Lesuire_Aventurier	82.27	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
-275	Lesuire_Crime	89.81	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
-276	Lesuire_Crime	89.81	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
-277	Lesuire_Crime	89.81	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
-278	Lesuire_Crime	89.81	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
-279	Lesuire_Crime	89.81	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-280	Lesuire_Crime	89.81	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-281	Loaisel_Comtesse	79.22	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-282	Loaisel_Comtesse	79.22	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-283	Loaisel_Comtesse	79.22	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-284	Loaisel_Comtesse	79.22	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-285	Loaisel_Comtesse	79.22	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-286	Loaisel_Comtesse	79.22	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
-287	Louvet_Annee	87.56	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-288	Louvet_Annee	87.56	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
-289	Louvet_Annee	87.56	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
-290	Louvet_Annee	87.56	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-291	Louvet_Annee	87.56	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-292	Louvet_Annee	87.56	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-293	Louvet_Fin	90.47	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-294	Louvet_Fin	90.47	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-295	Louvet_Fin	90.47	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-296	Louvet_Fin	90.47	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-297	Louvet_Fin	90.47	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-298	Louvet_Fin	90.47	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-299	Maistre_Voyage	94.8	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-300	Maistre_Voyage	94.8	Topic 26:art	Topic 26:art	Topic 26:Kunst	art
-301	Maistre_Voyage	94.8	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-302	Maistre_Voyage	94.8	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-303	Maistre_Voyage	94.8	Topic 7:nature	Topic 7:nature	Topic 7:Natur	nature
-304	Merard_Bergeries	84.43	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
-305	Merard_Bergeries	84.43	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	pastorale en littérature 
-306	Merard_Bergeries	84.43	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-307	Merard_Bergeries	84.43	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-308	Merard_Bergeries	84.43	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-309	Merard_Bergeries	84.43	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-310	Merard_Bergeries	84.43	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-311	Mercier_An	71.36	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
-312	Mercier_An	71.36	Topic 2:monarchie	Topic 2:monarchy	Topic 2:Monarchie	monarchie
-313	Mercier_An	71.36	Topic 26:art	Topic 26:art	Topic 26:Kunst	art
-314	Mercier_An	71.36	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-315	Mercier_An	71.36	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse
-316	Mirabeau_Conversion	83.40	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
-317	Mirabeau_Conversion	83.40	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
-318	Mirabeau_Conversion	83.40	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	pastorale en littérature 
-319	Mirabeau_Conversion	83.40	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-320	Mirabeau_Conversion	83.40	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
-321	Mirabeau_Conversion	83.40	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-322	Mirabeau_Conversion	83.40	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-323	Mirabeau_Rideau	86.51	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-324	Mirabeau_Rideau	86.51	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-325	Mirabeau_Rideau	86.51	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-326	Mirabeau_Rideau	86.51	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
-327	Mirabeau_Rideau	86.51	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	pastorale en littérature 
-328	Mirabeau_Rideau	86.51	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
-329	Nerciat_Aphrodites	93.16	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
-330	Nerciat_Aphrodites	93.16	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-331	Nerciat_Aphrodites	93.16	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-332	Nerciat_Aphrodites	93.16	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-333	Nerciat_Aphrodites	93.16	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-334	Nerciat_Etourdi	84.50	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
-335	Nerciat_Etourdi	84.50	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-336	Nerciat_Etourdi	84.50	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-337	Nerciat_Etourdi	84.50	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-338	Nerciat_Etourdi	84.50	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-339	Nerciat_Etourdi	84.50	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
-340	Nerciat_Etourdi	84.50	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-341	Nerciat_Felicia	75.37	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
-342	Nerciat_Felicia	75.37	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-343	Nerciat_Felicia	75.37	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
-344	Nerciat_Felicia	75.37	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-345	Nerciat_Felicia	75.37	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-346	Nerciat_Felicia	75.37	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-347	Retif_AntiJustine	98.84	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-348	Retif_AntiJustine	98.84	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
-349	Retif_AntiJustine	98.84	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-350	Retif_AntiJustine	98.84	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
-351	Retif_AntiJustine	98.84	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-352	Retif_Paysanne	84.58	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
-353	Retif_Paysanne	84.58	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
-354	Retif_Paysanne	84.58	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-355	Retif_Paysanne	84.58	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-356	Retif_Paysanne	84.58	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-357	Reveroni_Pauliska	98.85	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-358	Reveroni_Pauliska	98.85	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-359	Reveroni_Pauliska	98.85	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-360	Reveroni_Pauliska	98.85	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
-361	Reveroni_Pauliska	98.85	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
-362	Reveroni_Pauliska	98.85	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-363	Riccoboni_MylordRivers	77.57	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
-364	Riccoboni_MylordRivers	77.57	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-365	Riccoboni_MylordRivers	77.57	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-366	Riccoboni_MylordRivers	77.57	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-367	Riccoboni_MylordRivers	77.57	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-368	Riccoboni_MylordRivers	77.57	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-369	Riccoboni_MylordRivers	77.57	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-370	Rosny_Firmin	98.88	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-371	Rosny_Firmin	98.88	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-372	Rosny_Firmin	98.88	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-373	Rosny_Firmin	98.88	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse
-374	Rosny_Firmin	98.88	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
-375	Rousseau_Julie	61.18	Topic 25:[point voir moins]	Topic 25:[point voir moins]	Topic 25:[point voir moins]	[point voir moins]
-376	Rousseau_Julie	61.18	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-377	Rousseau_Julie	61.18	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-378	Rousseau_Julie	61.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation
-379	Rousseau_Julie	61.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	enfance
-380	Rousseau_Julie	61.18	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-381	Rousseau_Julie	61.18	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-382	Sacy_Amours	69.57	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
-383	Sacy_Amours	69.57	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	pastorale en littérature 
-384	Sacy_Amours	69.57	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-385	Sacy_Amours	69.57	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-386	Sacy_Amours	69.57	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-387	Sacy_Amours	69.57	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-388	Sacy_Amours	69.57	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-389	Sade_120	1	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-390	Sade_120	1	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-391	Sade_120	1	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-392	Sade_120	1	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
-393	Sade_120	1	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	sociabilité
-394	Sade_120	1	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-395	Sade_Aline	95.36	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
-396	Sade_Aline	95.36	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-397	Sade_Aline	95.36	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-398	Sade_Aline	95.36	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-399	Sade_Aline	95.36	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-400	Sade_Aline	95.36	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
-401	Sade_Aline	95.36	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
-402	Sade_Infortunes	1	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
-403	Sade_Infortunes	1	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-404	Sade_Infortunes	1	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-405	Sade_Infortunes	1	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
-406	Sade_Infortunes	1	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-407	Sade_Justine	91.42	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
-408	Sade_Justine	91.42	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
-409	Sade_Justine	91.42	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
-410	Sade_Justine	91.42	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-411	Sade_Justine	91.42	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-412	Sade_Philosophie	95.37	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
-413	Sade_Philosophie	95.37	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-414	Sade_Philosophie	95.37	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-415	Sade_Philosophie	95.37	Topic 20:religion	Topic 20:religion	Topic 20:Religion	religion
-416	Sade_Philosophie	95.37	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
-417	Sade_Philosophie	95.37	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
-418	Segur_Correspondance	89.104	Topic 18:[point voir jour]	Topic 18:[point voir jour]	Topic 18:[point voir jour]	[point voir jour]
-419	Segur_Correspondance	89.104	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
-420	Segur_Correspondance	89.104	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
-421	Segur_Correspondance	89.104	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-422	Segur_Correspondance	89.104	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-423	Segur_Correspondance	89.104	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-424	Segur_Correspondance	89.104	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-425	Senac_Emigre	97.74	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
-426	Senac_Emigre	97.74	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-427	Senac_Emigre	97.74	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
-428	Senac_Emigre	97.74	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-429	Senac_Emigre	97.74	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-430	Senac_Emigre	97.74	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
-431	Senac_Emigre	97.74	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-432	Souza_Adele	94.13	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
-433	Souza_Adele	94.13	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
-434	Souza_Adele	94.13	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
-435	Souza_Adele	94.13	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-436	Souza_Adele	94.13	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
-437	Souza_Adele	94.13	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-438	Voltaire_Candide	59.25	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
-439	Voltaire_Candide	59.25	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	sociabilité
-440	Voltaire_Candide	59.25	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
-441	Voltaire_Candide	59.25	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
-442	Voltaire_Candide	59.25	Topic 18:[point voir jour]	Topic 18:[point voir jour]	Topic 18:[point voir jour]	[point voir jour]
-443	Voltaire_Candide	59.25	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse
-444	Voltaire_Candide	59.25	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
-445	Voltaire_Homme	68.55	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse
-446	Voltaire_Homme	68.55	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
-447	Voltaire_Homme	68.55	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	sociabilité
-448	Voltaire_Homme	68.55	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
-449	Voltaire_Homme	68.55	Topic 18:[point voir jour]	Topic 18:[point voir jour]	Topic 18:[point voir jour]	[point voir jour]
-450	Voltaire_Homme	68.55	Topic 26:art	Topic 26:art	Topic 26:Kunst	art
-451	Voltaire_Princesse	68.55	Topic 2:monarchie	Topic 2:monarchy	Topic 2:Monarchie	monarchie
-452	Voltaire_Princesse	68.55	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
-453	Voltaire_Princesse	68.55	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
-454	Voltaire_Princesse	68.55	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
-455	Voltaire_Princesse	68.55	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	sociabilité
-456	Voltaire_Princesse	68.55	Topic 7:nature	Topic 7:nature	Topic 7:Natur	nature
-457	Voltaire_Princesse	68.55	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+232	Kimber_Thompson	62.24	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+233	Kimber_Thompson	62.24	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
+234	Kimber_Thompson	62.24	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
+235	Kimber_Thompson	62.24	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
+236	Kimber_Thompson	62.24	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
+237	Kimber_Thompson	62.24	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+238	Kimber_Thompson	62.24	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse
+239	LaPlace_Collection	88.75	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+240	LaPlace_Collection	88.75	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+241	LaPlace_Collection	88.75	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
+242	LaPlace_Collection	88.75	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
+243	LaPlace_Collection	88.75	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
+244	LaPlace_Collection	88.75	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+245	LaPlace_Lydia	72.23	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+246	LaPlace_Lydia	72.23	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
+247	LaPlace_Lydia	72.23	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
+248	LaPlace_Lydia	72.23	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+249	LaPlace_Lydia	72.23	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+250	LaPlace_Lydia	72.23	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+251	LaPlace_Lydia	72.23	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+252	Laclos_Liaisons	82.17	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
+253	Laclos_Liaisons	82.17	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+254	Laclos_Liaisons	82.17	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+255	Laclos_Liaisons	82.17	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+256	Laclos_Liaisons	82.17	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+257	Laclos_Liaisons	82.17	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+258	Lagrave_Sophie	99104	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+259	Lagrave_Sophie	99104	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+260	Lagrave_Sophie	99104	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
+261	Lagrave_Sophie	99104	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
+262	Lagrave_Sophie	99104	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
+263	Lagrave_Sophie	99104	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+264	Lagrave_Sophie	99104	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
+265	Lagrave_Zabeth	99105	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
+266	Lagrave_Zabeth	99105	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+267	Lagrave_Zabeth	99105	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+268	Lagrave_Zabeth	99105	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+269	Lagrave_Zabeth	99105	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+270	Leonard_Lettres	83.31	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+271	Leonard_Lettres	83.31	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+272	Leonard_Lettres	83.31	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+273	Leonard_Lettres	83.31	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+274	Leonard_Lettres	83.31	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+275	Leonard_Lettres	83.31	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
+276	Leonard_Lettres	83.31	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	pastorale en littérature 
+277	Lesuire_Aventurier	82.27	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+278	Lesuire_Aventurier	82.27	Topic 18:[point voir jour]	Topic 18:[point voir jour]	Topic 18:[point voir jour]	[point voir jour]
+279	Lesuire_Aventurier	82.27	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+280	Lesuire_Aventurier	82.27	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
+281	Lesuire_Aventurier	82.27	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
+282	Lesuire_Crime	89.81	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
+283	Lesuire_Crime	89.81	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
+284	Lesuire_Crime	89.81	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
+285	Lesuire_Crime	89.81	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
+286	Lesuire_Crime	89.81	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
+287	Lesuire_Crime	89.81	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+288	Loaisel_Comtesse	79.22	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+289	Loaisel_Comtesse	79.22	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+290	Loaisel_Comtesse	79.22	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+291	Loaisel_Comtesse	79.22	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+292	Loaisel_Comtesse	79.22	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+293	Loaisel_Comtesse	79.22	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
+294	Louvet_Annee	87.56	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+295	Louvet_Annee	87.56	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
+296	Louvet_Annee	87.56	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
+297	Louvet_Annee	87.56	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+298	Louvet_Annee	87.56	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+299	Louvet_Annee	87.56	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+300	Louvet_Fin	90.47	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+301	Louvet_Fin	90.47	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+302	Louvet_Fin	90.47	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+303	Louvet_Fin	90.47	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+304	Louvet_Fin	90.47	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+305	Louvet_Fin	90.47	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+306	Maistre_Voyage	94.8	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+307	Maistre_Voyage	94.8	Topic 26:art	Topic 26:art	Topic 26:Kunst	art
+308	Maistre_Voyage	94.8	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+309	Maistre_Voyage	94.8	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+310	Maistre_Voyage	94.8	Topic 7:nature	Topic 7:nature	Topic 7:Natur	nature
+311	Merard_Bergeries	84.43	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
+312	Merard_Bergeries	84.43	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	pastorale en littérature 
+313	Merard_Bergeries	84.43	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+314	Merard_Bergeries	84.43	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+315	Merard_Bergeries	84.43	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+316	Merard_Bergeries	84.43	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+317	Merard_Bergeries	84.43	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+318	Mercier_An	71.36	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
+319	Mercier_An	71.36	Topic 2:monarchie	Topic 2:monarchy	Topic 2:Monarchie	monarchie
+320	Mercier_An	71.36	Topic 26:art	Topic 26:art	Topic 26:Kunst	art
+321	Mercier_An	71.36	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+322	Mercier_An	71.36	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse
+323	Mirabeau_Conversion	83.40	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
+324	Mirabeau_Conversion	83.40	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
+325	Mirabeau_Conversion	83.40	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	pastorale en littérature 
+326	Mirabeau_Conversion	83.40	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+327	Mirabeau_Conversion	83.40	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
+328	Mirabeau_Conversion	83.40	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
+329	Mirabeau_Conversion	83.40	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+330	Mirabeau_Rideau	86.51	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+331	Mirabeau_Rideau	86.51	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+332	Mirabeau_Rideau	86.51	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+333	Mirabeau_Rideau	86.51	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
+334	Mirabeau_Rideau	86.51	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	pastorale en littérature 
+335	Mirabeau_Rideau	86.51	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
+336	Morelly_Naufrage	53.26	Topic 7:nature	Topic 7:nature	Topic 7:Natur	nature
+337	Morelly_Naufrage	53.26	Topic 2:monarchie	Topic 2:monarchy	Topic 2:Monarchie	monarchie
+338	Morelly_Naufrage	53.26	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
+339	Morelly_Naufrage	53.26	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	pastorale en littérature 
+340	Morelly_Naufrage	53.26	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+341	Morelly_Naufrage	53.26	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+342	Morelly_Naufrage	53.26	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+343	Nerciat_Aphrodites	93.16	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
+344	Nerciat_Aphrodites	93.16	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+345	Nerciat_Aphrodites	93.16	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+346	Nerciat_Aphrodites	93.16	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+347	Nerciat_Aphrodites	93.16	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+348	Nerciat_Etourdi	84.50	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
+349	Nerciat_Etourdi	84.50	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
+350	Nerciat_Etourdi	84.50	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+351	Nerciat_Etourdi	84.50	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+352	Nerciat_Etourdi	84.50	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+353	Nerciat_Etourdi	84.50	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
+354	Nerciat_Etourdi	84.50	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+355	Nerciat_Felicia	75.37	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
+356	Nerciat_Felicia	75.37	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+357	Nerciat_Felicia	75.37	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
+358	Nerciat_Felicia	75.37	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
+359	Nerciat_Felicia	75.37	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+360	Nerciat_Felicia	75.37	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+361	Popeliniere_Daira	60.21	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
+362	Popeliniere_Daira	60.21	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
+363	Popeliniere_Daira	60.21	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+364	Popeliniere_Daira	60.21	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+365	Popeliniere_Daira	60.21	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+366	Popeliniere_Daira	60.21	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
+367	Puget_Periphas	61.17	Topic 2:monarchie	Topic 2:monarchy	Topic 2:Monarchie	monarchie
+368	Puget_Periphas	61.17	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+369	Puget_Periphas	61.17	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+370	Puget_Periphas	61.17	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse
+371	Puget_Periphas	61.17	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+372	Retif_AntiJustine	98.84	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+373	Retif_AntiJustine	98.84	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
+374	Retif_AntiJustine	98.84	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+375	Retif_AntiJustine	98.84	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
+376	Retif_AntiJustine	98.84	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+377	Retif_Paysanne	84.58	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
+378	Retif_Paysanne	84.58	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
+379	Retif_Paysanne	84.58	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+380	Retif_Paysanne	84.58	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+381	Retif_Paysanne	84.58	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+382	Reveroni_Pauliska	98.85	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+383	Reveroni_Pauliska	98.85	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+384	Reveroni_Pauliska	98.85	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+385	Reveroni_Pauliska	98.85	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
+386	Reveroni_Pauliska	98.85	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
+387	Reveroni_Pauliska	98.85	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+388	Riccoboni_MylordRivers	77.57	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
+389	Riccoboni_MylordRivers	77.57	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
+390	Riccoboni_MylordRivers	77.57	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+391	Riccoboni_MylordRivers	77.57	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+392	Riccoboni_MylordRivers	77.57	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+393	Riccoboni_MylordRivers	77.57	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+394	Riccoboni_MylordRivers	77.57	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+395	Rosny_Firmin	98.88	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+396	Rosny_Firmin	98.88	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+397	Rosny_Firmin	98.88	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+398	Rosny_Firmin	98.88	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse
+399	Rosny_Firmin	98.88	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
+400	Rousseau_Emile	62.33	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation
+401	Rousseau_Emile	62.33	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	enfance
+402	Rousseau_Emile	62.33	Topic 25:[point voir moins]	Topic 25:[point voir moins]	Topic 25:[point voir moins]	[point voir moins]
+403	Rousseau_Emile	62.33	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
+404	Rousseau_Emile	62.33	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
+405	Rousseau_Emile	62.33	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	sociabilité
+406	Rousseau_Emile	62.33	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+407	Rousseau_Julie	61.18	Topic 25:[point voir moins]	Topic 25:[point voir moins]	Topic 25:[point voir moins]	[point voir moins]
+408	Rousseau_Julie	61.18	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+409	Rousseau_Julie	61.18	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+410	Rousseau_Julie	61.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation
+411	Rousseau_Julie	61.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	enfance
+412	Rousseau_Julie	61.18	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+413	Rousseau_Julie	61.18	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+414	Sacy_Amours	69.57	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
+415	Sacy_Amours	69.57	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	pastorale en littérature 
+416	Sacy_Amours	69.57	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+417	Sacy_Amours	69.57	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+418	Sacy_Amours	69.57	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+419	Sacy_Amours	69.57	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+420	Sacy_Amours	69.57	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+421	Sade_120	1	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+422	Sade_120	1	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+423	Sade_120	1	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+424	Sade_120	1	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
+425	Sade_120	1	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	sociabilité
+426	Sade_120	1	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+427	Sade_Aline	95.36	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
+428	Sade_Aline	95.36	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+429	Sade_Aline	95.36	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+430	Sade_Aline	95.36	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+431	Sade_Aline	95.36	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+432	Sade_Aline	95.36	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
+433	Sade_Aline	95.36	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
+434	Sade_Infortunes	1	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
+435	Sade_Infortunes	1	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+436	Sade_Infortunes	1	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+437	Sade_Infortunes	1	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
+438	Sade_Infortunes	1	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+439	Sade_Justine	91.42	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
+440	Sade_Justine	91.42	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
+441	Sade_Justine	91.42	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort
+442	Sade_Justine	91.42	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+443	Sade_Justine	91.42	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+444	Sade_Philosophie	95.37	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
+445	Sade_Philosophie	95.37	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+446	Sade_Philosophie	95.37	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+447	Sade_Philosophie	95.37	Topic 20:religion	Topic 20:religion	Topic 20:Religion	religion
+448	Sade_Philosophie	95.37	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
+449	Sade_Philosophie	95.37	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
+450	Segur_Correspondance	89104	Topic 18:[point voir jour]	Topic 18:[point voir jour]	Topic 18:[point voir jour]	[point voir jour]
+451	Segur_Correspondance	89104	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
+452	Segur_Correspondance	89104	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
+453	Segur_Correspondance	89104	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
+454	Segur_Correspondance	89104	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+455	Segur_Correspondance	89104	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+456	Segur_Correspondance	89104	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+457	Senac_Emigre	97.74	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
+458	Senac_Emigre	97.74	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+459	Senac_Emigre	97.74	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
+460	Senac_Emigre	97.74	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
+461	Senac_Emigre	97.74	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+462	Senac_Emigre	97.74	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+463	Senac_Emigre	97.74	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+464	Souza_Adele	94.13	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
+465	Souza_Adele	94.13	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+466	Souza_Adele	94.13	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
+467	Souza_Adele	94.13	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
+468	Souza_Adele	94.13	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
+469	Souza_Adele	94.13	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+470	Tiphaigne_Galligenes	65.5	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
+471	Tiphaigne_Galligenes	65.5	Topic 7:nature	Topic 7:nature	Topic 7:Natur	nature
+472	Tiphaigne_Galligenes	65.5	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation
+473	Tiphaigne_Galligenes	65.5	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	enfance
+474	Tiphaigne_Galligenes	65.5	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
+475	Tiphaigne_Galligenes	65.5	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
+476	Tiphaigne_Galligenes	65.5	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
+477	Voltaire_Candide	59.25	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
+478	Voltaire_Candide	59.25	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	sociabilité
+479	Voltaire_Candide	59.25	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
+480	Voltaire_Candide	59.25	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
+481	Voltaire_Candide	59.25	Topic 18:[point voir jour]	Topic 18:[point voir jour]	Topic 18:[point voir jour]	[point voir jour]
+482	Voltaire_Candide	59.25	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse
+483	Voltaire_Candide	59.25	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
+484	Voltaire_Homme	68.55	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse
+485	Voltaire_Homme	68.55	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
+486	Voltaire_Homme	68.55	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	sociabilité
+487	Voltaire_Homme	68.55	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
+488	Voltaire_Homme	68.55	Topic 18:[point voir jour]	Topic 18:[point voir jour]	Topic 18:[point voir jour]	[point voir jour]
+489	Voltaire_Homme	68.55	Topic 26:art	Topic 26:art	Topic 26:Kunst	art
+490	Voltaire_Princesse	68.55	Topic 2:monarchie	Topic 2:monarchy	Topic 2:Monarchie	monarchie
+491	Voltaire_Princesse	68.55	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	migration
+492	Voltaire_Princesse	68.55	Topic 12:migration_voyage 	Topic 12:migration_travel 	Topic 12:Migration_Reise	voyage
+493	Voltaire_Princesse	68.55	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
+494	Voltaire_Princesse	68.55	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	sociabilité
+495	Voltaire_Princesse	68.55	Topic 7:nature	Topic 7:nature	Topic 7:Natur	nature
+496	Voltaire_Princesse	68.55	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
