@@ -16,7 +16,7 @@ TopicNumber	Label fr	Label en	Label de	Themenkonzept 1	Themenkonzept 2
 14	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction	x
 15	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime	x
 16	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil	x
-17	Topic 17:libertinage	Topic 17:libertinism	Topic 17:Libertinismus	libertinage	x
+17	Topic 17:libertinage	Topic 17:libertinism	Topic 17:Libertinage	libertinage	x
 18	Topic 18:[point voir jour]	Topic 18:[point voir jour]	Topic 18:[point voir jour]	[point voir jour]	x
 19	Topic 19:censure_religion 	Topic 19:censure_religion 	Topic 19:Zensur_Religion 	censure	religion
 20	Topic 20:religion	Topic 20:religion	Topic 20:Religion	religion	x
@@ -26,6 +26,6 @@ TopicNumber	Label fr	Label en	Label de	Themenkonzept 1	Themenkonzept 2
 24	Topic 24:mort	Topic 24:death	Topic 24:Tod	mort	x
 25	Topic 25:[point voir moins]	Topic 25:[point voir moins]	Topic 25:[point voir moins]	[point voir moins]	x
 26	Topic 26:art	Topic 26:art	Topic 26:Kunst	art	x
-27	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation	enfance
+27	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	éducation	enfance
 28	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit	x
 29	Topic 29:noblesse	Topic 29:nobility	Topic 29:Adel	noblesse	x
