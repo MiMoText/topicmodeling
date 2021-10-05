@@ -79,8 +79,8 @@
 77	Charriere_Femmes	96.18	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
 78	Charriere_Femmes	96.18	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
 79	Charriere_Femmes	96.18	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
-80	Charriere_Femmes	96.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation
-81	Charriere_Femmes	96.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	enfance
+80	Charriere_Femmes	96.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	éducation
+81	Charriere_Femmes	96.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	enfance
 82	Charriere_Femmes	96.18	Topic 23:famille	Topic 23:family	Topic 23:Familie	famille
 83	Charriere_Femmes	96.18	Topic 14:interaction	Topic 14:interaction	Topic 14:Interaktion	interaction
 84	Charriere_Lausanne	85.24	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
@@ -118,8 +118,8 @@
 122	Diderot_Neveu	1	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
 123	Diderot_Neveu	1	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	sociabilité
 124	Diderot_Neveu	1	Topic 26:art	Topic 26:art	Topic 26:Kunst	art
-125	Diderot_Neveu	1	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation
-126	Diderot_Neveu	1	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	enfance
+125	Diderot_Neveu	1	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	éducation
+126	Diderot_Neveu	1	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	enfance
 127	Diderot_Neveu	1	Topic 3:relation amoureuse	Topic 3:romantic relationship	Topic 3:Liebesbeziehung	relation amoureuse
 128	Diderot_Neveu	1	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
 129	Diderot_Religieuse	97.22	Topic 28:nuit	Topic 28:night	Topic 28:Nacht	nuit
@@ -144,8 +144,8 @@
 148	Dorat_Sacrifices	71.25	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
 149	Dorat_Sacrifices	71.25	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
 150	Dorat_Sacrifices	71.25	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
-151	Duclos_Acajou	61.R19	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation
-152	Duclos_Acajou	61.R19	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	enfance
+151	Duclos_Acajou	61.R19	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	éducation
+152	Duclos_Acajou	61.R19	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	enfance
 153	Duclos_Acajou	61.R19	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	attraction
 154	Duclos_Acajou	61.R19	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
 155	Duclos_Acajou	61.R19	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
@@ -196,8 +196,8 @@
 200	Genlis_Adele	82.20	Topic 22:attraction_personnalité 	Topic 22:attraction_personality	Topic 22:Anziehung_Persönlichkeit	personnalité
 201	Genlis_Adele	82.20	Topic 13:[chevalier voir mot]	Topic 13:[chevalier voir mot]	Topic 13:[chevalier voir mot]	[chevalier voir mot]
 202	Genlis_Adele	82.20	Topic 11:correspondance	Topic 11:correspondence	Topic 11:Korrespondenz	correspondance
-203	Genlis_Adele	82.20	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation
-204	Genlis_Adele	82.20	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	enfance
+203	Genlis_Adele	82.20	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	éducation
+204	Genlis_Adele	82.20	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	enfance
 205	Genlis_Adele	82.20	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
 206	Genlis_Chevaliers	95.20	Topic 13:[chevalier voir mot]	Topic 13:[chevalier voir mot]	Topic 13:[chevalier voir mot]	[chevalier voir mot]
 207	Genlis_Chevaliers	95.20	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
@@ -393,8 +393,8 @@
 397	Rosny_Firmin	98.88	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	Topic 0:[temps paraître encore]	[temps paraître encore]
 398	Rosny_Firmin	98.88	Topic 1:richesse	Topic 1:wealth	Topic 1:Reichtum	richesse
 399	Rosny_Firmin	98.88	Topic 15:crime	Topic 15:crime	Topic 15:Verbrechen	crime
-400	Rousseau_Emile	62.33	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation
-401	Rousseau_Emile	62.33	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	enfance
+400	Rousseau_Emile	62.33	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	éducation
+401	Rousseau_Emile	62.33	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	enfance
 402	Rousseau_Emile	62.33	Topic 25:[point voir moins]	Topic 25:[point voir moins]	Topic 25:[point voir moins]	[point voir moins]
 403	Rousseau_Emile	62.33	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
 404	Rousseau_Emile	62.33	Topic 9:alimentation_sociabilité 	Topic 9:aliment_sociability	Topic 9:Nahrung_Soziabilität 	alimentation
@@ -403,8 +403,8 @@
 407	Rousseau_Julie	61.18	Topic 25:[point voir moins]	Topic 25:[point voir moins]	Topic 25:[point voir moins]	[point voir moins]
 408	Rousseau_Julie	61.18	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
 409	Rousseau_Julie	61.18	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
-410	Rousseau_Julie	61.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation
-411	Rousseau_Julie	61.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	enfance
+410	Rousseau_Julie	61.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	éducation
+411	Rousseau_Julie	61.18	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	enfance
 412	Rousseau_Julie	61.18	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
 413	Rousseau_Julie	61.18	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
 414	Sacy_Amours	69.57	Topic 6:locus amoenus_pastorale en littérature 	Topic 6:locus amoenus_pastorale in litterature	Topic 6:Locus amoenus_Pastorale in der Literatur	locus amoenus
@@ -465,8 +465,8 @@
 469	Souza_Adele	94.13	Topic 16:deuil	Topic 16:mourning	Topic 16:Trauer	deuil
 470	Tiphaigne_Galligenes	65.5	Topic 10:philosophie	Topic 10:philosophy	Topic 10:Philosophie	philosophie
 471	Tiphaigne_Galligenes	65.5	Topic 7:nature	Topic 7:nature	Topic 7:Natur	nature
-472	Tiphaigne_Galligenes	65.5	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	éducation
-473	Tiphaigne_Galligenes	65.5	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Ausbildung_Kindheit 	enfance
+472	Tiphaigne_Galligenes	65.5	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	éducation
+473	Tiphaigne_Galligenes	65.5	Topic 27:éducation_enfance 	Topic 27:education_childhood	Topic 27:Bildung_Kindheit 	enfance
 474	Tiphaigne_Galligenes	65.5	Topic 21:bonheur	Topic 21:happiness	Topic 21:Glück	bonheur
 475	Tiphaigne_Galligenes	65.5	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	amour
 476	Tiphaigne_Galligenes	65.5	Topic 5:amour_sentiment 	Topic 5:love_sentiment 	Topic 5:Liebe_Gefühl	sentiment
