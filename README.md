@@ -63,4 +63,4 @@ Please install the following:
 * in results/[name of dataset]/ you also find statistical files, a file "visualization.html" and the heatmap visualizations
 
 ### Topic statements
-FIles and script for preparing topic statements to feed into Wikibase.
+Files and script for preparing topic statements to feed into Wikibase.
