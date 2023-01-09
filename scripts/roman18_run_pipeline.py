@@ -29,12 +29,12 @@ import make_wordclouds
 # == Files and folders ==
 
 workdir = ".."            
-dataset = "rom18_90"             
-identifier = "rom18_90_20t_2000i_200opt"
+dataset = "rom18_191"             
+identifier = "rom18_191_test_20t_2000i_200opt"
 
 mallet_path = r'C:\mallet-2.0.8\bin\mallet' 
 
-metadata_roman18 = "xml-tei_metadata.tsv"
+metadata_roman18 = "xml-tei_full_metadata.tsv"
 metadatafile_full = join(workdir, "datasets", dataset, "metadata-full.csv")
 metadatafile_split = join(workdir, "datasets", dataset, "metadata.csv")
 stopwordsfile = "fr.txt"
@@ -67,6 +67,7 @@ def main(paths, params, cats):
     helpers.make_dirs(paths)
     extract_metadata.main(paths)
     split.main(paths, params)
+    '''
     preprocessing.main(paths, params)
     build_corpus.main(paths)
     modeling.main(paths, params)
@@ -74,7 +75,7 @@ def main(paths, params, cats):
     make_overview.main(paths)
     make_heatmap.main(paths, cats)
     make_wordclouds.main(paths, params)
-    
+    '''
     print("\n==", helpers.get_time(), "done", "==")
 
     

@@ -48,14 +48,17 @@ def get_metadata(metadata_full, metadata, textid):
     #textid = re.sub(r'\[1\]', r'', textid)
     key = metadata[metadata['filename'] == textid].index.item()
     year = str(metadata.loc[key, 'printSource-yr'])
-    
+    decade = ""
     
     if year == "nan" or year == "unknown":
         decade = "nan"
     else:
-        year = year[:4]
-        decade = year[2]
-        decade = "17" + decade + "0s"
+        if year == "1800":
+            decade = "1800s"
+        else:
+            year = year[:4]
+            decade = year[2]
+            decade = "17" + decade + "0s"
     
     narration = metadata.loc[key, 'form']
     gender = metadata.loc[key, 'au-gender']
