@@ -29,8 +29,8 @@ import make_wordclouds
 # == Files and folders ==
 
 workdir = ".."            
-dataset = "rom18_191"             
-identifier = "rom18_191_test_30t_2000i_200opt"
+dataset = "rom18_198"             
+identifier = "rom18_198_40t_2000i_200opt"
 
 mallet_path = r'C:\mallet-2.0.8\bin\mallet' 
 
@@ -46,7 +46,7 @@ namelistfile = "names.txt"
 chunksize = 1000  # splitting texts in chunks of 1000 words
 lang = "fr"   # possible values: "fr" (standard French); "presto" (French of the 16th and 17th century)
 
-numtopics = 30 # number of topics that is generated
+numtopics = 40 # number of topics that is generated
 passes = 2000 # number of iterations
 optimize_interval = 200  # optimization of topic model every "200" iterations; for "0" alpha and beta keep their values
 
@@ -70,12 +70,13 @@ def main(paths, params, cats):
     split.main(paths, params)
     preprocessing.main(paths, params)
     build_corpus.main(paths)
+    '''
     modeling.main(paths, params)
     postprocessing.main(paths, params)
     make_overview.main(paths)
     make_heatmap.main(paths, cats)
-    '''
     make_wordclouds.main(paths, params)
+    
     print("\n==", helpers.get_time(), "done", "==")
 
     
