@@ -25,7 +25,8 @@ Please install the following:
     * "numpy", see: https://www.numpy.org/
     * "pandas", see: https://pandas.pydata.org/
     * "treetaggerwrapper", see: https://pypi.org/project/treetaggerwrapper/
-    * "gensim", see: https://radimrehurek.com/gensim/install.html
+    * "gensim", version 3.8.3, see: https://radimrehurek.com/gensim/install.html
+    	* important note: Gensim 3.8.3 is the latest release to include the LDA mallet wrapper, which is essential for using the pipeline. So this gensim version is needed to run the pipeline.
     * "pyLDAvis", see: https://github.com/bmabey/pyLDAvis
     * "sklearn", see: https://pypi.org/project/scikit-learn/
     * "seaborn", see: https://seaborn.pydata.org/
