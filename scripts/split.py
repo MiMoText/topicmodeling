@@ -96,7 +96,7 @@ def create_df_metadata(allfilenames, metadata):
             
         narration = metadata.loc[key, 'narration']
 
-        df_split = df_split.append({'filename': filename, 'id': textid, 'author': author, 'decade': decade, 'gender': gender, 'narration': narration}, ignore_index=True)
+        df_split.loc[len(df_split)] = pd.Series({'filename': filename, 'id': textid, 'author': author, 'decade': decade, 'gender': gender, 'narration': narration})
     
     return df_split
             

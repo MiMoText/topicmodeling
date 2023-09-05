@@ -149,7 +149,7 @@ def make_avgmatrix(chunkmatrix, numtopics):
             elif ind == chunkmatrix.index[-1] or id != id_prev:  # Sonderfall: letzte Zeile oder neue ID
                 avg = str(score / counter)   # Durchschnitt des Topicscore berechnen
                 key = df_avg[df_avg['id'] == id_prev].index.item()
-                df_avg.loc[key][int(column)] = float(avg)
+                df_avg.loc[key, int(column)] = float(avg)
                 
                 id_prev = id
                 score = score_add

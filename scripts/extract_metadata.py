@@ -63,7 +63,7 @@ def get_metadata(metadata_full, metadata, textid):
     narration = metadata.loc[key, 'form']
     gender = metadata.loc[key, 'au-gender']
 
-    metadata_full = metadata_full.append({'id': textid, 'author': author, 'decade': decade, 'gender': gender, 'narration': narration}, ignore_index=True)
+    metadata_full.loc[len(metadata_full)] = pd.Series({'id': textid, 'author': author, 'decade': decade, 'gender': gender, 'narration': narration})
     
     return metadata_full
 

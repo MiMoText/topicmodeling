@@ -51,6 +51,17 @@ def build_model(dictcorpus, vectorcorpus, paths, params):
     
     return model
 
+def get_coherence_score(model, vectorcorpus, textscorpus):
+    '''
+    Calculates the UMass coherence score.
+    '''
+
+    cm_umass = CoherenceModel(model=model, corpus=vectorcorpus, coherence='u_mass')   
+    coherence_umass = cm_umass.get_coherence()  # get coherence value
+    
+    print("coherence score u_mass:", coherence_umass)
+    
+
 def move_output(workdir, identifier):
     '''
     Moves mallet output from the script directory into the results directory.
@@ -76,6 +87,7 @@ def main(paths, params):
     dictcorpus = helpers.load_pickle(paths, "dictcorpus.pickle")
     vectorcorpus = helpers.load_pickle(paths, "vectorcorpus.pickle")
     model = build_model(dictcorpus, vectorcorpus, paths, params)
+    get_coherence_score(model, vectorcorpus, textscorpus)
     helpers.save_model(paths, model)
     move_output(workdir, identifier)
     print("==", helpers.get_time(), "done modeling", "==")   
