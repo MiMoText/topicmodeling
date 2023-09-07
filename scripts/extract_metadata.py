@@ -47,7 +47,7 @@ def get_metadata(metadata_full, metadata, textid):
     author = textid.split('_')[0]
     #textid = re.sub(r'\[1\]', r'', textid)
     key = metadata[metadata['filename'] == textid].index.item()
-    year = str(metadata.loc[key, 'printSource-yr'])
+    year = str(metadata.loc[key, 'firsted-yr'])
     decade = ""
     
     if year == "nan" or year == "unknown":
