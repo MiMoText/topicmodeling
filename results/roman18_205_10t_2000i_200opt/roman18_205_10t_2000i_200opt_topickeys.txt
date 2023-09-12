@@ -1,0 +1,10 @@
+0	0,75923	roi prince peuple terre grand ville pays ennemi soleil troupe palais porter montagne mer arme princesse guerre voir milieu beau 
+1	2,86373	croire moins point femme donner encore paraître temps assez mettre laisser voir répondre cependant jamais fort autant homme connaître seul 
+2	0,77218	petit mettre là saint bon maître beau fille homme donner grand voir manger femme coup fort encore foutre foi|fois voilà 
+3	1,53562	beau femme voir plaisir jeune œil air petit esprit bon paraître goût monde grand jouer grâce joli donner beauté charmant 
+4	1,65079	homme point nature grand esprit loi vertu dieu raison toujours chose donner jamais mal moins monde bon enfant vérité religion 
+5	1,93532	mort malheureux voir vie œil dieu ciel main larme mourir douleur crime point affreux bras cœur encore homme malheur cruel 
+6	1,78902	père fille mère enfant jeune fil|fils homme jour bon donner voir frère maison famille femme ami sœur fortune apprendre petit 
+7	2,11763	voir heure entendre porte main passer sortir nuit entrer arriver répondre chambre moment paraître apercevoir œil temps bras lever mettre 
+8	2,57641	cœur amour aimer point sentiment bonheur âme heureux jamais seul voir tendre plaisir sentir encore toujours jour ami doux œil 
+9	2,0142	ami voir lettre parler écrire croire cher comte aimer bon encore chose femme jour jamais puis donner là toujours penser 
