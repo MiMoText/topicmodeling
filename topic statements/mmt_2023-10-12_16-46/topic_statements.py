@@ -94,7 +94,6 @@ def get_percentage(df_avg, numtopics, treshold):
     
     delete = frequent + seldom # all topics to ignore
     
-    #df_perc = df_avg.append(perc_row, ignore_index=True)
     df_perc = df_avg
     df_perc.loc[len(df_perc)] = pd.Series(perc_row)
 
@@ -146,7 +145,6 @@ def get_topTopics(df_ranking, delete, number_top_topics):
                     keep.append(topic)
         
         for item in keep:
-            #all_rows.append([id, "isAbout", item])
             all_rows.append([id, item])
     
     df_top = pd.DataFrame(all_rows, columns=['MiMoText-ID', 'TopicNumber'])
