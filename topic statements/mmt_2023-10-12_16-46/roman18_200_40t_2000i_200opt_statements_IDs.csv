@@ -1,0 +1,1259 @@
+	MimoText_ID	BGRF_ID	FrLabel	enLabel	DeLabel	Concept
+0	Abbes_Voyage	58.5	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+1	Abbes_Voyage	58.5	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+2	Abbes_Voyage	58.5	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+3	Abbes_Voyage	58.5	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+4	Abbes_Voyage	58.5	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+5	AndreSerieys_Comte	00.39	Topic 0:voyage maritime	Topic 0:navigation	Topic 0:Schiffahrt	Q3997 
+6	AndreSerieys_Comte	00.39	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+7	AndreSerieys_Comte	00.39	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+8	AndreSerieys_Comte	00.39	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+9	AndreSerieys_Comte	00.39	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+10	Anonym_Enfant	00.16	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+11	Anonym_Enfant	00.16	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+12	Anonym_Enfant	00.16	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+13	Anonym_Enfant	00.16	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+14	Anonym_Enfant	00.16	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+15	Anonym_Enfant	00.16	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+16	Anonym_Histoire	57.1	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+17	Anonym_Histoire	57.1	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+18	Anonym_Histoire	57.1	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+19	Anonym_Histoire	57.1	Topic 0:voyage maritime	Topic 0:navigation	Topic 0:Schiffahrt	Q3997 
+20	Anonym_Histoire	57.1	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+21	Anonym_Histoire	57.1	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+22	Anonym_Histoire	57.1	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+23	Anonym_Suzon	83.9	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+24	Anonym_Suzon	83.9	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+25	Anonym_Suzon	83.9	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+26	Anonym_Suzon	83.9	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+27	Anonym_Suzon	83.9	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+28	Anonym_Suzon	83.9	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+29	Anonym_Suzon	83.9	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+30	Anonyme_Venus	70.18	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+31	Anonyme_Venus	70.18	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+32	Anonyme_Venus	70.18	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+33	Anonyme_Venus	70.18	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+34	Anonyme_Venus	70.18	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+35	Anonyme_Venus	70.18	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+36	Anonyme_Zoloe	00.37	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+37	Anonyme_Zoloe	00.37	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+38	Anonyme_Zoloe	00.37	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+39	Anonyme_Zoloe	00.37	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+40	Anonyme_Zoloe	00.37	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+41	Anonyme_Zoloe	00.37	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+42	Arnaud_Adelson	72.10	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+43	Arnaud_Adelson	72.10	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+44	Arnaud_Adelson	72.10	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+45	Arnaud_Adelson	72.10	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+46	Arnaud_Adelson	72.10	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+47	Arnaud_Adelson	72.10	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+48	Arnaud_Adelson	72.10	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+49	Arnaud_Anne	69.12	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+50	Arnaud_Anne	69.12	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+51	Arnaud_Anne	69.12	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+52	Arnaud_Anne	69.12	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+53	Arnaud_Anne	69.12	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+54	Arnaud_Anne	69.12	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+55	Arnaud_Anne	69.12	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+56	Arnaud_Anne	69.12	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+57	Arnaud_Bal	51.9	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+58	Arnaud_Bal	51.9	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+59	Arnaud_Bal	51.9	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+60	Arnaud_Bal	51.9	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+61	Arnaud_Bal	51.9	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+62	Arnaud_Bal	51.9	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+63	Arnaud_Batilde	67.14	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+64	Arnaud_Batilde	67.14	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+65	Arnaud_Batilde	67.14	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+66	Arnaud_Batilde	67.14	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+67	Arnaud_Batilde	67.14	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+68	Arnaud_Batilde	67.14	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+69	Arnaud_Batilde	67.14	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+70	Arnaud_Clary	67.15	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+71	Arnaud_Clary	67.15	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+72	Arnaud_Clary	67.15	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+73	Arnaud_Clary	67.15	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+74	Arnaud_Clary	67.15	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+75	Arnaud_Clary	67.15	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+76	Arnaud_Clary	67.15	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+77	Arnaud_Clary	67.15	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+78	Arnaud_Epoux	83.15	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+79	Arnaud_Epoux	83.15	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+80	Arnaud_Epoux	83.15	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+81	Arnaud_Epoux	83.15	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+82	Arnaud_Epoux	83.15	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+83	Arnaud_Epoux	83.15	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+84	Arnaud_Epoux	83.15	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+85	Arnaud_Fanny	64.14	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+86	Arnaud_Fanny	64.14	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+87	Arnaud_Fanny	64.14	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+88	Arnaud_Fanny	64.14	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+89	Arnaud_Fanny	64.14	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+90	Arnaud_Fanny	64.14	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+91	Arnaud_Fanny	64.14	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+92	Arnaud_Fanny	64.14	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+93	Arnaud_Julie	67.16	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+94	Arnaud_Julie	67.16	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+95	Arnaud_Julie	67.16	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+96	Arnaud_Julie	67.16	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+97	Arnaud_Julie	67.16	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+98	Arnaud_Julie	67.16	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+99	Arnaud_Julie	67.16	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+100	Arnaud_Matinees	99.43	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+101	Arnaud_Matinees	99.43	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+102	Arnaud_Matinees	99.43	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+103	Arnaud_Matinees	99.43	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+104	Arnaud_Matinees	99.43	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+105	Arnaud_Matinees	99.43	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+106	Arnaud_Matinees	99.43	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+107	Arnaud_Matinees	99.43	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+108	Arnaud_Nancy	67.18	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+109	Arnaud_Nancy	67.18	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+110	Arnaud_Nancy	67.18	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+111	Arnaud_Nancy	67.18	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+112	Arnaud_Nancy	67.18	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+113	Arnaud_Nancy	67.18	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+114	Arnaud_Sargines	72.11	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+115	Arnaud_Sargines	72.11	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+116	Arnaud_Sargines	72.11	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+117	Arnaud_Sargines	72.11	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+118	Arnaud_Sargines	72.11	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+119	Arnaud_Sargines	72.11	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+120	Arnaud_Selicourt	69.13	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+121	Arnaud_Selicourt	69.13	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+122	Arnaud_Selicourt	69.13	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+123	Arnaud_Selicourt	69.13	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+124	Arnaud_Selicourt	69.13	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+125	Arnaud_Selicourt	69.13	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+126	Arnaud_Sidney	66.9	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+127	Arnaud_Sidney	66.9	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+128	Arnaud_Sidney	66.9	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+129	Arnaud_Sidney	66.9	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+130	Arnaud_Sidney	66.9	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+131	Arnaud_Sidney	66.9	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+132	Arnaud_Sidney	66.9	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+133	Arnaud_Zenothemis	73.9	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+134	Arnaud_Zenothemis	73.9	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+135	Arnaud_Zenothemis	73.9	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+136	Arnaud_Zenothemis	73.9	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+137	Arnaud_Zenothemis	73.9	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+138	Arnaud_Zenothemis	73.9	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+139	Arnaud_Zenothemis	73.9	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+140	BarbeMarbois_Parisienne	69.14	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+141	BarbeMarbois_Parisienne	69.14	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+142	BarbeMarbois_Parisienne	69.14	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+143	BarbeMarbois_Parisienne	69.14	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+144	BarbeMarbois_Parisienne	69.14	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+145	BarbeMarbois_Parisienne	69.14	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+146	BarbeMarbois_Parisienne	69.14	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+147	Barthe_Femme	69.15	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+148	Barthe_Femme	69.15	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+149	Barthe_Femme	69.15	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+150	Barthe_Femme	69.15	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+151	Barthe_Femme	69.15	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+152	Barthe_Femme	69.15	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+153	Barthe_Femme	69.15	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+154	Bastide_Maison	62.9	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+155	Bastide_Maison	62.9	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+156	Bastide_Maison	62.9	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+157	Bastide_Maison	62.9	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+158	Bastide_Maison	62.9	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+159	Bastide_Maison	62.9	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	x
+160	Bastide_Maison	62.9	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+161	Beauharnais_Lettres	78.12	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+162	Beauharnais_Lettres	78.12	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+163	Beauharnais_Lettres	78.12	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+164	Beauharnais_Lettres	78.12	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+165	Beauharnais_Lettres	78.12	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+166	Beauharnais_Lettres	78.12	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+167	Beaumont_Belle	56.19	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+168	Beaumont_Belle	56.19	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+169	Beaumont_Belle	56.19	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+170	Beaumont_Belle	56.19	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+171	Beaumont_Belle	56.19	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+172	Beaumont_Belle	56.19	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+173	Beaumont_Clarice	67.36	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+174	Beaumont_Clarice	67.36	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+175	Beaumont_Clarice	67.36	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+176	Beaumont_Clarice	67.36	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+177	Beaumont_Clarice	67.36	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+178	Beaumont_Clarice	67.36	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+179	Beaumont_Clarice	67.36	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+180	Beaumont_Prince	56.19	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+181	Beaumont_Prince	56.19	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+182	Beaumont_Prince	56.19	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+183	Beaumont_Prince	56.19	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+184	Beaumont_Prince	56.19	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+185	Beaumont_Prince	56.19	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+186	Beaumont_Prince	56.19	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+187	Beaumont_Prince	56.19	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+188	Beckford_Vathek	87.25	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+189	Beckford_Vathek	87.25	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+190	Beckford_Vathek	87.25	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+191	Beckford_Vathek	87.25	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+192	Beckford_Vathek	87.25	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+193	Beckford_Vathek	87.25	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+194	Beckford_Vathek	87.25	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+195	Bellin_Nuit	99.44	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+196	Bellin_Nuit	99.44	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+197	Bellin_Nuit	99.44	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+198	Bellin_Nuit	99.44	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+199	Bellin_Nuit	99.44	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+200	Bellin_Nuit	99.44	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+201	Benoist_Elisabeth	66.11	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+202	Benoist_Elisabeth	66.11	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+203	Benoist_Elisabeth	66.11	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+204	Benoist_Elisabeth	66.11	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+205	Benoist_Elisabeth	66.11	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+206	Benoist_Elisabeth	66.11	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+207	Benoist_Elisabeth	66.11	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+208	Bernardin_Chaumiere	91.43	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+209	Bernardin_Chaumiere	91.43	Topic 0:voyage maritime	Topic 0:navigation	Topic 0:Schiffahrt	Q3997 
+210	Bernardin_Chaumiere	91.43	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+211	Bernardin_Chaumiere	91.43	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+212	Bernardin_Chaumiere	91.43	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+213	Bernardin_Chaumiere	91.43	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+214	Bernardin_Chaumiere	91.43	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+215	Bernardin_Paul	88.101	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+216	Bernardin_Paul	88.101	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+217	Bernardin_Paul	88.101	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+218	Bernardin_Paul	88.101	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+219	Bernardin_Paul	88.101	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+220	Bernardin_Paul	88.101	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+221	Berquin_Enfants	82.14	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+222	Berquin_Enfants	82.14	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+223	Berquin_Enfants	82.14	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+224	Berquin_Enfants	82.14	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+225	Berquin_Enfants	82.14	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+226	Berquin_Enfants	82.14	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+227	Berquin_Enfants	82.14	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+228	Blanchard_Philetas	00.50	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+229	Blanchard_Philetas	00.50	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+230	Blanchard_Philetas	00.50	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+231	Blanchard_Philetas	00.50	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+232	Blanchard_Philetas	00.50	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+233	Blanchard_Philetas	00.50	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+234	Blanchard_Philetas	00.50	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+235	Boismortier_Histoire	66.12	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+236	Boismortier_Histoire	66.12	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+237	Boismortier_Histoire	66.12	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+238	Boismortier_Histoire	66.12	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+239	Boismortier_Histoire	66.12	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+240	Boismortier_Histoire	66.12	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+241	Boufflers_Reine	61.6	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+242	Boufflers_Reine	61.6	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+243	Boufflers_Reine	61.6	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+244	Boufflers_Reine	61.6	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+245	Boufflers_Reine	61.6	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+246	Brument_Henriette	68.17	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+247	Brument_Henriette	68.17	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+248	Brument_Henriette	68.17	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+249	Brument_Henriette	68.17	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+250	Brument_Henriette	68.17	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+251	Brument_Henriette	68.17	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+252	CastilhonJL_Zingha	69.23	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+253	CastilhonJL_Zingha	69.23	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+254	CastilhonJL_Zingha	69.23	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+255	CastilhonJL_Zingha	69.23	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+256	CastilhonJL_Zingha	69.23	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+257	CastilhonJ_Robert	69.22	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+258	CastilhonJ_Robert	69.22	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+259	CastilhonJ_Robert	69.22	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+260	CastilhonJ_Robert	69.22	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+261	CastilhonJ_Robert	69.22	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+262	CastilhonJ_Robert	69.22	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+263	Cazotte_Diable	72.17	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+264	Cazotte_Diable	72.17	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+265	Cazotte_Diable	72.17	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+266	Cazotte_Diable	72.17	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+267	Cazotte_Diable	72.17	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+268	Cazotte_Diable	72.17	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+269	Cazotte_Diable	72.17	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+270	Cazotte_Honneur	88.41	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+271	Cazotte_Honneur	88.41	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+272	Cazotte_Honneur	88.41	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+273	Cazotte_Honneur	88.41	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+274	Cazotte_Honneur	88.41	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+275	Cazotte_Honneur	88.41	Topic 0:voyage maritime	Topic 0:navigation	Topic 0:Schiffahrt	Q3997 
+276	Cazotte_Ollivier	63.19	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+277	Cazotte_Ollivier	63.19	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+278	Cazotte_Ollivier	63.19	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+279	Cazotte_Ollivier	63.19	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+280	Cazotte_Ollivier	63.19	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+281	Cazotte_Ollivier	63.19	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+282	Charriere_Caliste	87.30	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+283	Charriere_Caliste	87.30	Topic 19:affection	Topic 19:affection	Topic 19:Zuneigung	Q3998
+284	Charriere_Caliste	87.30	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+285	Charriere_Caliste	87.30	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+286	Charriere_Caliste	87.30	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+287	Charriere_Caliste	87.30	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+288	Charriere_Femmes	96.18	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+289	Charriere_Femmes	96.18	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+290	Charriere_Femmes	96.18	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+291	Charriere_Femmes	96.18	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+292	Charriere_Femmes	96.18	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+293	Charriere_Femmes	96.18	Topic 19:affection	Topic 19:affection	Topic 19:Zuneigung	Q3998
+294	Charriere_Lausanne	85.24	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+295	Charriere_Lausanne	85.24	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+296	Charriere_Lausanne	85.24	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+297	Charriere_Lausanne	85.24	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+298	Charriere_Lausanne	85.24	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+299	Charriere_Lausanne	85.24	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+300	Charriere_Neuchateloises	84.18	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+301	Charriere_Neuchateloises	84.18	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+302	Charriere_Neuchateloises	84.18	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+303	Charriere_Neuchateloises	84.18	Topic 19:affection	Topic 19:affection	Topic 19:Zuneigung	Q3998
+304	Charriere_Neuchateloises	84.18	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+305	Charriere_Neuchateloises	84.18	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+306	Charriere_Noble	63.21	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+307	Charriere_Noble	63.21	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+308	Charriere_Noble	63.21	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+309	Charriere_Noble	63.21	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+310	Charriere_Noble	63.21	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+311	Charriere_Noble	63.21	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+312	Charriere_Observations	88.43	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+313	Charriere_Observations	88.43	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+314	Charriere_Observations	88.43	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+315	Charriere_Observations	88.43	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+316	Charriere_Observations	88.43	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+317	Charriere_Observations	88.43	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+318	Charriere_Ruines	98.35	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+319	Charriere_Ruines	98.35	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+320	Charriere_Ruines	98.35	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+321	Charriere_Ruines	98.35	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+322	Charriere_Ruines	98.35	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+323	Charriere_Ruines	98.35	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+324	Charriere_Ruines	98.35	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+325	Charriere_Sainte	98.35	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+326	Charriere_Sainte	98.35	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+327	Charriere_Sainte	98.35	Topic 19:affection	Topic 19:affection	Topic 19:Zuneigung	Q3998
+328	Charriere_Sainte	98.35	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+329	Charriere_Sainte	98.35	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+330	Chaussard_Diable	99.57	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+331	Chaussard_Diable	99.57	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+332	Chaussard_Diable	99.57	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+333	Chaussard_Diable	99.57	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+334	Chaussard_Diable	99.57	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+335	Chaussard_Diable	99.57	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+336	Chevrier_Colporteur	62.11	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+337	Chevrier_Colporteur	62.11	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+338	Chevrier_Colporteur	62.11	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+339	Chevrier_Colporteur	62.11	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+340	Chevrier_Colporteur	62.11	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+341	Chevrier_Magakou	52.18	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+342	Chevrier_Magakou	52.18	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+343	Chevrier_Magakou	52.18	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+344	Chevrier_Magakou	52.18	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+345	Chevrier_Magakou	52.18	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+346	Colombe_Plaisirs	64.41	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+347	Colombe_Plaisirs	64.41	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+348	Colombe_Plaisirs	64.41	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+349	Colombe_Plaisirs	64.41	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+350	Colombe_Plaisirs	64.41	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+351	Colombe_Plaisirs	64.41	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+352	Constant_Laure	86.27	Topic 19:affection	Topic 19:affection	Topic 19:Zuneigung	Q3998
+353	Constant_Laure	86.27	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+354	Constant_Laure	86.27	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+355	Constant_Laure	86.27	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+356	Constant_Laure	86.27	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+357	Constant_Laure	86.27	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+358	Constant_Mari	83.22	Topic 19:affection	Topic 19:affection	Topic 19:Zuneigung	Q3998
+359	Constant_Mari	83.22	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+360	Constant_Mari	83.22	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+361	Constant_Mari	83.22	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+362	Constant_Mari	83.22	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+363	Constant_Mari	83.22	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+364	Cottin_Claire	99.62	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+365	Cottin_Claire	99.62	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+366	Cottin_Claire	99.62	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+367	Cottin_Claire	99.62	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+368	Cottin_Claire	99.62	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+369	Cottin_Claire	99.62	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+370	Cottin_Claire	99.62	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+371	Crebillon_Atheniennes	71.23	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	x
+372	Crebillon_Atheniennes	71.23	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+373	Crebillon_Atheniennes	71.23	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+374	Crebillon_Atheniennes	71.23	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+375	Crebillon_Atheniennes	71.23	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+376	Crebillon_Atheniennes	71.23	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+377	Crebillon_Conte	54.13	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	x
+378	Crebillon_Conte	54.13	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+379	Crebillon_Conte	54.13	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+380	Crebillon_Conte	54.13	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+381	Crebillon_Conte	54.13	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+382	Crebillon_Nuit	55.16	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	x
+383	Crebillon_Nuit	55.16	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+384	Crebillon_Nuit	55.16	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+385	Crebillon_Nuit	55.16	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+386	Crebillon_Nuit	55.16	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+387	Crebillon_Nuit	55.16	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+388	DamiensGomicourt_Dorval	69.30	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+389	DamiensGomicourt_Dorval	69.30	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+390	DamiensGomicourt_Dorval	69.30	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+391	DamiensGomicourt_Dorval	69.30	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+392	DamiensGomicourt_Dorval	69.30	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+393	DamiensGomicourt_Dorval	69.30	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+394	DamiensGomicourt_Dorval	69.30	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+395	Denon_Point	79.15	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+396	Denon_Point	79.15	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+397	Denon_Point	79.15	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+398	Denon_Point	79.15	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+399	Denon_Point	79.15	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+400	Denon_Point	79.15	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+401	Diderot_Jacques	97.21	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+402	Diderot_Jacques	97.21	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+403	Diderot_Jacques	97.21	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+404	Diderot_Jacques	97.21	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+405	Diderot_Jacques	97.21	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+406	Diderot_Jacques	97.21	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+407	Diderot_Neveu	1	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+408	Diderot_Neveu	1	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+409	Diderot_Neveu	1	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+410	Diderot_Neveu	1	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+411	Diderot_Neveu	1	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+412	Diderot_Neveu	1	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+413	Diderot_Neveu	1	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+414	Diderot_Neveu	1	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+415	Diderot_Oiseau	98.38	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+416	Diderot_Oiseau	98.38	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+417	Diderot_Oiseau	98.38	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+418	Diderot_Oiseau	98.38	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+419	Diderot_Oiseau	98.38	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+420	Diderot_Oiseau	98.38	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+421	Diderot_Oiseau	98.38	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+422	Diderot_Pensees	77.33	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+423	Diderot_Pensees	77.33	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+424	Diderot_Pensees	77.33	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+425	Diderot_Pensees	77.33	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+426	Diderot_Pensees	77.33	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	x
+427	Diderot_Pensees	77.33	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+428	Diderot_Religieuse	97.22	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+429	Diderot_Religieuse	97.22	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+430	Diderot_Religieuse	97.22	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+431	Diderot_Religieuse	97.22	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+432	Diderot_Supplement	98.38	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+433	Diderot_Supplement	98.38	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+434	Diderot_Supplement	98.38	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+435	Diderot_Supplement	98.38	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+436	Diderot_Supplement	98.38	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+437	Diderot_Supplement	98.38	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+438	Doppet_Memoires	86.32	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+439	Doppet_Memoires	86.32	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+440	Doppet_Memoires	86.32	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+441	Doppet_Memoires	86.32	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+442	Doppet_Memoires	86.32	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+443	Doppet_Memoires	86.32	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+444	Doppet_Memoires	86.32	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+445	Dorat_Malheurs	72.19	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+446	Dorat_Malheurs	72.19	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+447	Dorat_Malheurs	72.19	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+448	Dorat_Malheurs	72.19	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+449	Dorat_Malheurs	72.19	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+450	Dorat_Malheurs	72.19	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+451	Dorat_Sacrifices	71.25	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+452	Dorat_Sacrifices	71.25	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+453	Dorat_Sacrifices	71.25	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+454	Dorat_Sacrifices	71.25	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+455	Dorat_Sacrifices	71.25	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+456	Dorat_Sacrifices	71.25	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+457	Dorvigny_Tante	00.64	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+458	Dorvigny_Tante	00.64	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+459	Dorvigny_Tante	00.64	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+460	Dorvigny_Tante	00.64	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+461	Dorvigny_Tante	00.64	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+462	Dorvigny_Tante	00.64	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+463	Duclos_Memoires	51.22	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+464	Duclos_Memoires	51.22	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+465	Duclos_Memoires	51.22	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+466	Duclos_Memoires	51.22	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+467	Duclos_Memoires	51.22	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	x
+468	Duclos_Memoires	51.22	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+469	Duclos_Memoires	51.22	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+470	Ducray_Cinquante	99.76	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+471	Ducray_Cinquante	99.76	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+472	Ducray_Cinquante	99.76	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+473	Ducray_Cinquante	99.76	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+474	Ducray_Cinquante	99.76	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+475	Ducray_Cinquante	99.76	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+476	Ducray_Coelina	99.77	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+477	Ducray_Coelina	99.77	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+478	Ducray_Coelina	99.77	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+479	Ducray_Coelina	99.77	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+480	Ducray_Coelina	99.77	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+481	Ducray_Soirees	95.18	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+482	Ducray_Soirees	95.18	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+483	Ducray_Soirees	95.18	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+484	Ducray_Soirees	95.18	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+485	Ducray_Soirees	95.18	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+486	Ducray_Victor	97.23	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+487	Ducray_Victor	97.23	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+488	Ducray_Victor	97.23	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+489	Ducray_Victor	97.23	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+490	Ducray_Victor	97.23	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+491	Dulaurens_Compere	66.21	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+492	Dulaurens_Compere	66.21	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+493	Dulaurens_Compere	66.21	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+494	Dulaurens_Compere	66.21	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+495	Dulaurens_Compere	66.21	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+496	Dulaurens_Compere	66.21	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+497	Dulaurens_Compere	66.21	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+498	Dulaurens_Compere	66.21	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+499	Dulaurens_Imirce	65.21	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+500	Dulaurens_Imirce	65.21	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+501	Dulaurens_Imirce	65.21	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+502	Dulaurens_Imirce	65.21	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+503	Dulaurens_Imirce	65.21	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+504	Dulaurens_Imirce	65.21	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+505	Duvernet_Devotions	89.58	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+506	Duvernet_Devotions	89.58	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+507	Duvernet_Devotions	89.58	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+508	Duvernet_Devotions	89.58	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+509	Duvernet_Devotions	89.58	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+510	Duvernet_Devotions	89.58	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+511	Duvernet_Guillaume	81.18	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+512	Duvernet_Guillaume	81.18	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+513	Duvernet_Guillaume	81.18	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+514	Duvernet_Guillaume	81.18	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+515	Duvernet_Guillaume	81.18	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+516	Duvernet_Guillaume	81.18	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+517	Duvernet_Retraite	90.34	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+518	Duvernet_Retraite	90.34	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+519	Duvernet_Retraite	90.34	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+520	Duvernet_Retraite	90.34	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+521	Duvernet_Retraite	90.34	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+522	Duvernet_Retraite	90.34	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+523	Falconet_Debut	70.45	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+524	Falconet_Debut	70.45	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+525	Falconet_Debut	70.45	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+526	Falconet_Debut	70.45	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+527	Falconet_Debut	70.45	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+528	Falconet_Debut	70.45	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+529	Falconet_Debut	70.45	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+530	Fievee_Dot	98.41	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+531	Fievee_Dot	98.41	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+532	Fievee_Dot	98.41	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+533	Fievee_Dot	98.41	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+534	Fievee_Dot	98.41	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+535	Fievee_Dot	98.41	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+536	Fievee_Dot	98.41	Topic 19:affection	Topic 19:affection	Topic 19:Zuneigung	Q3998
+537	Florian_Estelle	88.53	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+538	Florian_Estelle	88.53	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+539	Florian_Estelle	88.53	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+540	Florian_Estelle	88.53	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+541	Florian_Estelle	88.53	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+542	Florian_Estelle	88.53	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+543	Florian_Estelle	88.53	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+544	Florian_Galatee	83.26	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+545	Florian_Galatee	83.26	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+546	Florian_Galatee	83.26	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+547	Florian_Galatee	83.26	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+548	Florian_Galatee	83.26	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+549	Florian_Galatee	83.26	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+550	Florian_Numa	86.34	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+551	Florian_Numa	86.34	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+552	Florian_Numa	86.34	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+553	Florian_Numa	86.34	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+554	Florian_Numa	86.34	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+555	Fourqueux_Zely	75.28	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+556	Fourqueux_Zely	75.28	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+557	Fourqueux_Zely	75.28	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+558	Fourqueux_Zely	75.28	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+559	Fourqueux_Zely	75.28	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+560	Fourqueux_Zely	75.28	Topic 19:affection	Topic 19:affection	Topic 19:Zuneigung	Q3998
+561	Fyot_Memoires	52.23	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+562	Fyot_Memoires	52.23	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+563	Fyot_Memoires	52.23	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+564	Fyot_Memoires	52.23	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+565	Fyot_Memoires	52.23	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+566	Fyot_Memoires	52.23	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+567	Genlis_Adele	82.20	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+568	Genlis_Adele	82.20	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+569	Genlis_Adele	82.20	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+570	Genlis_Adele	82.20	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+571	Genlis_Adele	82.20	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+572	Genlis_Adele	82.20	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+573	Genlis_Adele	82.20	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+574	Genlis_Chevaliers	95.20	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+575	Genlis_Chevaliers	95.20	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+576	Genlis_Chevaliers	95.20	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+577	Genlis_Chevaliers	95.20	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+578	Genlis_Chevaliers	95.20	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+579	Genlis_Chevaliers	95.20	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+580	Genlis_Emigres	98.44	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+581	Genlis_Emigres	98.44	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+582	Genlis_Emigres	98.44	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+583	Genlis_Emigres	98.44	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+584	Genlis_Emigres	98.44	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+585	Genlis_Emigres	98.44	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+586	Genlis_Meres	00.75	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+587	Genlis_Meres	00.75	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+588	Genlis_Meres	00.75	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+589	Genlis_Meres	00.75	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+590	Genlis_Meres	00.75	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+591	Genlis_Meres	00.75	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+592	Gerard_Comte	74.15	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+593	Gerard_Comte	74.15	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+594	Gerard_Comte	74.15	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+595	Gerard_Comte	74.15	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+596	Gerard_Comte	74.15	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+597	Gerard_Comte	74.15	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+598	Gerard_Comte	74.15	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+599	Gerard_Comte	74.15	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+600	Gerard_Comte	74.15	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+601	Gilbert_Familles	70.46	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+602	Gilbert_Familles	70.46	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+603	Gilbert_Familles	70.46	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+604	Gilbert_Familles	70.46	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+605	Gilbert_Familles	70.46	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+606	Gilbert_Familles	70.46	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+607	Gimat_Voyage	53.17	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+608	Gimat_Voyage	53.17	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+609	Gimat_Voyage	53.17	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+610	Gimat_Voyage	53.17	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+611	Gimat_Voyage	53.17	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+612	Gimat_Voyage	53.17	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+613	Gorjy_Voyage	84.27	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+614	Gorjy_Voyage	84.27	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+615	Gorjy_Voyage	84.27	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+616	Gorjy_Voyage	84.27	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+617	Gorjy_Voyage	84.27	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+618	Gorjy_Voyage	84.27	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+619	Gorjy_Voyage	84.27	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+620	Grandin_Paulin	92.17	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+621	Grandin_Paulin	92.17	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+622	Grandin_Paulin	92.17	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+623	Grandin_Paulin	92.17	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+624	Grandin_Paulin	92.17	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+625	Jacquin_Parisiennes	58.13	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+626	Jacquin_Parisiennes	58.13	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+627	Jacquin_Parisiennes	58.13	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+628	Jacquin_Parisiennes	58.13	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+629	Jacquin_Parisiennes	58.13	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+630	Jacquin_Parisiennes	58.13	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+631	Jacquin_Parisiennes	58.13	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+632	Laclos_Liaisons	82.17	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+633	Laclos_Liaisons	82.17	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+634	Laclos_Liaisons	82.17	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+635	Laclos_Liaisons	82.17	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	x
+636	Laclos_Liaisons	82.17	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+637	Laclos_Liaisons	82.17	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+638	Lagrave_Sophie	99.104	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+639	Lagrave_Sophie	99.104	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+640	Lagrave_Sophie	99.104	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+641	Lagrave_Sophie	99.104	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+642	Lagrave_Sophie	99.104	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+643	Lagrave_Sophie	99.104	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+644	Lagrave_Zabeth	99.105	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+645	Lagrave_Zabeth	99.105	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+646	Lagrave_Zabeth	99.105	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+647	Lagrave_Zabeth	99.105	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+648	Lagrave_Zabeth	99.105	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+649	Lagrave_Zabeth	99.105	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+650	Laveaux_Eusebe	85.33	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+651	Laveaux_Eusebe	85.33	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+652	Laveaux_Eusebe	85.33	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+653	Laveaux_Eusebe	85.33	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+654	Laveaux_Eusebe	85.33	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+655	Laveaux_Eusebe	85.33	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+656	Laveaux_Eusebe	85.33	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+657	Leonard_Clementine	74.20	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+658	Leonard_Clementine	74.20	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+659	Leonard_Clementine	74.20	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+660	Leonard_Clementine	74.20	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+661	Leonard_Clementine	74.20	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+662	Leonard_Clementine	74.20	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+663	Leonard_Lettres	83.31	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+664	Leonard_Lettres	83.31	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+665	Leonard_Lettres	83.31	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+666	Leonard_Lettres	83.31	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+667	Leonard_Lettres	83.31	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+668	Leonard_Lettres	83.31	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+669	Leonard_Lettres	83.31	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+670	Lesuire_Aventurier	82.27	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+671	Lesuire_Aventurier	82.27	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+672	Lesuire_Aventurier	82.27	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+673	Lesuire_Aventurier	82.27	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+674	Lesuire_Aventurier	82.27	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+675	Lesuire_Crime	89.81	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+676	Lesuire_Crime	89.81	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+677	Lesuire_Crime	89.81	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+678	Lesuire_Crime	89.81	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+679	Lesuire_Crime	89.81	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+680	Linguet_Voyage	55.27	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+681	Linguet_Voyage	55.27	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+682	Linguet_Voyage	55.27	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+683	Linguet_Voyage	55.27	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+684	Linguet_Voyage	55.27	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+685	Linguet_Voyage	55.27	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+686	Loaisel_Ainsi	87.54bis	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+687	Loaisel_Ainsi	87.54bis	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+688	Loaisel_Ainsi	87.54bis	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+689	Loaisel_Ainsi	87.54bis	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+690	Loaisel_Ainsi	87.54bis	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+691	Loaisel_Ainsi	87.54bis	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+692	Loaisel_Comtesse	79.22	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+693	Loaisel_Comtesse	79.22	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+694	Loaisel_Comtesse	79.22	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+695	Loaisel_Comtesse	79.22	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+696	Loaisel_Comtesse	79.22	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+697	Loaisel_Comtesse	79.22	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+698	Loaisel_Comtesse	79.22	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+699	Louvet_Annee	87.56	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+700	Louvet_Annee	87.56	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+701	Louvet_Annee	87.56	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+702	Louvet_Annee	87.56	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+703	Louvet_Annee	87.56	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+704	Louvet_Fin	90.47	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+705	Louvet_Fin	90.47	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+706	Louvet_Fin	90.47	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+707	Louvet_Fin	90.47	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+708	Louvet_Fin	90.47	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+709	Luchet_Vicomte	84.39	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+710	Luchet_Vicomte	84.39	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+711	Luchet_Vicomte	84.39	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+712	Luchet_Vicomte	84.39	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+713	Luchet_Vicomte	84.39	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+714	Luchet_Vicomte	84.39	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+715	Maistre_Voyage	94.8	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+716	Maistre_Voyage	94.8	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+717	Maistre_Voyage	94.8	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+718	Maistre_Voyage	94.8	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+719	Maistre_Voyage	94.8	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+720	Maistre_Voyage	94.8	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+721	Malarme_Rose	83.35	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+722	Malarme_Rose	83.35	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+723	Malarme_Rose	83.35	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+724	Malarme_Rose	83.35	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+725	Malarme_Rose	83.35	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+726	Malarme_Rose	83.35	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+727	Marchadier_Isle	52.32	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+728	Marchadier_Isle	52.32	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+729	Marchadier_Isle	52.32	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+730	Marchadier_Isle	52.32	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+731	Marchadier_Isle	52.32	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+732	Marchadier_Isle	52.32	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+733	Marchand_Avis	51.37	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+734	Marchand_Avis	51.37	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+735	Marchand_Avis	51.37	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+736	Marchand_Avis	51.37	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+737	Marchand_Avis	51.37	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+738	Marchand_Avis	51.37	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+739	Marchand_Avis	51.37	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+740	Marmontel_Belisaire	67.39	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+741	Marmontel_Belisaire	67.39	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+742	Marmontel_Belisaire	67.39	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+743	Marmontel_Belisaire	67.39	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+744	Marmontel_Belisaire	67.39	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+745	Marmontel_Belisaire	67.39	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+746	Marmontel_Belisaire	67.39	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+747	Marmontel_Contes	61.12	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+748	Marmontel_Contes	61.12	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+749	Marmontel_Contes	61.12	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+750	Marmontel_Contes	61.12	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+751	Marmontel_Contes	61.12	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+752	Marmontel_Contes	61.12	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+753	Marmontel_Dejeunes	91.35	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+754	Marmontel_Dejeunes	91.35	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+755	Marmontel_Dejeunes	91.35	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+756	Marmontel_Dejeunes	91.35	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+757	Marmontel_Dejeunes	91.35	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+758	Marmontel_Dejeunes	91.35	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+759	Marmontel_Dejeunes	91.35	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+760	Marmontel_Dejeunes	91.35	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+761	Marmontel_Incas	77.50	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+762	Marmontel_Incas	77.50	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+763	Marmontel_Incas	77.50	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+764	Marmontel_Incas	77.50	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+765	Marmontel_Incas	77.50	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+766	Maubert_Paisan	54.28	Topic 0:voyage maritime	Topic 0:navigation	Topic 0:Schiffahrt	Q3997 
+767	Maubert_Paisan	54.28	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+768	Maubert_Paisan	54.28	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+769	Maubert_Paisan	54.28	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+770	Maubert_Paisan	54.28	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+771	Merard_Bergeries	84.43	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+772	Merard_Bergeries	84.43	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+773	Merard_Bergeries	84.43	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+774	Merard_Bergeries	84.43	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+775	Merard_Bergeries	84.43	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+776	Merard_Bergeries	84.43	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+777	Mercier_An	71.36	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+778	Mercier_An	71.36	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+779	Mercier_An	71.36	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+780	Mercier_An	71.36	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+781	Mercier_An	71.36	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+782	Mercier_An	71.36	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+783	Mercier_An	71.36	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+784	Mercier_Jezennemours	76.36	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+785	Mercier_Jezennemours	76.36	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+786	Mercier_Jezennemours	76.36	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+787	Mercier_Jezennemours	76.36	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+788	Mercier_Jezennemours	76.36	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+789	Mercier_Jezennemours	76.36	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+790	Mercier_Jezennemours	76.36	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+791	Mercier_Jezennemours	76.36	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+792	Mercier_Songes	68.42	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+793	Mercier_Songes	68.42	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+794	Mercier_Songes	68.42	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+795	Mercier_Songes	68.42	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+796	Mercier_Songes	68.42	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+797	Mercier_Songes	68.42	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+798	Mirabeau_Conversion	83.40	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+799	Mirabeau_Conversion	83.40	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+800	Mirabeau_Conversion	83.40	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+801	Mirabeau_Conversion	83.40	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+802	Mirabeau_Conversion	83.40	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+803	Mirabeau_Conversion	83.40	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+804	Mirabeau_Conversion	83.40	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+805	Mirabeau_Rideau	86.51	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+806	Mirabeau_Rideau	86.51	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+807	Mirabeau_Rideau	86.51	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+808	Mirabeau_Rideau	86.51	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+809	Mirabeau_Rideau	86.51	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+810	Montdorge_Nadir	69.36	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+811	Montdorge_Nadir	69.36	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+812	Montdorge_Nadir	69.36	Topic 0:voyage maritime	Topic 0:navigation	Topic 0:Schiffahrt	Q3997 
+813	Montdorge_Nadir	69.36	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+814	Montdorge_Nadir	69.36	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+815	Montesquieu_Arsace	83.42	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+816	Montesquieu_Arsace	83.42	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+817	Montesquieu_Arsace	83.42	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+818	Montesquieu_Arsace	83.42	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+819	Montesquieu_Arsace	83.42	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+820	Montesquieu_Arsace	83.42	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+821	Montesquieu_Arsace	83.42	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+822	Moreau_Memoire	57.10	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+823	Moreau_Memoire	57.10	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+824	Moreau_Memoire	57.10	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+825	Moreau_Memoire	57.10	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+826	Moreau_Memoire	57.10	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+827	Moreau_Memoire	57.10	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+828	Moreau_Memoire	57.10	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+829	Morelly_Naufrage	53.26	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+830	Morelly_Naufrage	53.26	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+831	Morelly_Naufrage	53.26	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+832	Morelly_Naufrage	53.26	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+833	Morelly_Naufrage	53.26	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+834	Morelly_Naufrage	53.26	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+835	Morelly_Naufrage	53.26	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+836	Morliere_Royalisme	70.56	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+837	Morliere_Royalisme	70.56	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+838	Morliere_Royalisme	70.56	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+839	Morliere_Royalisme	70.56	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+840	Morliere_Royalisme	70.56	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+841	Morliere_Royalisme	70.56	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+842	Mouhy_Opuscule	52.35	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+843	Mouhy_Opuscule	52.35	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+844	Mouhy_Opuscule	52.35	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+845	Mouhy_Opuscule	52.35	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+846	Mouhy_Opuscule	52.35	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+847	Mouhy_Opuscule	52.35	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+848	Mouhy_Opuscule	52.35	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+849	Mouhy_Opuscule	52.35	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+850	Nerciat_Aphrodites	93.16	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+851	Nerciat_Aphrodites	93.16	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+852	Nerciat_Aphrodites	93.16	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+853	Nerciat_Aphrodites	93.16	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+854	Nerciat_Aphrodites	93.16	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+855	Nerciat_Aphrodites	93.16	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+856	Nerciat_Doctorat	88.94	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+857	Nerciat_Doctorat	88.94	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+858	Nerciat_Doctorat	88.94	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+859	Nerciat_Doctorat	88.94	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+860	Nerciat_Doctorat	88.94	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+861	Nerciat_Doctorat	88.94	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+862	Nerciat_Etourdi	84.50	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+863	Nerciat_Etourdi	84.50	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+864	Nerciat_Etourdi	84.50	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+865	Nerciat_Etourdi	84.50	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+866	Nerciat_Etourdi	84.50	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+867	Nerciat_Felicia	75.37	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+868	Nerciat_Felicia	75.37	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+869	Nerciat_Felicia	75.37	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+870	Nerciat_Felicia	75.37	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+871	Nerciat_Felicia	75.37	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+872	Nerciat_Monrose	92.34	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+873	Nerciat_Monrose	92.34	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+874	Nerciat_Monrose	92.34	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+875	Nerciat_Monrose	92.34	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+876	Nerciat_Monrose	92.34	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+877	Pertusier_Premiere	00.117	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+878	Pertusier_Premiere	00.117	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+879	Pertusier_Premiere	00.117	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+880	Pertusier_Premiere	00.117	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+881	Pertusier_Premiere	00.117	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+882	PigaultLebrun_Adele	00.119	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+883	PigaultLebrun_Adele	00.119	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+884	PigaultLebrun_Adele	00.119	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+885	PigaultLebrun_Adele	00.119	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+886	PigaultLebrun_Adele	00.119	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+887	PigaultLebrun_Adele	00.119	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+888	PigaultLebrun_Enfant	96.50	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+889	PigaultLebrun_Enfant	96.50	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+890	PigaultLebrun_Enfant	96.50	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+891	PigaultLebrun_Enfant	96.50	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+892	PigaultLebrun_Enfant	96.50	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+893	PigaultLebrun_Enfant	96.50	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+894	PigaultLebrun_Kinglin	00.122	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+895	PigaultLebrun_Kinglin	00.122	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+896	PigaultLebrun_Kinglin	00.122	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+897	PigaultLebrun_Kinglin	00.122	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+898	PigaultLebrun_Kinglin	00.122	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+899	PigaultLebrun_Kinglin	00.122	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+900	PigaultLebrun_Metusko	00.120	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+901	PigaultLebrun_Metusko	00.120	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+902	PigaultLebrun_Metusko	00.120	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+903	PigaultLebrun_Metusko	00.120	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+904	PigaultLebrun_Metusko	00.120	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+905	PigaultLebrun_Metusko	00.120	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+906	Popeliniere_Daira	60.21	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+907	Popeliniere_Daira	60.21	Topic 0:voyage maritime	Topic 0:navigation	Topic 0:Schiffahrt	Q3997 
+908	Popeliniere_Daira	60.21	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+909	Popeliniere_Daira	60.21	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+910	Popeliniere_Daira	60.21	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+911	Popeliniere_Daira	60.21	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+912	Prevost_Monde	60.28	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+913	Prevost_Monde	60.28	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+914	Prevost_Monde	60.28	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+915	Prevost_Monde	60.28	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+916	Prevost_Monde	60.28	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+917	Prevost_Monde	60.28	Topic 0:voyage maritime	Topic 0:navigation	Topic 0:Schiffahrt	Q3997 
+918	Puget_Periphas	61.17	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+919	Puget_Periphas	61.17	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+920	Puget_Periphas	61.17	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+921	Puget_Periphas	61.17	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+922	Puget_Periphas	61.17	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+923	Puttelange_Roi	91.44	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+924	Puttelange_Roi	91.44	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+925	Puttelange_Roi	91.44	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+926	Puttelange_Roi	91.44	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+927	Puttelange_Roi	91.44	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+928	Puttelange_Roi	91.44	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+929	Puttelange_Roi	91.44	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+930	Quesne_Folies	00.127	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+931	Quesne_Folies	00.127	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+932	Quesne_Folies	00.127	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+933	Quesne_Folies	00.127	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+934	Quesne_Folies	00.127	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+935	Quesne_Folies	00.127	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+936	Quesne_Folies	00.127	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+937	Retif_AntiJustine	98.84	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+938	Retif_AntiJustine	98.84	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+939	Retif_AntiJustine	98.84	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+940	Retif_AntiJustine	98.84	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+941	Retif_AntiJustine	98.84	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+942	Retif_AntiJustine	98.84	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+943	Retif_Paysan	76.44	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+944	Retif_Paysan	76.44	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+945	Retif_Paysan	76.44	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+946	Retif_Paysan	76.44	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+947	Retif_Paysan	76.44	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+948	Retif_Paysan	76.44	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+949	Retif_Paysanne	84.58	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+950	Retif_Paysanne	84.58	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+951	Retif_Paysanne	84.58	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+952	Retif_Paysanne	84.58	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+953	Retif_Paysanne	84.58	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+954	Retif_Sara	83.48	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+955	Retif_Sara	83.48	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+956	Retif_Sara	83.48	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+957	Retif_Sara	83.48	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+958	Retif_Sara	83.48	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+959	Retif_Sara	83.48	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+960	Retif_Vie	79.31	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+961	Retif_Vie	79.31	Topic 3:famille	Topic 3:family	Topic 3:Familie	Q2907
+962	Retif_Vie	79.31	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+963	Retif_Vie	79.31	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+964	Retif_Vie	79.31	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+965	Retif_Vie	79.31	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+966	Reveroni_Pauliska	98.85	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+967	Reveroni_Pauliska	98.85	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+968	Reveroni_Pauliska	98.85	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+969	Reveroni_Pauliska	98.85	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+970	Reveroni_Pauliska	98.85	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+971	Riccoboni_Ernestine	65.40	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+972	Riccoboni_Ernestine	65.40	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+973	Riccoboni_Ernestine	65.40	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+974	Riccoboni_Ernestine	65.40	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+975	Riccoboni_Ernestine	65.40	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+976	Riccoboni_Ernestine	65.40	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+977	Riccoboni_Ernestine	65.40	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+978	Riccoboni_Histoire	58.17	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+979	Riccoboni_Histoire	58.17	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+980	Riccoboni_Histoire	58.17	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+981	Riccoboni_Histoire	58.17	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+982	Riccoboni_Histoire	58.17	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+983	Riccoboni_Histoire	58.17	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+984	Riccoboni_Histoire	58.17	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+985	Riccoboni_LettreJuliette	59.22	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+986	Riccoboni_LettreJuliette	59.22	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+987	Riccoboni_LettreJuliette	59.22	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+988	Riccoboni_LettreJuliette	59.22	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+989	Riccoboni_LettreJuliette	59.22	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+990	Riccoboni_LettreJuliette	59.22	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+991	Riccoboni_LettreJuliette	59.22	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+992	Riccoboni_LettresAdelaide	67.44	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+993	Riccoboni_LettresAdelaide	67.44	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+994	Riccoboni_LettresAdelaide	67.44	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+995	Riccoboni_LettresAdelaide	67.44	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+996	Riccoboni_LettresAdelaide	67.44	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+997	Riccoboni_LettresAdelaide	67.44	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+998	Riccoboni_LettresAdelaide	67.44	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+999	Riccoboni_LettresFanni	57.12	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+1000	Riccoboni_LettresFanni	57.12	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+1001	Riccoboni_LettresFanni	57.12	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+1002	Riccoboni_LettresFanni	57.12	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+1003	Riccoboni_LettresFanni	57.12	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+1004	Riccoboni_LettresFanni	57.12	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+1005	Riccoboni_LettresFanni	57.12	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	x
+1006	Riccoboni_MissJenny	64.39	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+1007	Riccoboni_MissJenny	64.39	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+1008	Riccoboni_MissJenny	64.39	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+1009	Riccoboni_MissJenny	64.39	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+1010	Riccoboni_MissJenny	64.39	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+1011	Riccoboni_MissJenny	64.39	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+1012	Riccoboni_MissJenny	64.39	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+1013	Riccoboni_MissJenny	64.39	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+1014	Riccoboni_MylordRivers	77.57	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q3011
+1015	Riccoboni_MylordRivers	77.57	Topic 7:titres_relation social	Topic 7:titles_social relationship	Topic 7:Titel_Soziale Beziehung	Q2775
+1016	Riccoboni_MylordRivers	77.57	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+1017	Riccoboni_MylordRivers	77.57	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+1018	Riccoboni_MylordRivers	77.57	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+1019	Riccoboni_MylordRivers	77.57	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+1020	Riccoboni_MylordRivers	77.57	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+1021	Ripault_Journee	97.61	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+1022	Ripault_Journee	97.61	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1023	Ripault_Journee	97.61	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1024	Ripault_Journee	97.61	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+1025	Ripault_Journee	97.61	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+1026	Ripault_Journee	97.61	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+1027	Rosny_Firmin	98.88	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+1028	Rosny_Firmin	98.88	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+1029	Rosny_Firmin	98.88	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+1030	Rosny_Firmin	98.88	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+1031	Rosny_Firmin	98.88	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+1032	Rosny_Firmin	98.88	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+1033	Rousseau_Emile	62.33	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+1034	Rousseau_Emile	62.33	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+1035	Rousseau_Emile	62.33	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1036	Rousseau_Emile	62.33	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+1037	Rousseau_Emile	62.33	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+1038	Rousseau_Emile	62.33	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+1039	Rousseau_Emile	62.33	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+1040	Rousseau_Emile	62.33	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+1041	Rousseau_Emile	62.33	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+1042	Rousseau_Julie	61.18	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+1043	Rousseau_Julie	61.18	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+1044	Rousseau_Julie	61.18	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+1045	Rousseau_Julie	61.18	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+1046	Rousseau_Julie	61.18	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+1047	Rousseau_Julie	61.18	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+1048	Rousseau_Julie	61.18	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+1049	Rousseau_Julie	61.18	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+1050	Rousseau_Reine	58.18	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+1051	Rousseau_Reine	58.18	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+1052	Rousseau_Reine	58.18	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+1053	Rousseau_Reine	58.18	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+1054	Rousseau_Reine	58.18	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+1055	Rousseau_Reine	58.18	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+1056	Rousseau_Reveries	0	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+1057	Rousseau_Reveries	0	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+1058	Rousseau_Reveries	0	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1059	Rousseau_Reveries	0	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+1060	Rousseau_Reveries	0	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+1061	Rousseau_Reveries	0	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+1062	Rousseau_Reveries	0	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+1063	Rousseau_Reveries	0	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+1064	Sacy_Amours	61.19	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+1065	Sacy_Amours	61.19	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+1066	Sacy_Amours	61.19	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+1067	Sacy_Amours	61.19	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+1068	Sacy_Amours	61.19	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+1069	Sacy_Amours	61.19	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+1070	Sacy_Amours	61.19	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+1071	Sade_120	1	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+1072	Sade_120	1	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1073	Sade_120	1	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1074	Sade_120	1	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+1075	Sade_120	1	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1076	Sade_120	1	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+1077	Sade_Aline	95.36	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+1078	Sade_Aline	95.36	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1079	Sade_Aline	95.36	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+1080	Sade_Aline	95.36	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+1081	Sade_Aline	95.36	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+1082	Sade_Crimes	00.135	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+1083	Sade_Crimes	00.135	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+1084	Sade_Crimes	00.135	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+1085	Sade_Crimes	00.135	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+1086	Sade_Crimes	00.135	Topic 26:relation amoureuse	Topic 26:romantic relationship	Topic 26:Liebesbeziehung 	Q3064
+1087	Sade_Crimes	00.135	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+1088	Sade_Infortunes	1	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+1089	Sade_Infortunes	1	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+1090	Sade_Infortunes	1	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+1091	Sade_Infortunes	1	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+1092	Sade_Infortunes	1	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+1093	Sade_Infortunes	1	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+1094	Sade_Justine	91.42	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+1095	Sade_Justine	91.42	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1096	Sade_Justine	91.42	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+1097	Sade_Justine	91.42	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+1098	Sade_Justine	91.42	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+1099	Sade_Justine	91.42	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+1100	Sade_Philosophie	95.37	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1101	Sade_Philosophie	95.37	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+1102	Sade_Philosophie	95.37	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+1103	Sade_Philosophie	95.37	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+1104	Sade_Philosophie	95.37	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+1105	Sade_Philosophie	95.37	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+1106	Sade_Philosophie	95.37	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+1107	Saurin_Mirza	54.31	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+1108	Saurin_Mirza	54.31	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+1109	Saurin_Mirza	54.31	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+1110	Saurin_Mirza	54.31	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+1111	Saurin_Mirza	54.31	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+1112	Saurin_Mirza	54.31	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+1113	Segur_Correspondance	89.104	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+1114	Segur_Correspondance	89.104	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+1115	Segur_Correspondance	89.104	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+1116	Segur_Correspondance	89.104	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+1117	Segur_Correspondance	89.104	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	Topic 8:[croire moins encore]	x
+1118	Segur_Correspondance	89.104	Topic 19:affection	Topic 19:affection	Topic 19:Zuneigung	Q3998
+1119	Senac_Emigre	97.74	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+1120	Senac_Emigre	97.74	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+1121	Senac_Emigre	97.74	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+1122	Senac_Emigre	97.74	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+1123	Senac_Emigre	97.74	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+1124	Senac_Emigre	97.74	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+1125	Souza_Adele	94.13	Topic 16:nuit	Topic 16:night	Topic 16:Nacht	Q3012
+1126	Souza_Adele	94.13	Topic 19:affection	Topic 19:affection	Topic 19:Zuneigung	Q3998
+1127	Souza_Adele	94.13	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+1128	Souza_Adele	94.13	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+1129	Souza_Adele	94.13	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+1130	Souza_Emilie	99.167	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+1131	Souza_Emilie	99.167	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+1132	Souza_Emilie	99.167	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+1133	Souza_Emilie	99.167	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+1134	Souza_Emilie	99.167	Topic 19:affection	Topic 19:affection	Topic 19:Zuneigung	Q3998
+1135	Tiphaigne_Amilec	53.33	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1136	Tiphaigne_Amilec	53.33	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+1137	Tiphaigne_Amilec	53.33	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	Topic 33:[porte grand voir]	x
+1138	Tiphaigne_Amilec	53.33	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+1139	Tiphaigne_Amilec	53.33	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+1140	Tiphaigne_Galligenes	65.50	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+1141	Tiphaigne_Galligenes	65.50	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1142	Tiphaigne_Galligenes	65.50	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+1143	Tiphaigne_Galligenes	65.50	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+1144	Tiphaigne_Galligenes	65.50	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+1145	Tiphaigne_Galligenes	65.50	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+1146	Tressan_Jehan	80.32	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+1147	Tressan_Jehan	80.32	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+1148	Tressan_Jehan	80.32	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+1149	Tressan_Jehan	80.32	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+1150	Tressan_Jehan	80.32	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	Topic 22:[bon petit dame]	x
+1151	Tressan_Jehan	80.32	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+1152	Tressan_Prince	80.33	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+1153	Tressan_Prince	80.33	Topic 25:noblesse	Topic 25:noblesse	Topic 25:Adel	Q3011
+1154	Tressan_Prince	80.33	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+1155	Tressan_Prince	80.33	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q2798
+1156	Tressan_Prince	80.33	Topic 5:beauté_pastorale en littérature	Topic 5:beauty_pastorale in litterature	Topic 5:Schönheit_Pastorale in der Literatur	Q3026
+1157	Tressan_Prince	80.33	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+1158	Villeneuve_Temps	68.54	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+1159	Villeneuve_Temps	68.54	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+1160	Villeneuve_Temps	68.54	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+1161	Villeneuve_Temps	68.54	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+1162	Villeneuve_Temps	68.54	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+1163	Villeneuve_Temps	68.54	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+1164	Villeneuve_Temps	68.54	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+1165	Voisenon_Histoire	51.42	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+1166	Voisenon_Histoire	51.42	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q2776
+1167	Voisenon_Histoire	51.42	Topic 35:amour_sentiment	Topic 35:Liebe_Gefühl	Topic 35:amour_sentiment	Q3087
+1168	Voisenon_Histoire	51.42	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+1169	Voisenon_Histoire	51.42	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+1170	Voisenon_Histoire	51.42	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+1171	Voisenon_Histoire	51.42	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+1172	Voisenon_Histoire	51.42	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+1173	Voltaire_Amabed	69.69	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+1174	Voltaire_Amabed	69.69	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1175	Voltaire_Amabed	69.69	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1176	Voltaire_Amabed	69.69	Topic 0:voyage maritime	Topic 0:navigation	Topic 0:Schiffahrt	Q3997 
+1177	Voltaire_Amabed	69.69	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+1178	Voltaire_Amabed	69.69	Topic 34:correspondance	Topic 34:correspondence	Topic 34:Korrespondenz	Q2844
+1179	Voltaire_Candide	59.25	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1180	Voltaire_Candide	59.25	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1181	Voltaire_Candide	59.25	Topic 0:voyage maritime	Topic 0:navigation	Topic 0:Schiffahrt	Q3997 
+1182	Voltaire_Candide	59.25	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+1183	Voltaire_Candide	59.25	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+1184	Voltaire_Candide	59.25	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+1185	Voltaire_Consoles	56.32	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+1186	Voltaire_Consoles	56.32	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+1187	Voltaire_Consoles	56.32	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+1188	Voltaire_Consoles	56.32	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1189	Voltaire_Consoles	56.32	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1190	Voltaire_Consoles	56.32	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	Topic 23:[femme homme esprit]	x
+1191	Voltaire_Consoles	56.32	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+1192	Voltaire_Eloge	75.43	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+1193	Voltaire_Eloge	75.43	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+1194	Voltaire_Eloge	75.43	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+1195	Voltaire_Eloge	75.43	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+1196	Voltaire_Eloge	75.43	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1197	Voltaire_Eloge	75.43	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1198	Voltaire_Eloge	75.43	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+1199	Voltaire_Homme	68.55	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+1200	Voltaire_Homme	68.55	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1201	Voltaire_Homme	68.55	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1202	Voltaire_Homme	68.55	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1203	Voltaire_Homme	68.55	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+1204	Voltaire_Homme	68.55	Topic 28:campagne	Topic 28:rural area	Topic 28:ländlicher Raum	Q3243
+1205	Voltaire_Ingenu	67.52	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+1206	Voltaire_Ingenu	67.52	Topic 9:famille2	Topic 9:family2	Topic 9:Familie2	Q2907
+1207	Voltaire_Ingenu	67.52	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+1208	Voltaire_Ingenu	67.52	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+1209	Voltaire_Ingenu	67.52	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q2863
+1210	Voltaire_Ingenu	67.52	Topic 17:fortune_vertu 	Topic 17:destiny_vertue	Topic 17:Schicksal_Tugend	Q3120
+1211	Voltaire_Jenni	75.44	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+1212	Voltaire_Jenni	75.44	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+1213	Voltaire_Jenni	75.44	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+1214	Voltaire_Jenni	75.44	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1215	Voltaire_Jenni	75.44	Topic 21:crime	Topic 21:crime	Topic 21:Verbrechen	Q2848
+1216	Voltaire_Jenni	75.44	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1217	Voltaire_Jenni	75.44	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1218	Voltaire_Micromegas	52.43	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1219	Voltaire_Micromegas	52.43	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1220	Voltaire_Micromegas	52.43	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1221	Voltaire_Micromegas	52.43	Topic 27:nature	Topic 27:nature	Topic 27:Natur	Q3005
+1222	Voltaire_Micromegas	52.43	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+1223	Voltaire_Micromegas	52.43	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+1224	Voltaire_Micromegas	52.43	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+1225	Voltaire_Oreilles	75.46	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1226	Voltaire_Oreilles	75.46	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1227	Voltaire_Oreilles	75.46	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1228	Voltaire_Oreilles	75.46	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+1229	Voltaire_Oreilles	75.46	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+1230	Voltaire_Oreilles	75.46	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+1231	Voltaire_Oreilles	75.46	Topic 37:richesse	Topic 37:wealth	Topic 37:Reichtum	Q3071
+1232	Voltaire_Princesse	68.56	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+1233	Voltaire_Princesse	68.56	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+1234	Voltaire_Princesse	68.56	Topic 38:voyage	Topic 38:travel	Topic 38:voyage	Q3126
+1235	Voltaire_Princesse	68.56	Topic 2:guerre	Topic 2:war	Topic 2:Krieg	Q2930
+1236	Voltaire_Princesse	68.56	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1237	Voltaire_Princesse	68.56	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1238	Voltaire_Scarmentado	56.32	Topic 14:religion	Topic 14:religion	Topic 14:Religion	Q3066
+1239	Voltaire_Scarmentado	56.32	Topic 0:voyage maritime	Topic 0:navigation	Topic 0:Schiffahrt	Q3997 
+1240	Voltaire_Scarmentado	56.32	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1241	Voltaire_Scarmentado	56.32	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1242	Voltaire_Scarmentado	56.32	Topic 4:philosophie	Topic 4:philosophy	Topic 4:Philosophie	Q3039
+1243	Voltaire_Scarmentado	56.32	Topic 32:état	Topic 32:state	Topic 32:Staat	Q2901
+1244	Voltaire_Songe	56.32	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3066
+1245	Voltaire_Songe	56.32	Topic 31:religion_philosophie	Topic 31:religion_philosophy	Topic 31:Religion_Philosophie	Q3039
+1246	Voltaire_Songe	56.32	Topic 20:art	Topic 20:art	Topic 20:Kunst	Q2787
+1247	Voltaire_Songe	56.32	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+1248	Voltaire_Songe	56.32	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+1249	Voltaire_Songe	56.32	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
+1250	Voltaire_Songe	56.32	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+1251	Voltaire_Taureau	74.33	Topic 39:monarchie	Topic 39:monarchy	Topic 39:Monarchie	Q2994
+1252	Voltaire_Taureau	74.33	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q2772
+1253	Voltaire_Taureau	74.33	Topic 12:alimentation_sociabilité	Topic 12:aliment_sociability	Topic 12:Nahrung_Soziabilität	Q3089
+1254	Voltaire_Taureau	74.33	Topic 29:deuil	Topic 29:mourning	Topic 29:Trauer	Q2864
+1255	Voltaire_Taureau	74.33	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	Topic 18:[paraître recevoir personne]	x
+1256	Voltaire_Taureau	74.33	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2882
+1257	Voltaire_Taureau	74.33	Topic 24:éducation_enfance	Topic 24:education_childhood	Topic 24:Bildung_Kindheit	Q2891
